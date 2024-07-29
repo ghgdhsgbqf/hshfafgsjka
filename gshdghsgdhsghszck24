@@ -1,0 +1,603 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="http://brn-tv.xyz/logo/lokal/trans7.png" group-title="LOKAL ID",TRANS 7
+http://iptvkita.my.id:25461/zack24/zack24/1
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="http://brn-tv.xyz/logo/lokal/transtv.png" group-title="LOKAL ID",TRANS TV
+http://iptvkita.my.id:25461/zack24/zack24/2
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://brn-tv.xyz/logo/lokal/indosiar.png" group-title="LOKAL ID",INDOSIAR
+http://iptvkita.my.id:25461/zack24/zack24/3
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://brn-tv.xyz/logo/lokal/sctv.png" group-title="LOKAL ID",SCTV
+http://iptvkita.my.id:25461/zack24/zack24/4
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://brn-tv.xyz/logo/lokal/rcti.png" group-title="LOKAL ID",RCTI
+http://iptvkita.my.id:25461/zack24/zack24/5
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://brn-tv.xyz/logo/lokal/mnctv.png" group-title="LOKAL ID",MNC TV
+http://iptvkita.my.id:25461/zack24/zack24/6
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://brn-tv.xyz/logo/lokal/gtv.png" group-title="LOKAL ID",GTV
+http://iptvkita.my.id:25461/zack24/zack24/7
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="http://brn-tv.xyz/logo/lokal/tvone.png" group-title="LOKAL ID",iNEWS
+http://iptvkita.my.id:25461/zack24/zack24/8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://brn-tv.xyz/logo/lokal/antv.png" group-title="LOKAL ID",ANTV
+http://iptvkita.my.id:25461/zack24/zack24/9
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="http://brn-tv.xyz/logo/lokal/tvone.png" group-title="LOKAL ID",TV ONE
+http://iptvkita.my.id:25461/zack24/zack24/10
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://brn-tv.xyz/logo/lokal/nettv.png" group-title="LOKAL ID",NET TV
+http://iptvkita.my.id:25461/zack24/zack24/11
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://brn-tv.xyz/logo/lokal/metrotv.png" group-title="LOKAL ID",METRO TV
+http://iptvkita.my.id:25461/zack24/zack24/12
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://brn-tv.xyz/logo/lokal/kompastv.png" group-title="LOKAL ID",KOMPAS TV
+http://iptvkita.my.id:25461/zack24/zack24/13
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://brn-tv.xyz/logo/lokal/rtv.png" group-title="LOKAL ID",RTV
+http://iptvkita.my.id:25461/zack24/zack24/14
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://brn-tv.xyz/logo/lokal/tvri.png" group-title="LOKAL ID",TVRI
+http://iptvkita.my.id:25461/zack24/zack24/15
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://brn-tv.xyz/logo/lokal/beritasatu.png" group-title="LOKAL ID",BERITA SATU
+http://iptvkita.my.id:25461/zack24/zack24/16
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 NS" tvg-logo="https://brn-tv.xyz/logo/lokal/trans7.png" group-title="LOKAL NS",TRANS 7 NS
+http://iptvkita.my.id:25461/zack24/zack24/2661
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/transtv.png" group-title="LOKAL NS",TRANS TV NS
+http://iptvkita.my.id:25461/zack24/zack24/2662
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR NS" tvg-logo="https://brn-tv.xyz/logo/lokal/indosiar.png" group-title="LOKAL NS",INDOSIAR NS
+http://iptvkita.my.id:25461/zack24/zack24/2663
+#EXTINF:-1 tvg-id="" tvg-name="SCTV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/sctv.png" group-title="LOKAL NS",SCTV NS
+http://iptvkita.my.id:25461/zack24/zack24/2664
+#EXTINF:-1 tvg-id="" tvg-name="RCTI NS" tvg-logo="https://brn-tv.xyz/logo/lokal/rcti.png" group-title="LOKAL NS",RCTI NS
+http://iptvkita.my.id:25461/zack24/zack24/2665
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/mnctv.png" group-title="LOKAL NS",MNC TV NS
+http://iptvkita.my.id:25461/zack24/zack24/2666
+#EXTINF:-1 tvg-id="" tvg-name="GTV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/gtv.png" group-title="LOKAL NS",GTV NS
+http://iptvkita.my.id:25461/zack24/zack24/2667
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS NS" tvg-logo="https://brn-tv.xyz/logo/lokal/inews.png" group-title="LOKAL NS",iNEWS NS
+http://iptvkita.my.id:25461/zack24/zack24/2668
+#EXTINF:-1 tvg-id="" tvg-name="ANTV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/antv.png" group-title="LOKAL NS",ANTV NS
+http://iptvkita.my.id:25461/zack24/zack24/2669
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE NS" tvg-logo="https://brn-tv.xyz/logo/lokal/tvone.png" group-title="LOKAL NS",TV ONE NS
+http://iptvkita.my.id:25461/zack24/zack24/2670
+#EXTINF:-1 tvg-id="" tvg-name="NET TV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/nettv.png" group-title="LOKAL NS",NET TV NS
+http://iptvkita.my.id:25461/zack24/zack24/2671
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/metrotv.png" group-title="LOKAL NS",METRO TV NS
+http://iptvkita.my.id:25461/zack24/zack24/2672
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV NS" tvg-logo="https://brn-tv.xyz/logo/lokal/kompastv.png" group-title="LOKAL NS",KOMPAS TV NS
+http://iptvkita.my.id:25461/zack24/zack24/2673
+#EXTINF:-1 tvg-id="" tvg-name="MOJI NS" tvg-logo="https://brn-tv.xyz/logo/sports/moji.png" group-title="LOKAL NS",MOJI NS
+http://iptvkita.my.id:25461/zack24/zack24/2674
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="https://brn-tv.xyz/logo/relax/tom_jerry.png" group-title="KIDS",TOM & JERRY
+http://iptvkita.my.id:25461/zack24/zack24/2675
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://brn-tv.xyz/logo/movie/hbo.png" group-title="MOVIE",HBO
+http://iptvkita.my.id:25461/zack24/zack24/17
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://brn-tv.xyz/logo/movie/hbo_hits.png" group-title="MOVIE",HBO HITS
+http://iptvkita.my.id:25461/zack24/zack24/18
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://brn-tv.xyz/logo/movie/hbo_sign.png" group-title="MOVIE",HBO SIGN
+http://iptvkita.my.id:25461/zack24/zack24/19
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://brn-tv.xyz/logo/movie/hbo_family.png" group-title="MOVIE",HBO FAMILY
+http://iptvkita.my.id:25461/zack24/zack24/20
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://brn-tv.xyz/logo/movie/galaxy.png" group-title="MOVIE",GALAXY
+http://iptvkita.my.id:25461/zack24/zack24/34
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://brn-tv.xyz/logo/movie/galaxy_premium.png" group-title="MOVIE",GALAXY PREMIUM
+http://iptvkita.my.id:25461/zack24/zack24/35
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://brn-tv.xyz/logo/movie/cinemax.png" group-title="MOVIE",CINEMAX
+http://iptvkita.my.id:25461/zack24/zack24/21
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop_indonesia.png" group-title="MOVIE",BIOSKOP INDONESIA HD
+http://iptvkita.my.id:25461/zack24/zack24/22
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://brn-tv.xyz/logo/movie/flik.png" group-title="MOVIE",FLIK
+http://iptvkita.my.id:25461/zack24/zack24/23
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://brn-tv.xyz/logo/movie/imc.png" group-title="MOVIE",IMC
+http://iptvkita.my.id:25461/zack24/zack24/24
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://brn-tv.xyz/logo/movie/warner.png" group-title="MOVIE",WARNER TV
+http://iptvkita.my.id:25461/zack24/zack24/25
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://brn-tv.xyz/logo/movie/ccm.png" group-title="MOVIE",CCM
+http://iptvkita.my.id:25461/zack24/zack24/26
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://brn-tv.xyz/logo/movie/celestial_movies.png" group-title="MOVIE",CELESTIAL MOVIES
+http://iptvkita.my.id:25461/zack24/zack24/27
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://brn-tv.xyz/logo/movie/zee_bioskop.png" group-title="MOVIE",ZEE BIOSKOP
+http://iptvkita.my.id:25461/zack24/zack24/28
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://brn-tv.xyz/logo/movie/rock_action.png" group-title="MOVIE",ROCK ACTION
+http://iptvkita.my.id:25461/zack24/zack24/29
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://brn-tv.xyz/logo/movie/axn.png" group-title="MOVIE",AXN
+http://iptvkita.my.id:25461/zack24/zack24/30
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://brn-tv.xyz/logo/movie/my_cinema.png" group-title="MOVIE",KIX
+http://iptvkita.my.id:25461/zack24/zack24/31
+#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://brn-tv.xyz/logo/movie/thrill.png" group-title="MOVIE",THRILL
+http://iptvkita.my.id:25461/zack24/zack24/32
+#EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://brn-tv.xyz/logo/movie/tvn_movies.png" group-title="MOVIE",TvN MOVIE
+http://iptvkita.my.id:25461/zack24/zack24/33
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://brn-tv.xyz/logo/movie/cinema_world.png" group-title="MOVIE",CINEMA WORLD
+http://iptvkita.my.id:25461/zack24/zack24/36
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://brn-tv.xyz/logo/movie/hits.png" group-title="MOVIE",HITS
+http://iptvkita.my.id:25461/zack24/zack24/37
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://brn-tv.xyz/logo/movie/hits_movies.png" group-title="MOVIE",HITS MOVIES
+http://iptvkita.my.id:25461/zack24/zack24/38
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://brn-tv.xyz/logo/movie/cinemachi.png" group-title="MOVIE",CINEMACHI
+http://iptvkita.my.id:25461/zack24/zack24/39
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://brn-tv.xyz/logo/movie/cinemachi_action.png" group-title="MOVIE",CINEMACHI ACTION
+http://iptvkita.my.id:25461/zack24/zack24/40
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://brn-tv.xyz/logo/movie/cinemachi_max.png" group-title="MOVIE",CINEMACHI MAX
+http://iptvkita.my.id:25461/zack24/zack24/41
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://brn-tv.xyz/logo/movie/cinemachi_xtra.png" group-title="MOVIE",CINEMACHI EXTRA
+http://iptvkita.my.id:25461/zack24/zack24/42
+#EXTINF:-1 tvg-id="" tvg-name="My CINEMA" tvg-logo="https://brn-tv.xyz/logo/movie/my_cinema.png" group-title="MOVIE",My CINEMA
+http://iptvkita.my.id:25461/zack24/zack24/43
+#EXTINF:-1 tvg-id="" tvg-name="My CINEMA Asia" tvg-logo="https://brn-tv.xyz/logo/movie/my_cinema_asia.png" group-title="MOVIE",My CINEMA Asia
+http://iptvkita.my.id:25461/zack24/zack24/44
+#EXTINF:-1 tvg-id="" tvg-name="My FAMILY Channel" tvg-logo="https://brn-tv.xyz/logo/movie/my_family.png" group-title="MOVIE",My FAMILY Channel
+http://iptvkita.my.id:25461/zack24/zack24/45
+#EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="https://brn-tv.xyz/logo/entertainment/dunialain.png" group-title="ENTERTAINMENT",DUNIA LAIN
+http://iptvkita.my.id:25461/zack24/zack24/46
+#EXTINF:-1 tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="https://brn-tv.xyz/logo/entertainment/chinese_drama.png" group-title="ENTERTAINMENT",CHINESE DRAMA
+http://iptvkita.my.id:25461/zack24/zack24/47
+#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://brn-tv.xyz/logo/entertainment/kplus.png" group-title="ENTERTAINMENT",K PLUS
+http://iptvkita.my.id:25461/zack24/zack24/48
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://brn-tv.xyz/logo/entertainment/one.png" group-title="ENTERTAINMENT",SONY ONE
+http://iptvkita.my.id:25461/zack24/zack24/49
+#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://brn-tv.xyz/logo/entertainment/gem.png" group-title="ENTERTAINMENT",SONY GEM
+http://iptvkita.my.id:25461/zack24/zack24/50
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://brn-tv.xyz/logo/entertainment/rock_enter.png" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT
+http://iptvkita.my.id:25461/zack24/zack24/51
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://brn-tv.xyz/logo/entertainment/tvn.png" group-title="ENTERTAINMENT",TVN
+http://iptvkita.my.id:25461/zack24/zack24/52
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://brn-tv.xyz/logo/entertainment/fmn.png" group-title="ENTERTAINMENT",FMN
+http://iptvkita.my.id:25461/zack24/zack24/53
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://brn-tv.xyz/logo/entertainment/tv5_monde.png" group-title="ENTERTAINMENT",TV 5 MONDE
+http://iptvkita.my.id:25461/zack24/zack24/54
+#EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://brn-tv.xyz/logo/entertainment/abc_australia.png" group-title="ENTERTAINMENT",ABC AUSTRALIA
+http://iptvkita.my.id:25461/zack24/zack24/55
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN IDOL" tvg-logo="https://brn-tv.xyz/logo/entertainment/american_idol.png" group-title="ENTERTAINMENT",AMERICAN IDOL
+http://iptvkita.my.id:25461/zack24/zack24/57
+#EXTINF:-1 tvg-id="" tvg-name="SURVIVOR" tvg-logo="https://brn-tv.xyz/logo/entertainment/survivor.png" group-title="ENTERTAINMENT",SURVIVOR
+http://iptvkita.my.id:25461/zack24/zack24/58
+#EXTINF:-1 tvg-id="" tvg-name="FEAR FACTOR" tvg-logo="https://brn-tv.xyz/logo/entertainment/fear_factor.png" group-title="ENTERTAINMENT",FEAR FACTOR
+http://iptvkita.my.id:25461/zack24/zack24/59
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://brn-tv.xyz/logo/entertainment/vision_prime.png" group-title="ENTERTAINMENT",VISION PRIME
+http://iptvkita.my.id:25461/zack24/zack24/60
+#EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://brn-tv.xyz/logo/entertainment/oktv.png" group-title="ENTERTAINMENT",OK TV
+http://iptvkita.my.id:25461/zack24/zack24/61
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://brn-tv.xyz/logo/entertainment/nhk_world.png" group-title="ENTERTAINMENT",NHK WORLD
+http://iptvkita.my.id:25461/zack24/zack24/62
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://brn-tv.xyz/logo/entertainment/nhk_world.png" group-title="ENTERTAINMENT",NHK WORLD PREMIUM
+http://iptvkita.my.id:25461/zack24/zack24/63
+#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://brn-tv.xyz/logo/entertainment/kbs_world.png" group-title="ENTERTAINMENT",KBS WORLD
+http://iptvkita.my.id:25461/zack24/zack24/64
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://brn-tv.xyz/logo/entertainment/cgtn.png" group-title="ENTERTAINMENT",CGTN
+http://iptvkita.my.id:25461/zack24/zack24/65
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://brn-tv.xyz/logo/entertainment/arirang.png" group-title="ENTERTAINMENT",ARIRANG
+http://iptvkita.my.id:25461/zack24/zack24/66
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://brn-tv.xyz/logo/knowledge/discovery.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+http://iptvkita.my.id:25461/zack24/zack24/67
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://brn-tv.xyz/logo/knowledge/natgeo.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+http://iptvkita.my.id:25461/zack24/zack24/68
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://brn-tv.xyz/logo/knowledge/natgeo_wild.png" group-title="KNOWLEDGE",NAT GEO WILD
+http://iptvkita.my.id:25461/zack24/zack24/69
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://brn-tv.xyz/logo/knowledge/animal_planet.png" group-title="KNOWLEDGE",ANIMAL PLANET
+http://iptvkita.my.id:25461/zack24/zack24/70
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://brn-tv.xyz/logo/knowledge/bbc_earth.png" group-title="KNOWLEDGE",BBC EARTH
+http://iptvkita.my.id:25461/zack24/zack24/71
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://brn-tv.xyz/logo/knowledge/love_nature.png" group-title="KNOWLEDGE",LOVE NATURE
+http://iptvkita.my.id:25461/zack24/zack24/72
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA" tvg-logo="https://brn-tv.xyz/logo/knowledge/discovery_asia.png" group-title="KNOWLEDGE",DISCOVERY ASIA
+http://iptvkita.my.id:25461/zack24/zack24/73
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME +" tvg-logo="https://brn-tv.xyz/logo/knowledge/extreme_plus.png" group-title="KNOWLEDGE",EXTREME +
+http://iptvkita.my.id:25461/zack24/zack24/74
+#EXTINF:-1 tvg-id="" tvg-name="4k TRAVEL" tvg-logo="https://brn-tv.xyz/logo/knowledge/4k_travel.png" group-title="KNOWLEDGE",4k TRAVEL
+http://iptvkita.my.id:25461/zack24/zack24/75
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://brn-tv.xyz/logo/knowledge/cgtn_doc.png" group-title="KNOWLEDGE",CGTN DOCUMENTARY
+http://iptvkita.my.id:25461/zack24/zack24/76
+#EXTINF:-1 tvg-id="" tvg-name="WILD PLANET" tvg-logo="https://brn-tv.xyz/logo/knowledge/wild_planet.png" group-title="KNOWLEDGE",WILD PLANET
+http://iptvkita.my.id:25461/zack24/zack24/77
+#EXTINF:-1 tvg-id="" tvg-name="ADVENTURE EARTH" tvg-logo="https://brn-tv.xyz/logo/knowledge/adventure_earth.png" group-title="KNOWLEDGE",ADVENTURE EARTH
+http://iptvkita.my.id:25461/zack24/zack24/78
+#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://brn-tv.xyz/logo/knowledge/inwild.png" group-title="KNOWLEDGE",INWILD
+http://iptvkita.my.id:25461/zack24/zack24/79
+#EXTINF:-1 tvg-id="" tvg-name="WILD EARTH" tvg-logo="https://brn-tv.xyz/logo/knowledge/wildearth.png" group-title="KNOWLEDGE",WILD EARTH
+http://iptvkita.my.id:25461/zack24/zack24/80
+#EXTINF:-1 tvg-id="" tvg-name="CLARITY" tvg-logo="https://brn-tv.xyz/logo/knowledge/clarity.png" group-title="KNOWLEDGE",CLARITY
+http://iptvkita.my.id:25461/zack24/zack24/81
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://brn-tv.xyz/logo/lifestyle/hgtv.png" group-title="LIFESTYLE",HGTV
+http://iptvkita.my.id:25461/zack24/zack24/82
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://brn-tv.xyz/logo/lifestyle/tlc.png" group-title="LIFESTYLE",TLC
+http://iptvkita.my.id:25461/zack24/zack24/83
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://brn-tv.xyz/logo/lifestyle/afn.png" group-title="LIFESTYLE",AFN
+http://iptvkita.my.id:25461/zack24/zack24/84
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://brn-tv.xyz/logo/lifestyle/lifetime.png" group-title="LIFESTYLE",LIFETIME
+http://iptvkita.my.id:25461/zack24/zack24/85
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://brn-tv.xyz/logo/lifestyle/fashiontv.png" group-title="LIFESTYLE",FASHION TV
+http://iptvkita.my.id:25461/zack24/zack24/86
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://brn-tv.xyz/logo/lifestyle/fashion_midnight.png" group-title="LIFESTYLE",FASHION TV MIDNIGHT
+http://iptvkita.my.id:25461/zack24/zack24/87
+#EXTINF:-1 tvg-id="" tvg-name="HOMEFUL" tvg-logo="https://brn-tv.xyz/logo/lifestyle/homeful.png" group-title="LIFESTYLE",HOMEFUL
+http://iptvkita.my.id:25461/zack24/zack24/88
+#EXTINF:-1 tvg-id="" tvg-name="TASTEMADE" tvg-logo="https://brn-tv.xyz/logo/lifestyle/tastemade.png" group-title="LIFESTYLE",TASTEMADE
+http://iptvkita.my.id:25461/zack24/zack24/89
+#EXTINF:-1 tvg-id="" tvg-name="AT HOME" tvg-logo="https://brn-tv.xyz/logo/lifestyle/at_home.png" group-title="LIFESTYLE",AT HOME
+http://iptvkita.my.id:25461/zack24/zack24/90
+#EXTINF:-1 tvg-id="" tvg-name="BBC HOME & GARDEN" tvg-logo="https://brn-tv.xyz/logo/lifestyle/bbc_homegarden.png" group-title="LIFESTYLE",BBC HOME & GARDEN
+http://iptvkita.my.id:25461/zack24/zack24/91
+#EXTINF:-1 tvg-id="" tvg-name="HOME REFRESH" tvg-logo="https://brn-tv.xyz/logo/lifestyle/home_refresh.png" group-title="LIFESTYLE",HOME REFRESH
+http://iptvkita.my.id:25461/zack24/zack24/92
+#EXTINF:-1 tvg-id="" tvg-name="HOME MADE NATION" tvg-logo="https://brn-tv.xyz/logo/lifestyle/home_made_nation.png" group-title="LIFESTYLE",HOME MADE NATION
+http://iptvkita.my.id:25461/zack24/zack24/93
+#EXTINF:-1 tvg-id="" tvg-name="NBC LX HOME" tvg-logo="https://brn-tv.xyz/logo/lifestyle/nbc_lx_home.png" group-title="LIFESTYLE",NBC LX HOME
+http://iptvkita.my.id:25461/zack24/zack24/94
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://brn-tv.xyz/logo/lifestyle/travelxp.png" group-title="LIFESTYLE",TRAVEL XP
+http://iptvkita.my.id:25461/zack24/zack24/95
+#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://brn-tv.xyz/logo/kids/larva.png" group-title="KIDS",LARVA
+http://iptvkita.my.id:25461/zack24/zack24/114
+#EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://brn-tv.xyz/logo/kids/upin_ipin.png" group-title="KIDS",UPIN IPIN
+http://iptvkita.my.id:25461/zack24/zack24/115
+#EXTINF:-1 tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="https://brn-tv.xyz/logo/kids/masha_bear.png" group-title="KIDS",MASHA & BEAR
+http://iptvkita.my.id:25461/zack24/zack24/116
+#EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="https://brn-tv.xyz/logo/kids/doraemon.png" group-title="KIDS",DORAEMAON
+http://iptvkita.my.id:25461/zack24/zack24/117
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://brn-tv.xyz/logo/kids/mentaritv.png" group-title="KIDS",MENTARI TV
+http://iptvkita.my.id:25461/zack24/zack24/118
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://brn-tv.xyz/logo/kids/astro_ceria.png" group-title="KIDS",ASTRO CERIA
+http://iptvkita.my.id:25461/zack24/zack24/119
+#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://brn-tv.xyz/logo/kids/horee.png" group-title="KIDS",HOREE
+http://iptvkita.my.id:25461/zack24/zack24/120
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://brn-tv.xyz/logo/kids/dreamworks.png" group-title="KIDS",DREAMWORS
+http://iptvkita.my.id:25461/zack24/zack24/121
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://brn-tv.xyz/logo/kids/cartoon_network.png" group-title="KIDS",CARTOON NETWORK
+http://iptvkita.my.id:25461/zack24/zack24/122
+#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://brn-tv.xyz/logo/kids/my_kidz.png" group-title="KIDS",MY KIDZ
+http://iptvkita.my.id:25461/zack24/zack24/123
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://brn-tv.xyz/logo/kids/nick_jr.png" group-title="KIDS",NICK JR
+http://iptvkita.my.id:25461/zack24/zack24/124
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://brn-tv.xyz/logo/kids/nickelodeon.png" group-title="KIDS",NICKELODEON
+http://iptvkita.my.id:25461/zack24/zack24/125
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://brn-tv.xyz/logo/kids/kids_tv.png" group-title="KIDS",KIDS TV
+http://iptvkita.my.id:25461/zack24/zack24/126
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://brn-tv.xyz/logo/kids/cinemachi_kids.png" group-title="KIDS",CINEMACHI KIDS
+http://iptvkita.my.id:25461/zack24/zack24/127
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://brn-tv.xyz/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS
+http://iptvkita.my.id:25461/zack24/zack24/128
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://brn-tv.xyz/logo/kids/animax.png" group-title="KIDS",ANIMAX
+http://iptvkita.my.id:25461/zack24/zack24/129
+#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://brn-tv.xyz/logo/kids/cbeebies.png" group-title="KIDS",CBEBIES
+http://iptvkita.my.id:25461/zack24/zack24/130
+#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://brn-tv.xyz/logo/kids/zoomoo.png" group-title="KIDS",ZOO MOO
+http://iptvkita.my.id:25461/zack24/zack24/131
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://brn-tv.xyz/logo/lokal/cnn_indonesia.png" group-title="NEWS",CNN INDONESIA
+http://iptvkita.my.id:25461/zack24/zack24/132
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://brn-tv.xyz/logo/news/cnn_international.png" group-title="NEWS",CNN INTERNATIONAL
+http://iptvkita.my.id:25461/zack24/zack24/133
+#EXTINF:-1 tvg-id="" tvg-name="CNN FAST" tvg-logo="https://brn-tv.xyz/logo/news/cnn_fast.png" group-title="NEWS",CNN FAST
+http://iptvkita.my.id:25461/zack24/zack24/134
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://brn-tv.xyz/logo/news/sky_news.png" group-title="NEWS",SKY NEWS
+http://iptvkita.my.id:25461/zack24/zack24/135
+#EXTINF:-1 tvg-id="" tvg-name="NBC NEWS" tvg-logo="https://brn-tv.xyz/logo/news/nbc_news.png" group-title="NEWS",NBC NEWS
+http://iptvkita.my.id:25461/zack24/zack24/136
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://brn-tv.xyz/logo/news/abc_news.png" group-title="NEWS",ABC NEWS
+http://iptvkita.my.id:25461/zack24/zack24/137
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://brn-tv.xyz/logo/news/bbc_world.png" group-title="NEWS",BBC WORLD
+http://iptvkita.my.id:25461/zack24/zack24/138
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://brn-tv.xyz/logo/news/aljazeera.png" group-title="NEWS",ALJAZEERA
+http://iptvkita.my.id:25461/zack24/zack24/139
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://brn-tv.xyz/logo/news/fox_news.png" group-title="NEWS",FOX NEWS
+http://iptvkita.my.id:25461/zack24/zack24/140
+#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://brn-tv.xyz/logo/news/rt_english.png" group-title="NEWS",RT ENGLISH
+http://iptvkita.my.id:25461/zack24/zack24/141
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://brn-tv.xyz/logo/news/euro_news.png" group-title="NEWS",EURO NEWS
+http://iptvkita.my.id:25461/zack24/zack24/142
+#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://brn-tv.xyz/logo/news/dw_tv.png" group-title="NEWS",DW ENGLISH
+http://iptvkita.my.id:25461/zack24/zack24/143
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://brn-tv.xyz/logo/news/france_24.png" group-title="NEWS",FRANCE 24
+http://iptvkita.my.id:25461/zack24/zack24/144
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://brn-tv.xyz/logo/news/cnbc_asia.png" group-title="NEWS",CNBC ASIA
+http://iptvkita.my.id:25461/zack24/zack24/145
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://brn-tv.xyz/logo/news/bloomberg.png" group-title="NEWS",BLOOMBERG
+http://iptvkita.my.id:25461/zack24/zack24/146
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://brn-tv.xyz/logo/news/cna.png" group-title="NEWS",CNA
+http://iptvkita.my.id:25461/zack24/zack24/147
+#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://brn-tv.xyz/logo/news/sindo_news.png" group-title="NEWS",SINDO NEWS
+http://iptvkita.my.id:25461/zack24/zack24/148
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://brn-tv.xyz/logo/news/cnbc_indonesia.png" group-title="NEWS",CNBC INDONESIA
+http://iptvkita.my.id:25461/zack24/zack24/149
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://brn-tv.xyz/logo/news/idx.png" group-title="NEWS",IDX
+http://iptvkita.my.id:25461/zack24/zack24/150
+#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://brn-tv.xyz/logo/news/sea_today.png" group-title="NEWS",SEA TODAY
+http://iptvkita.my.id:25461/zack24/zack24/151
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1ObwRMm5Yi3joLp5TRLK-AUQ.png" group-title="MUSIC",MTV LIVE
+http://iptvkita.my.id:25461/zack24/zack24/152
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgcKop4Z7kpyZq8XrZsFJ1OB-a4288V30eUqPBssA5xcg.png" group-title="MUSIC",MUSIC TV
+http://iptvkita.my.id:25461/zack24/zack24/153
+#EXTINF:-1 tvg-id="" tvg-name="NEW KPOP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXxbQJZr7-mHFP8WSmXj24xQ.png" group-title="MUSIC",NEW KPOP
+http://iptvkita.my.id:25461/zack24/zack24/154
+#EXTINF:-1 tvg-id="" tvg-name="RODJA TV" tvg-logo="https://brn-tv.xyz/logo/religi/rodja.png" group-title="RELIGI",RODJA TV
+http://iptvkita.my.id:25461/zack24/zack24/155
+#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://brn-tv.xyz/logo/religi/muslim_tv.png" group-title="RELIGI",MUSLIM TV
+http://iptvkita.my.id:25461/zack24/zack24/156
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="https://brn-tv.xyz/logo/religi/makkahtv.png" group-title="RELIGI",MAKKAH TV
+http://iptvkita.my.id:25461/zack24/zack24/157
+#EXTINF:-1 tvg-id="" tvg-name="TAWAF TV" tvg-logo="https://brn-tv.xyz/logo/religi/tawaf.png" group-title="RELIGI",TAWAF TV
+http://iptvkita.my.id:25461/zack24/zack24/158
+#EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://brn-tv.xyz/logo/religi/muhammadiyah.png" group-title="RELIGI",MUHAMMADIYAH TV
+http://iptvkita.my.id:25461/zack24/zack24/159
+#EXTINF:-1 tvg-id="" tvg-name="REFORMED 21" tvg-logo="https://brn-tv.xyz/logo/religi/reformed.png" group-title="RELIGI",REFORMED 21
+http://iptvkita.my.id:25461/zack24/zack24/160
+#EXTINF:-1 tvg-id="" tvg-name="LIFE" tvg-logo="https://brn-tv.xyz/logo/religi/life.png" group-title="RELIGI",LIFE
+http://iptvkita.my.id:25461/zack24/zack24/161
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://brn-tv.xyz/logo/religi/ewtn.png" group-title="RELIGI",EWTN
+http://iptvkita.my.id:25461/zack24/zack24/162
+#EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/jowo_channel.png" group-title="TV DAERAH",JOWO CHANNEL
+http://iptvkita.my.id:25461/zack24/zack24/163
+#EXTINF:-1 tvg-id="" tvg-name="SAKTI TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/saktitv.png" group-title="TV DAERAH",SAKTI TV
+http://iptvkita.my.id:25461/zack24/zack24/164
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/jtv.png" group-title="TV DAERAH",JTV
+http://iptvkita.my.id:25461/zack24/zack24/165
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/garudatv.png" group-title="TV DAERAH",GARUDA TV
+http://iptvkita.my.id:25461/zack24/zack24/166
+#EXTINF:-1 tvg-id="" tvg-name="SMTV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/smtv.png" group-title="TV DAERAH",SMTV
+http://iptvkita.my.id:25461/zack24/zack24/167
+#EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/bali_tv.png" group-title="TV DAERAH",BALI TV
+http://iptvkita.my.id:25461/zack24/zack24/168
+#EXTINF:-1 tvg-id="" tvg-name="BANDUNGTV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/bandung_tv.png" group-title="TV DAERAH",BANDUNGTV
+http://iptvkita.my.id:25461/zack24/zack24/169
+#EXTINF:-1 tvg-id="" tvg-name="TABALONG TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/tabalong.png" group-title="TV DAERAH",TABALONG TV
+http://iptvkita.my.id:25461/zack24/zack24/170
+#EXTINF:-1 tvg-id="" tvg-name="PADANG TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/padang_tv.png" group-title="TV DAERAH",PADANG TV
+http://iptvkita.my.id:25461/zack24/zack24/171
+#EXTINF:-1 tvg-id="" tvg-name="DUTA TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/duta.png" group-title="TV DAERAH",DUTA TV
+http://iptvkita.my.id:25461/zack24/zack24/172
+#EXTINF:-1 tvg-id="" tvg-name="KAWANUA TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/kawanua.png" group-title="TV DAERAH",KAWANUA TV
+http://iptvkita.my.id:25461/zack24/zack24/173
+#EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/jitv.png" group-title="TV DAERAH",JITV
+http://iptvkita.my.id:25461/zack24/zack24/174
+#EXTINF:-1 tvg-id="" tvg-name="SIMPANG 5 TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/simpang5.png" group-title="TV DAERAH",SIMPANG 5 TV
+http://iptvkita.my.id:25461/zack24/zack24/175
+#EXTINF:-1 tvg-id="" tvg-name="ADITV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/aditv.png" group-title="TV DAERAH",ADITV
+http://iptvkita.my.id:25461/zack24/zack24/176
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/tvku.png" group-title="TV DAERAH",TVKU
+http://iptvkita.my.id:25461/zack24/zack24/177
+#EXTINF:-1 tvg-id="" tvg-name="BTV BALIKPAPAN" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/btv.png" group-title="TV DAERAH",BTV BALIKPAPAN
+http://iptvkita.my.id:25461/zack24/zack24/178
+#EXTINF:-1 tvg-id="" tvg-name="JAMBI TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/jambitv.png" group-title="TV DAERAH",JAMBI TV
+http://iptvkita.my.id:25461/zack24/zack24/179
+#EXTINF:-1 tvg-id="" tvg-name="INSPIRA TV" tvg-logo="https://brn-tv.xyz/logo/tv_daerah/inspiratv.png" group-title="TV DAERAH",INSPIRA TV
+http://iptvkita.my.id:25461/zack24/zack24/180
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="https://brn-tv.xyz/logo/malaysia/boo.png" group-title="MALAYSIA",ASTRO BOO
+http://iptvkita.my.id:25461/zack24/zack24/181
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER" tvg-logo="https://brn-tv.xyz/logo/malaysia/premier.png" group-title="MALAYSIA",ASTRO PREMIER
+http://iptvkita.my.id:25461/zack24/zack24/182
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="https://brn-tv.xyz/logo/malaysia/oasis.png" group-title="MALAYSIA",ASTRO OASIS
+http://iptvkita.my.id:25461/zack24/zack24/183
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="https://brn-tv.xyz/logo/malaysia/rania.png" group-title="MALAYSIA",ASTRO RANIA
+http://iptvkita.my.id:25461/zack24/zack24/184
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AURA" tvg-logo="https://brn-tv.xyz/logo/malaysia/aura.png" group-title="MALAYSIA",ASTRO AURA
+http://iptvkita.my.id:25461/zack24/zack24/185
+#EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="https://brn-tv.xyz/logo/malaysia/awesome.png" group-title="MALAYSIA",AWESOME
+http://iptvkita.my.id:25461/zack24/zack24/186
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIE" tvg-logo="https://brn-tv.xyz/logo/malaysia/showcase.png" group-title="MALAYSIA",SHOWCASE MOVIE
+http://iptvkita.my.id:25461/zack24/zack24/187
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://brn-tv.xyz/logo/malaysia/tv1.png" group-title="MALAYSIA",TV 1
+http://iptvkita.my.id:25461/zack24/zack24/188
+#EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="https://brn-tv.xyz/logo/malaysia/tv2.png" group-title="MALAYSIA",TV 2
+http://iptvkita.my.id:25461/zack24/zack24/189
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="https://brn-tv.xyz/logo/malaysia/tv3.png" group-title="MALAYSIA",TV 3
+http://iptvkita.my.id:25461/zack24/zack24/190
+#EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="https://brn-tv.xyz/logo/malaysia/tv6.png" group-title="MALAYSIA",TV 6
+http://iptvkita.my.id:25461/zack24/zack24/191
+#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="https://brn-tv.xyz/logo/malaysia/tv8-my.png" group-title="MALAYSIA",TV 8
+http://iptvkita.my.id:25461/zack24/zack24/192
+#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="https://brn-tv.xyz/logo/malaysia/tv-9.png" group-title="MALAYSIA",TV 9
+http://iptvkita.my.id:25461/zack24/zack24/193
+#EXTINF:-1 tvg-id="" tvg-name="OKEY" tvg-logo="https://brn-tv.xyz/logo/malaysia/okey.png" group-title="MALAYSIA",OKEY
+http://iptvkita.my.id:25461/zack24/zack24/194
+#EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="https://brn-tv.xyz/logo/malaysia/rtb_aneka.png" group-title="MALAYSIA",RTB Aneka
+http://iptvkita.my.id:25461/zack24/zack24/195
+#EXTINF:-1 tvg-id="" tvg-name="RTB GO LIVE" tvg-logo="https://brn-tv.xyz/logo/malaysia/rtb_golive.png" group-title="MALAYSIA",RTB GO LIVE
+http://iptvkita.my.id:25461/zack24/zack24/196
+#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://brn-tv.xyz/logo/malaysia/rtb_sukmaindera.png" group-title="MALAYSIA",RTB Sukmaindera
+http://iptvkita.my.id:25461/zack24/zack24/197
+#EXTINF:-1 tvg-id="" tvg-name="IQIYI" tvg-logo="https://brn-tv.xyz/logo/malaysia/iqiyi.png" group-title="MALAYSIA",IQIYI
+http://iptvkita.my.id:25461/zack24/zack24/199
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://brn-tv.xyz/logo/malaysia/zee_cinema.png" group-title="MALAYSIA",ZEE CINEMA
+http://iptvkita.my.id:25461/zack24/zack24/200
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HINDI" tvg-logo="https://brn-tv.xyz/logo/malaysia/colors.png" group-title="MALAYSIA",COLORS HINDI
+http://iptvkita.my.id:25461/zack24/zack24/201
+#EXTINF:-1 tvg-id="" tvg-name="CH 5" tvg-logo="https://brn-tv.xyz/logo/singapore/ch5.png" group-title="SINGAPORE",CH 5
+http://iptvkita.my.id:25461/zack24/zack24/202
+#EXTINF:-1 tvg-id="" tvg-name="CH 8" tvg-logo="https://brn-tv.xyz/logo/singapore/ch8.png" group-title="SINGAPORE",CH 8
+http://iptvkita.my.id:25461/zack24/zack24/203
+#EXTINF:-1 tvg-id="" tvg-name="CH U" tvg-logo="https://brn-tv.xyz/logo/singapore/chu.png" group-title="SINGAPORE",CH U
+http://iptvkita.my.id:25461/zack24/zack24/204
+#EXTINF:-1 tvg-id="" tvg-name="SURIA" tvg-logo="https://brn-tv.xyz/logo/singapore/suria.png" group-title="SINGAPORE",SURIA
+http://iptvkita.my.id:25461/zack24/zack24/205
+#EXTINF:-1 tvg-id="" tvg-name="VASANTHAM" tvg-logo="https://brn-tv.xyz/logo/singapore/vasantham.png" group-title="SINGAPORE",VASANTHAM
+http://iptvkita.my.id:25461/zack24/zack24/206
+#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="https://brn-tv.xyz/logo/sports/moji.png" group-title="SPORT",MOJI
+http://iptvkita.my.id:25461/zack24/zack24/1782
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://brn-tv.xyz/logo/sports/spotv1.png" group-title="SPORT",SPOTV 1
+http://iptvkita.my.id:25461/zack24/zack24/207
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://brn-tv.xyz/logo/sports/spotv2.png" group-title="SPORT",SPOTV 2
+http://iptvkita.my.id:25461/zack24/zack24/208
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://brn-tv.xyz/logo/sports/soccer_channel.png" group-title="SPORT",SOCCER CHANNEL
+http://iptvkita.my.id:25461/zack24/zack24/209
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://brn-tv.xyz/logo/sports/bein_id.png" group-title="SPORT",BEIN 1 ID
+http://iptvkita.my.id:25461/zack24/zack24/210
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://brn-tv.xyz/logo/sports/bein_id.png" group-title="SPORT",BEIN 3 ID
+http://iptvkita.my.id:25461/zack24/zack24/211
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 1" tvg-logo="https://brn-tv.xyz/logo/sports/sportstars.png" group-title="SPORT",SPORTSTARS 1
+http://iptvkita.my.id:25461/zack24/zack24/212
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 2" tvg-logo="https://brn-tv.xyz/logo/sports/sportstars.png" group-title="SPORT",SPORTSTARS 2
+http://iptvkita.my.id:25461/zack24/zack24/213
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="SPOR ASTRO MY",ASSP 1
+http://iptvkita.my.id:25461/zack24/zack24/216
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="SPOR ASTRO MY",ASSP 2
+http://iptvkita.my.id:25461/zack24/zack24/217
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="SPOR ASTRO MY",ASSP 3
+http://iptvkita.my.id:25461/zack24/zack24/218
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="SPOR ASTRO MY",ASSP 4
+http://iptvkita.my.id:25461/zack24/zack24/219
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://brn-tv.xyz/logo/sports/astro_arena.png" group-title="SPOR ASTRO MY",ASTRO ARENA 1
+http://iptvkita.my.id:25461/zack24/zack24/220
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://brn-tv.xyz/logo/sports/astro_arena.png" group-title="SPOR ASTRO MY",ASTRO ARENA 2
+http://iptvkita.my.id:25461/zack24/zack24/221
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="https://brn-tv.xyz/logo/sports/bein_my.png" group-title="SPOR ASTRO MY",beIN SPORTS 1 MY
+http://iptvkita.my.id:25461/zack24/zack24/222
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="https://brn-tv.xyz/logo/sports/bein_my.png" group-title="SPOR ASTRO MY",beIN SPORTS 2 MY
+http://iptvkita.my.id:25461/zack24/zack24/223
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="https://brn-tv.xyz/logo/sports/bein_my.png" group-title="SPOR ASTRO MY",beIN SPORTS 3 MY
+http://iptvkita.my.id:25461/zack24/zack24/224
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="https://brn-tv.xyz/logo/astro_sports/spotv1.png" group-title="SPOR ASTRO MY",SPO TV 1 MY
+http://iptvkita.my.id:25461/zack24/zack24/225
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="https://brn-tv.xyz/logo/astro_sports/spotv2.png" group-title="SPOR ASTRO MY",SPO TV 2 MY
+http://iptvkita.my.id:25461/zack24/zack24/226
+#EXTINF:-1 tvg-id="" tvg-name="UNIFI SPORTS" tvg-logo="https://brn-tv.xyz/logo/sports/unifi_sports.png" group-title="SPOR ASTRO MY",UNIFI SPORTS
+http://iptvkita.my.id:25461/zack24/zack24/227
+#EXTINF:-1 tvg-id="" tvg-name="UNIFI SPORTS" tvg-logo="https://brn-tv.xyz/logo/sports/unifi_sports.png" group-title="SPOR ASTRO MY",UNIFI SPORTS
+http://iptvkita.my.id:25461/zack24/zack24/228
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER SPORTS" tvg-logo="https://brn-tv.xyz/logo/astro_sports/premiersports.png" group-title="SPOR ASTRO MY",PREMIER SPORTS
+http://iptvkita.my.id:25461/zack24/zack24/229
+#EXTINF:-1 tvg-id="" tvg-name="W-SPORTS" tvg-logo="https://brn-tv.xyz/logo/astro_sports/wsport.png" group-title="SPOR ASTRO MY",W-SPORTS
+http://iptvkita.my.id:25461/zack24/zack24/230
+#EXTINF:-1 tvg-id="" tvg-name="SUKAN RTM" tvg-logo="https://brn-tv.xyz/logo/sports/sukan_rtm.png" group-title="SPOR ASTRO MY",SUKAN RTM
+http://iptvkita.my.id:25461/zack24/zack24/231
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",Sky Sports Premier UK
+http://iptvkita.my.id:25461/zack24/zack24/232
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",Sky Sports Football UK
+http://iptvkita.my.id:25461/zack24/zack24/233
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events UK" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",Sky Sports Main Events UK
+http://iptvkita.my.id:25461/zack24/zack24/234
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action UK" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",Sky Sports Action UK
+http://iptvkita.my.id:25461/zack24/zack24/235
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",Sky Sports Arena UK
+http://iptvkita.my.id:25461/zack24/zack24/236
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",Sky Sports Golf
+http://iptvkita.my.id:25461/zack24/zack24/2538
+#EXTINF:-1 tvg-id="" tvg-name="F 1" tvg-logo="https://brn-tv.xyz/logo/sports/skysports_uk.png" group-title="SPORT VIP 1",F 1
+http://iptvkita.my.id:25461/zack24/zack24/2696
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://brn-tv.xyz/logo/sports/eurosports.png" group-title="SPORT VIP 1",EUROSPORTS 1 UK
+http://iptvkita.my.id:25461/zack24/zack24/237
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="https://brn-tv.xyz/logo/sports/eurosports.png" group-title="SPORT VIP 1",EUROSPORTS 2 UK
+http://iptvkita.my.id:25461/zack24/zack24/238
+#EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://brn-tv.xyz/logo/sports/tnt_sports2.png" group-title="SPORT VIP 2",TNT 1 HD
+http://iptvkita.my.id:25461/zack24/zack24/239
+#EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://brn-tv.xyz/logo/sports/tnt_sports2.png" group-title="SPORT VIP 2",TNT 2 HD
+http://iptvkita.my.id:25461/zack24/zack24/240
+#EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://brn-tv.xyz/logo/sports/tnt_sports2.png" group-title="SPORT VIP 2",TNT 3 HD
+http://iptvkita.my.id:25461/zack24/zack24/241
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://brn-tv.xyz/logo/sports/tnt_sports2.png" group-title="SPORT VIP 2",TNT 4 HD
+http://iptvkita.my.id:25461/zack24/zack24/242
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://brn-tv.xyz/logo/sports/dazn_eleven.png" group-title="SPORT VIP 1",DAZN ELEVEN 1
+http://iptvkita.my.id:25461/zack24/zack24/247
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" tvg-logo="https://brn-tv.xyz/logo/sports/dazn_eleven.png" group-title="SPORT VIP 1",DAZN ELEVEN 2
+http://iptvkita.my.id:25461/zack24/zack24/248
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" tvg-logo="https://brn-tv.xyz/logo/sports/dazn_eleven.png" group-title="SPORT VIP 1",DAZN ELEVEN 3
+http://iptvkita.my.id:25461/zack24/zack24/249
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" tvg-logo="https://brn-tv.xyz/logo/sports/dazn_eleven.png" group-title="SPORT VIP 1",DAZN ELEVEN 4
+http://iptvkita.my.id:25461/zack24/zack24/250
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="https://brn-tv.xyz/logo/sports/sporttv.png" group-title="SPORT VIP 2",SPORTTV 1
+http://iptvkita.my.id:25461/zack24/zack24/251
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://brn-tv.xyz/logo/sports/sporttv.png" group-title="SPORT VIP 2",SPORTTV 2
+http://iptvkita.my.id:25461/zack24/zack24/252
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://brn-tv.xyz/logo/sports/sporttv.png" group-title="SPORT VIP 2",SPORTTV 3
+http://iptvkita.my.id:25461/zack24/zack24/253
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 4" tvg-logo="https://brn-tv.xyz/logo/sports/sporttv.png" group-title="SPORT VIP 2",SPORTTV 4
+http://iptvkita.my.id:25461/zack24/zack24/254
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO 1" tvg-logo="https://brn-tv.xyz/logo/sports/ziggo.png" group-title="SPORT VIP 2",ZIGGO 1
+http://iptvkita.my.id:25461/zack24/zack24/262
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO 2" tvg-logo="https://brn-tv.xyz/logo/sports/ziggo.png" group-title="SPORT VIP 2",ZIGGO 2
+http://iptvkita.my.id:25461/zack24/zack24/263
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO 3" tvg-logo="https://brn-tv.xyz/logo/sports/ziggo.png" group-title="SPORT VIP 2",ZIGGO 3
+http://iptvkita.my.id:25461/zack24/zack24/264
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO 4" tvg-logo="https://brn-tv.xyz/logo/sports/ziggo.png" group-title="SPORT VIP 2",ZIGGO 4
+http://iptvkita.my.id:25461/zack24/zack24/265
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO 6" tvg-logo="https://brn-tv.xyz/logo/sports/ziggo.png" group-title="SPORT VIP 2",ZIGGO 6
+http://iptvkita.my.id:25461/zack24/zack24/266
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="https://brn-tv.xyz/logo/sports/ten1.png" group-title="SPORT VIP 2",SONY TEN 1
+http://iptvkita.my.id:25461/zack24/zack24/267
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="https://brn-tv.xyz/logo/sports/ten2.png" group-title="SPORT VIP 2",SONY TEN 2
+http://iptvkita.my.id:25461/zack24/zack24/268
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="https://brn-tv.xyz/logo/sports/ten3.png" group-title="SPORT VIP 2",SONY TEN 3
+http://iptvkita.my.id:25461/zack24/zack24/269
+#EXTINF:-1 tvg-id="" tvg-name="FOX 502" tvg-logo="https://brn-tv.xyz/logo/sports/502.png" group-title="SPORT VIP 2",FOX 502
+http://iptvkita.my.id:25461/zack24/zack24/270
+#EXTINF:-1 tvg-id="" tvg-name="FOX 504" tvg-logo="https://brn-tv.xyz/logo/sports/504.png" group-title="SPORT VIP 2",FOX 504
+http://iptvkita.my.id:25461/zack24/zack24/271
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET" tvg-logo="https://brn-tv.xyz/logo/sports/willow_cricket.png" group-title="SPOR ASTRO MY",WILLOW CRICKET
+http://iptvkita.my.id:25461/zack24/zack24/2537
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://brn-tv.xyz/logo/sports/ufc.png" group-title="SPORT",UFC
+http://iptvkita.my.id:25461/zack24/zack24/2539
+#EXTINF:-1 tvg-id="" tvg-name="FISHING NETWORKS" tvg-logo="https://brn-tv.xyz/logo/sports/fishing_network.png" group-title="SPORT",FISHING NETWORKS
+http://iptvkita.my.id:25461/zack24/zack24/2540
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP BOLLYWOOD" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="BIOSKOP 24/7",BIOSKOP BOLLYWOOD
+http://iptvkita.my.id:25461/zack24/zack24/2543
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP ACTION" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="BIOSKOP 24/7",BIOSKOP ACTION
+http://iptvkita.my.id:25461/zack24/zack24/2544
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="BIOSKOP 24/7",WARKOP DKI
+http://iptvkita.my.id:25461/zack24/zack24/2611
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN" tvg-logo="https://brn-tv.xyz/logo/relax/bean.png" group-title="KIDS",MR BEAN
+http://iptvkita.my.id:25461/zack24/zack24/2612
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="BIOSKOP 24/7",BIOSKOP INDONESIA
+http://iptvkita.my.id:25461/zack24/zack24/2613
+#EXTINF:-1 tvg-id="" tvg-name="SURAU TV" tvg-logo="https://i.imgur.com/4NoQLmT.png" group-title="RELIGI",SURAU TV
+http://iptvkita.my.id:25461/zack24/zack24/2614
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://i.imgur.com/NWVc8qM.png" group-title="LIVE EVENT",LIVE 1
+http://iptvkita.my.id:25461/zack24/zack24/2610
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://i.imgur.com/NWVc8qM.png" group-title="LIVE EVENT",LIVE 2
+http://iptvkita.my.id:25461/zack24/zack24/2615
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="https://i.imgur.com/NWVc8qM.png" group-title="LIVE EVENT",LIVE 3
+http://iptvkita.my.id:25461/zack24/zack24/2616
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="https://i.imgur.com/NWVc8qM.png" group-title="LIVE EVENT",LIVE 4
+http://iptvkita.my.id:25461/zack24/zack24/2617
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP CHINA" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="BIOSKOP 24/7",BIOSKOP CHINA
+http://iptvkita.my.id:25461/zack24/zack24/2633
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP HORROR" tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="BIOSKOP 24/7",BIOSKOP HORROR
+http://iptvkita.my.id:25461/zack24/zack24/2676
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ARENA 1" tvg-logo="https://i.imgur.com/yuRYV5v.png" group-title="SPORT VIP 1",SPORT ARENA 1
+http://iptvkita.my.id:25461/zack24/zack24/2677
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ARENA 2" tvg-logo="https://i.imgur.com/yuRYV5v.png" group-title="SPORT VIP 1",SPORT ARENA 2
+http://iptvkita.my.id:25461/zack24/zack24/2678
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ARENA 3" tvg-logo="https://i.imgur.com/yuRYV5v.png" group-title="SPORT VIP 1",SPORT ARENA 3
+http://iptvkita.my.id:25461/zack24/zack24/2679
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 1
+http://iptvkita.my.id:25461/zack24/zack24/2681
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 2
+http://iptvkita.my.id:25461/zack24/zack24/2682
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 3
+http://iptvkita.my.id:25461/zack24/zack24/2683
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 4
+http://iptvkita.my.id:25461/zack24/zack24/2684
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 5
+http://iptvkita.my.id:25461/zack24/zack24/2685
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 6
+http://iptvkita.my.id:25461/zack24/zack24/2691
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 7
+http://iptvkita.my.id:25461/zack24/zack24/2692
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.imgur.com/1n7T1EU.png" group-title="OLYMPIC PARIS 2024",OLYMPIC 8
+http://iptvkita.my.id:25461/zack24/zack24/2694
+#EXTINF:-1 tvg-id="" tvg-name="NBA 1" tvg-logo="https://i.imgur.com/F72HIHl.png" group-title="SPORT NBA & GOLF",NBA 1
+http://iptvkita.my.id:25461/zack24/zack24/2686
+#EXTINF:-1 tvg-id="" tvg-name="NBA 2" tvg-logo="https://i.imgur.com/F72HIHl.png" group-title="SPORT NBA & GOLF",NBA 2
+http://iptvkita.my.id:25461/zack24/zack24/2687
+#EXTINF:-1 tvg-id="" tvg-name="GOLF 1" tvg-logo="https://i.imgur.com/cVixXK3.png" group-title="SPORT NBA & GOLF",GOLF 1
+http://iptvkita.my.id:25461/zack24/zack24/2688
+#EXTINF:-1 tvg-id="" tvg-name="GOLF 2" tvg-logo="https://i.imgur.com/cVixXK3.png" group-title="SPORT NBA & GOLF",GOLF 2
+http://iptvkita.my.id:25461/zack24/zack24/2689
+#EXTINF:-1 tvg-id="" tvg-name="GOLF 3" tvg-logo="https://i.imgur.com/cVixXK3.png" group-title="SPORT NBA & GOLF",GOLF 3
+http://iptvkita.my.id:25461/zack24/zack24/2690
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 3" tvg-logo="https://brn-tv.xyz/logo/sports/sportstars.png" group-title="SPORT VIP",SPORTSTARS 3
+http://iptvkita.my.id:25461/zack24/zack24/214
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 4" tvg-logo="https://brn-tv.xyz/logo/sports/sportstars.png" group-title="SPORT VIP",SPORTSTARS 4
+http://iptvkita.my.id:25461/zack24/zack24/215
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="https://brn-tv.xyz/logo/sports/supersport.png" group-title="SPORT VIP",SuperSport Football
+http://iptvkita.my.id:25461/zack24/zack24/243
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="https://brn-tv.xyz/logo/sports/supersport.png" group-title="SPORT VIP",SuperSport Tennis
+http://iptvkita.my.id:25461/zack24/zack24/244
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="https://brn-tv.xyz/logo/sports/supersport.png" group-title="SPORT VIP",SuperSport Premier League
+http://iptvkita.my.id:25461/zack24/zack24/245
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport ACTION" tvg-logo="https://brn-tv.xyz/logo/sports/supersport.png" group-title="SPORT VIP",SuperSport ACTION
+http://iptvkita.my.id:25461/zack24/zack24/246
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport MotorSport" tvg-logo="https://brn-tv.xyz/logo/sports/supersport.png" group-title="SPORT VIP",SuperSport MotorSport
+http://iptvkita.my.id:25461/zack24/zack24/2695
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 1 AR
+http://iptvkita.my.id:25461/zack24/zack24/255
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 2 AR
+http://iptvkita.my.id:25461/zack24/zack24/256
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 3 AR
+http://iptvkita.my.id:25461/zack24/zack24/257
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 4 AR
+http://iptvkita.my.id:25461/zack24/zack24/258
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 5 AR
+http://iptvkita.my.id:25461/zack24/zack24/259
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 6 AR
+http://iptvkita.my.id:25461/zack24/zack24/260
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 AR" tvg-logo="https://brn-tv.xyz/logo/sports/bein_ar.png" group-title="SPORT VIP",beIN SPORTS 7 AR
+http://iptvkita.my.id:25461/zack24/zack24/261
