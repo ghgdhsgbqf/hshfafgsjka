@@ -702,18 +702,11 @@ https://re1.siar.us/madutv/hd720/chunks.m3u8
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Muslim.png", MNC Muslim
 https://melon-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJXXrq1RPKeAOBsuKAWOMf6l-Xl38jGmJxG6thohqf3Kc5mKXyB_1j2TA&s=10", Nihon Eiga Senmon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWqIGxwQCc5iZtheuxDjkdk4H3CrkPj3bZJQ&usqp=CAU", Toei TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png",Movie Plus Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Wowow_cinema.jpg/revision/latest/scale-to-width-down/250?cb=20200215065059",WOWOW Cinema Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="data:image/png;base64,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",SSC 1 Liga Arab
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -779,9 +772,6 @@ https://stream.sunset-media.ru:443/Free/Free/1.m3u8
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png", Kinopokaz Ru
 http://31.148.48.15:80/Kinopokaz/index.m3u8
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png", Kino Ru
-https://autopilot.catcast.tv/content/40381/index.m3u8
 
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo.png", HBO INDO HD
