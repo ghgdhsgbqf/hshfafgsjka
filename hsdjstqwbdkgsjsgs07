@@ -90,6 +90,22 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
 
 
 
+############# Olimpiade 2024
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 2 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 3 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 4 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 5 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 6 Paris 2024 Olympics
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 
 
