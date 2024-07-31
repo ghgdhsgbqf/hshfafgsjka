@@ -90,6 +90,22 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
 
 
 
+############# Olimpiade 2024
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 2 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 3 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 4 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 5 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 6 Paris 2024 Olympics
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 
 
@@ -969,8 +985,10 @@ https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg",2 MOJI No Acak
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg",2 MOJI TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/ochannel.m3u8
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpumZkg-6uJbBzxfQj55EvW8iNkdW4EOSWBg&s", 3 Final SCTV
 http://iptvkita.my.id:25461/zack24/zack24/4
