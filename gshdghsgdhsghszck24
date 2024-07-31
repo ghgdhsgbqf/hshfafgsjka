@@ -19,6 +19,9 @@
 
 
 
+
+
+
 #EXTINF:0 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="DTV | Doni TV",HBO (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -33,10 +36,7 @@ http://iptvkita.my.id:25461/zack24/zack24/1782
 
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", 1.1 Indosiar Firstmedia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
+http://iptvkita.my.id:25461/zack24/zack24/3
 ######## New Bioskop 
 
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/movie/bioskop_indonesia.png" group-title="DTV | Doni TV",Bioskop Indo 2
