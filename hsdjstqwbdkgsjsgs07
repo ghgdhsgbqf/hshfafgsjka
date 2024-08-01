@@ -42,6 +42,15 @@ http://iptvkita.my.id:25461/zack24/zack24/2613
 
 
 
+############# MU
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rEKrUL5.png" group-title="DTV | Doni TV", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+
+
+
+
 ##### Lokal New 
 
 #EXTINF:0 tvg-logo="http://brn-tv.xyz/logo/lokal/trans7.png" group-title="DTV | Doni TV",TRANS 7 HD
