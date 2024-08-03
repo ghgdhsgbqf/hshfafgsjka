@@ -19,6 +19,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
+#EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/kids/doraemon.png" group-title="DTV | Doni TV",Kids DORAEMAON
+http://iptvkita.my.id:25461/zack24/zack24/117
+
+#EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/kids/upin_ipin.png" group-title="DTV | Doni TV",Kids UPIN IPIN
+http://iptvkita.my.id:25461/zack24/zack24/115
+
+
 
 
 
