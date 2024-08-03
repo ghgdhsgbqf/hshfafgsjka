@@ -1,2 +1,4 @@
 #EXTM3U
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg",Kids Aniplus
 http://84.17.35.150:8080/xxxPenthouseRealityTVHD/tracks-v1a1/mono.m3u8?token=cjdDcmg1ekdyTmpLcjVXeXJyS0puSlN0cEp0OG1kcUczWW1aeDYycW5ZTERySU9uaXBtUnFhZVRnWlhYZmFtTmxxU3ZxWjZGbUxHSHJJeWZsYWM9
