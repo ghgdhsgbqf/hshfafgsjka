@@ -547,7 +547,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 #EXTINF:0 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/EHnkIHpU8AATSJH.jpg" ,Channel 6 Paris 2024 Olympics
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/pJMT1PM/Untitled-1-16.png", FIFA+
+#EXTINF:0 group-title="Sport" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png", FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -592,13 +592,13 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/79220
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=472007&extension=ts
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Bundesliga_Logo_%282017%29.svg" ,Liga Jerman 1
+#EXTINF:0 group-title="Sport" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOc4-SwEkhGQUOBkKz6CzboO2SqgK06ya1mHxBTw1Sh7cixnlGRgEylNGti5SmQvfG_prarLBJ8GuRQO7gLoPqJWGb4BErfyS9iWYTb9AR1ru4JjYWtceLWRIceRleDwLTZcxcAfuuAlaD/s1600/Bundesliga.png" ,Liga Jerman 1
 http://iptvkita.my.id:25461/zack24/zack24/250
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Bundesliga_Logo_%282017%29.svg" ,Liga Jerman 2
+#EXTINF:0 group-title="Sport" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOc4-SwEkhGQUOBkKz6CzboO2SqgK06ya1mHxBTw1Sh7cixnlGRgEylNGti5SmQvfG_prarLBJ8GuRQO7gLoPqJWGb4BErfyS9iWYTb9AR1ru4JjYWtceLWRIceRleDwLTZcxcAfuuAlaD/s1600/Bundesliga.png" ,Liga Jerman 2
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12503.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/Bundesliga_Logo_%282017%29.svg" ,Liga Jerman 3
+#EXTINF:0 group-title="Sport" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOc4-SwEkhGQUOBkKz6CzboO2SqgK06ya1mHxBTw1Sh7cixnlGRgEylNGti5SmQvfG_prarLBJ8GuRQO7gLoPqJWGb4BErfyS9iWYTb9AR1ru4JjYWtceLWRIceRleDwLTZcxcAfuuAlaD/s1600/Bundesliga.png" ,Liga Jerman 3
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12504.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.jpg" ,Liga Spanyol 1
@@ -748,63 +748,63 @@ http://iptvkita.my.id:25461/zack24/zack24/246
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/sports/supersport.png" group-title="Sport",SuperSport MotorSport
 http://iptvkita.my.id:25461/zack24/zack24/2695
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/new.jpg",TH:True Premiere Football 1 
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png",TH:True Premiere Football 1 
 http://filex.tv:8080/paramjeetsingh/002818/302733
  
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/new.jpg",TH:True Premiere Football 2 
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png",TH:True Premiere Football 2 
 http://filex.tv:8080/paramjeetsingh/002818/302734
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/wNYGk3w/true-premier-01.png",True Premier 1
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png",True Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/4SmpNz6/true-premier-02.png",True Premier 2
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png",True Premier 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/ZcwTYLb/true-premier-03.png"  ,True Premier 3
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png"  ,True Premier 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/fdKKkpR/true-premier-04.png"  ,True Premier 4
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png"  ,True Premier 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/5YkxQFS/true-premier-05.png"  ,True Premier 5
+#EXTINF:0 group-title="Sport" tvg-logo="https://pre-truebusiness.truecorp.co.th/images/bundle/tvs_true%20premier%20football%20HD+.png"  ,True Premier 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sports 1
+#EXTINF:0 group-title="Sport" tvg-logo="https://truesportpur.ca/sites/default/files/content/images/tools/ts_lives_upper_eng_rev.jpg",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sports 2
+#EXTINF:0 group-title="Sport" tvg-logo="https://truesportpur.ca/sites/default/files/content/images/tools/ts_lives_upper_eng_rev.jpg",True Sports 2
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sports 3
+#EXTINF:0 group-title="Sport" tvg-logo="https://truesportpur.ca/sites/default/files/content/images/tools/ts_lives_upper_eng_rev.jpg",True Sports 3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sports 4
+#EXTINF:0 group-title="Sport" tvg-logo="https://truesportpur.ca/sites/default/files/content/images/tools/ts_lives_upper_eng_rev.jpg",True Sports 4
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sports 5
+#EXTINF:0 group-title="Sport" tvg-logo="https://truesportpur.ca/sites/default/files/content/images/tools/ts_lives_upper_eng_rev.jpg",True Sports 5
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://i.ibb.co/T27wN4J/true-01.png",True Sports 7
+#EXTINF:0 group-title="Sport" tvg-logo="https://truesportpur.ca/sites/default/files/content/images/tools/ts_lives_upper_eng_rev.jpg",True Sports 7
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
