@@ -222,6 +222,7 @@ http://iptvkita.my.id:25461/zack24/zack24/3
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/ochannel.m3u8
 
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg", Moji
 http://iptvkita.my.id:25461/zack24/zack24/1782
 
@@ -231,9 +232,11 @@ http://iptvkita.my.id:25461/zack24/zack24/4
 #EXTINF:0 tvg-logo="http://brn-tv.xyz/logo/lokal/trans7.png" group-title="Live Event",TRANS 7 HD
 http://iptvkita.my.id:25461/zack24/zack24/1
 
+#EXTINF:0 group-title="Live Event" tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg", MOJI TV HD
+http://xtv.ooo:8080/83212539/43153928/350997
 
-
-
+#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", Indosiar HD 
+http://xtv.ooo:8080/83212539/43153928/350972
 
 
 
