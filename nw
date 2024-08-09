@@ -211,6 +211,13 @@
 
 ###################### Live Event 
 
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar Lancar
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://cors-proxy.cooks.fyi/https://basitv2.pages.dev/hindos2.m3u8
+
+
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/LxJunYKy0ztQiV1HwO9HTa1x6xQ=/0x112:720x518/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4844441/original/068246200_1716826160-Piala_AFF_U-19_-_Ilustrasi_Logo_AFF_ASEAN_Championship_U-19_copy.jpg", Doni TV
 https://krakenfiles.com/embed-video/rYF5cLlsZb
 
