@@ -389,6 +389,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/kompastv.png",KompasTV HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#EXTINF:0 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="Live Event",INDOSIAR
+http://103.127.209.247:8080/nvc247@home02/KznKIpJOV0/9
+
+
+
+
+
+
 
 
 
