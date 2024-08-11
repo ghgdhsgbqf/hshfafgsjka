@@ -97,25 +97,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/248.m3u8
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 3
-http://iptvtree.net:8080/everton/7def2e7e/298550
-http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.m3u8
+
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", 1 Indosiar Liga 1
 http://iptvkita.my.id:25461/zack24/zack24/3
 
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 3
-http://iptvtree.net:8080/everton/7def2e7e/298550
-http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.m3u8
 
 ######## New Bioskop 
 
