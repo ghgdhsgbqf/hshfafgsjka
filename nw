@@ -227,7 +227,13 @@ http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/241
 https://krakenfiles.com/embed-video/rYF5cLlsZb
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", Indosiar 
-http://iptvkita.my.id:25461/zack24/zack24/3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg", MOJI TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -394,9 +400,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/kompastv.png",KompasTV HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-
-#EXTINF:0 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="Live Event",INDOSIAR
-http://103.127.209.247:8080/nvc247@home02/KznKIpJOV0/9
 
 
 
