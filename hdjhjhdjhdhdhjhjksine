@@ -63,7 +63,13 @@ http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/248.m3u8
 
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", 1 Indosiar Liga 1 
-http://iptvkita.my.id:25461/zack24/zack24/3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 
 ######## New Bioskop 
 
