@@ -1,5 +1,6 @@
 #EXTM3U
 
+########## VOD Indonesia
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://cdn0-production-images-kly.akamaized.net/VREgDevXQ5PpIumB09QzC3dXiIs=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4659290/original/052470000_1700667570-Ancika_2.jpeg", Ancika 1995
 https://data01.mv21.cc/mv/ban/13-Ancika_2024.mp4
@@ -21,3 +22,33 @@ https://data04.streamku.xyz/mv/ban/15-Siksa_Neraka_2023.mp4
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1MDM4ZjAtYWJhZS00MTk5LThhMTEtYjcxMjlkMDIzODNlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Srimulat : Hidup Memang Comedy
 https://data04.streamku.xyz/mv/ban/17-Srimulat_Hidup_Memang_Komedi_2023.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSdJBemTFv_Wmnxy8jc8ZSaYGJqPLgSHoIqh3gwhZHk84UPWnCcrnedo&s=10", Sujud Terakhir Bapak
+https://data04.streamku.xyz/mv/ban/16-Sujud_Terakhir_Bapak_2024.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/37xNw1pMQg3uNeBGBoCtDzEQdcs-170x255.jpg", Demi Si Buah Hati
+https://data04.streamku.xyz/mv/ban/16-Demi_Si_Buah_Hati_2024.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/yJ7uXTYiFS21wYxluX3gAzfLDiU.jpg", Trinil
+https://data04.streamku.xyz/mv/ban/14-Trinil_2024.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/dXTRgZOSceHAokVkImxA443MPCV.jpg", Ayo Balikan
+https://data04.streamku.xyz/mv/ban/13-Ayo_Balikan_2024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/5F4a9rVCjpA9H9SOmO2ZyzDrbr7-152x228.jpg", Cinta Kiblat
+https://data01.mv21.cc/mv/ban/12-Cinta_Kiblat_2024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/15y6z3izu1gdNE9e9uCqwnI60CH-60x90.jpg", Mukidi
+https://data04.streamku.xyz/mv/ban/15-Mukidi_2024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/4t17t7iaDiTlPBE3ULWlZ3VeM0w-152x228.jpg", Agak Laen
+https://data01.mv21.cc/mv/ban/12-Agak_Laen_2023.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/A4kY5RKiPJ0sRknU4NojItr93Jr-152x228.jpg", Badarwuhi di Desa Penari
+https://data01.mv21.cc/mv/ban/8-Badarawuhi_Di_Desa_Penari_2024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/gTVVPEMdLFsMklvf6Yac8RP41mS-152x228.jpg", Pamali : Dusun Pocong
+https://data04.streamku.xyz/mv/ban/15-Pamali_Dusun_Pocong_2023.mp4
