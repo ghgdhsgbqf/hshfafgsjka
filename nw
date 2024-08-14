@@ -1178,7 +1178,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://cdn1-production-images-kly.akamaized.net/PS49rQ5RedGvWSIHOxwqYZTOprw=/0x160:720x566/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3535755/original/001295200_1628510748-Premier_League_-_ilustrasi_Logo_Premier_League.jpg" ,Liga Inggris 2
-http://iptvkita.my.id:25461/zack24/zack24/232
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://cdn1-production-images-kly.akamaized.net/PS49rQ5RedGvWSIHOxwqYZTOprw=/0x160:720x566/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3535755/original/001295200_1628510748-Premier_League_-_ilustrasi_Logo_Premier_League.jpg" ,Liga Inggris 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
