@@ -1673,12 +1673,13 @@ https://stream.hownetwork.xyz/yyy/tayuan-2023-webdl/2/480.m3u8
 
 ############### Movie 2024
 
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title=".NEW MOVIE 2024",Kingdom Planet the Apes (2024)
+#EXTINF:0 tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title="Movie 2024",Kingdom Planet the Apes (2024)
 https://stream.hownetwork.xyz/xxx/kingdom-of-the-planet-of-the-apes-2024-webdl_X_b2f3fa82/22/480.m3u8
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://www.glenbrookcinema.com.au/imagesDB/movies/TheGarfieldMovieSlideG.jpg" group-title=".NEW MOVIE 2024",The Garfield Movie (2024)
+#EXTINF:0tvg-logo="https://www.glenbrookcinema.com.au/imagesDB/movies/TheGarfieldMovieSlideG.jpg" group-title="Movie 2024",The Garfield Movie (2024)
 https://stream.hownetwork.xyz/xxx/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
 
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://assets-prd.ignimgs.com/2024/04/03/the-last-stop-in-yuma-county-button-1712168731263.jpg" ,The Last Stop in Yuma (2024)
