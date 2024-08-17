@@ -1585,11 +1585,14 @@ https://iptv.urfan.web.id/video/info.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/sAf9NnPMshs4UjNqJ551e3x5yRF-152x228.jpg", Bonnie (2024)
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/06720/ny8ki7a3kq5b_h/master.m3u8?t=6lmGeLUFVqL6hesVAbX0uTtkZGgY4KMEfAHOjqjHdWk&s=1723883038&e=10800&f=33604553&srv=49&asn=149925&sp=4000
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://cdn0-production-images-kly.akamaized.net/VREgDevXQ5PpIumB09QzC3dXiIs=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4659290/original/052470000_1700667570-Ancika_2.jpeg", Ancika 1995
 https://data01.mv21.cc/mv/ban/13-Ancika_2024.mp4
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg", Gampang Cuan
-https://data04.streamku.xyz/mv/ban/14-Gampang_Cuan_2023.mp4
+https://gdjpkwg5strc.hgagecdn.com/hls2/01/01568/3hb5zc48f6vh_,l,n,.urlset/master.m3u8?t=DeoEB5In2fpzAcNgIxVXl7MQArvEK4neQ4y681ZWxpc&s=1723882350&e=129600&f=10483005&srv=hfxFU136zlaX&i=0.4&sp=500&p1=hfxFU136zlaX&p2=hfxFU136zlaX&asn=149925
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://lsf.go.id/wp-content/uploads/2023/07/PF-Imam-Tanpa-Makmum.jpg", Imam Tanpa Makmum
 https://data04.streamku.xyz/mv/ban/18-Imam_Tanpa_Makmum_2023.mp4
@@ -1993,12 +1996,28 @@ https://streamtape.xyz/get_video?id=gvx0p34gmOiqeeX&expires=1723923325&ip=F0OPKR
 
 ############### Movie 2024
 
+#EXTINF:0 group-title="Movie 2024" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/jrVyGN0sQCqfN1Xqh7XfU8kToFw-60x90.jpg", Shark Warning (2024)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/06630/a7ft46kosr4o_h/master.m3u8?t=-5FGr-q4sZN0WLj0d5WPtMnTmH5kTjoIcupTecmTPAs&s=1723883478&e=10800&f=33151689&srv=18&asn=149925&sp=4000
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/07/8cdWjvZQUExUUTzyp4t6EDMubfO-60x90.jpg", Deadpool & Wolverine (2024)
+https://be6721.rcr72.waw04.cdn112.com/hls2/03/06584/qolgbopaoq82_h/master.m3u8?t=gYNHQ1ejbFjCNHhly0ZhEa2tMRQHYSxzd31ezjABNGo&s=1723883570&e=10800&f=32924464&srv=30&asn=149925&sp=4000
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/tE2vZ6HdlmKaBh0wpsvHCf7HJKo-60x90.jpg", Watchmen: Chapter I (2024)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/06713/cafge3ub1fnk_h/master.m3u8?t=HrHG7vJUnNQJlb1ALfMU7O60XNqrSUKdoFEzo-3X2ns&s=1723883792&e=10800&f=33565684&srv=46&asn=149925&sp=4000
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/kg7x4QZHAsOi2QDMYpSBR0cZapG-60x90.jpg", Robin and the Hoods (2024)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/06707/x3tge1wk2nja_h/master.m3u8?t=VySlpEr84IjCDThXQ9EwwNGaVHMsoci1SwhlGdET5wQ&s=1723883885&e=10800&f=33538618&srv=22&asn=149925&sp=4000
+
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/07/qayga07ICNDswm0cMJ8P3VwklFZ-152x228.jpg", Resident Evil: Death Island (2023)
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/06510/xpmzhrdcoqct_h/master.m3u8?t=rtP2GXFdQWEwK2PCN3g5v3vSqZ_ABmyqm2gRSn3hyx0&s=1723883305&e=10800&f=32554376&srv=53&asn=149925&sp=4000
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title=".NEW MOVIE 2024",Kingdom Planet the Apes (2024)
+#EXTINF:0 tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title="Movie 2024",Kingdom Planet the Apes (2024)
 https://stream.hownetwork.xyz/xxx/kingdom-of-the-planet-of-the-apes-2024-webdl_X_b2f3fa82/22/480.m3u8
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://www.glenbrookcinema.com.au/imagesDB/movies/TheGarfieldMovieSlideG.jpg" group-title=".NEW MOVIE 2024",The Garfield Movie (2024)
+#EXTINF:0tvg-logo="https://www.glenbrookcinema.com.au/imagesDB/movies/TheGarfieldMovieSlideG.jpg" group-title="Movie 2024",The Garfield Movie (2024)
 https://stream.hownetwork.xyz/xxx/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
 
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://assets-prd.ignimgs.com/2024/04/03/the-last-stop-in-yuma-county-button-1712168731263.jpg" ,The Last Stop in Yuma (2024)
@@ -2060,7 +2079,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/01/Saving.Biki
 
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://i0.wp.com/senatorpeters.com/wp-content/uploads/2024/08/wWWlclyWf4PLq9hOf8X5joVEJ6r.jpg?resize=60%2C90&ssl=1",Jackpot! (2024)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/09/Jackpot.2024.mp4/tracks-v1a1/mono.m3u8
-
 
 
 
