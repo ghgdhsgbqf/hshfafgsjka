@@ -1676,6 +1676,8 @@ https://stream.hownetwork.xyz/yyy/tayuan-2023-webdl/2/480.m3u8
 
 ############### Movie 2024
 
+#EXTINF:0 group-title="Movie 2024" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/07/qayga07ICNDswm0cMJ8P3VwklFZ-152x228.jpg", Resident Evil: Death Island (2023)
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/06510/xpmzhrdcoqct_h/master.m3u8?t=rtP2GXFdQWEwK2PCN3g5v3vSqZ_ABmyqm2gRSn3hyx0&s=1723883305&e=10800&f=32554376&srv=53&asn=149925&sp=4000
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 #EXTINF:0 tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title="Movie 2024",Kingdom Planet the Apes (2024)
