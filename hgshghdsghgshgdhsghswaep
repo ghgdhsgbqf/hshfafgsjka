@@ -1710,6 +1710,9 @@ https://stream.hownetwork.xyz/yyy/tayuan-2023-webdl/2/480.m3u8
 
 ############### Movie 2024
 
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-in-time-2011.jpg.webp", In Time 
+https://stream.hownetwork.xyz/xxx/in-time-2011-bluray/3/480.m3u8
+
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/01/film-roadkill-2024-lk21-d21.jpg.webp", Roadkill (2024)
 https://stream.hownetwork.xyz/xxx/roadkill-2024-webdl_X_3f1ae9ae/19/480.m3u8
 
