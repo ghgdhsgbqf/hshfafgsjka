@@ -791,7 +791,9 @@ http://iptvkita.my.id:25461/zack24/zack24/2544
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/movie/bioskop_indonesia.png" group-title="Movie",Bioskop Indo 2
-http://iptvkita.my.id:25461/zack24/zack24/2613
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg",CCM (Celestial Classic MV)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
