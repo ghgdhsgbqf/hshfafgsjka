@@ -12,6 +12,16 @@
 
 ###################### Live Event 
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1 Live : 1. Sepak Bola 2
+https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1 Live : 1. Sepak Bola 1 
+https://www.livedoomovies.com:4431/02_PremierHD1_480p/chunklist.m3u8
+
+
+
+
+
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",1 live : BRI Liga 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 34; en; OKJJDUDOZQ) ExoPlayerLib/2.15.1
 http://master-stream.my.id/live/6E3578867981AC471860460C260FAF76/241.ts
