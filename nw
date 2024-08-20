@@ -211,6 +211,12 @@
 
 ###################### Live Event 
 
+
+
+#EXTINF:0 group-title="Live Evet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+http://spmid.pw:80/play/wpE7MXNk8QQNxvVP-8ijpHCeicoQwa3yi6elzGeGqI8/ts
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 
