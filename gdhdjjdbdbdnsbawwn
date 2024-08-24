@@ -1760,12 +1760,14 @@ http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/af/be/f8/afbef81f9634ddcc1b80fa5637035bf3/afbef81f9634ddcc1b80fa5637035bf3.6.jpg", VID01
 https://cdn77-vid.others-cdn.com/j_gM8WNFQsKwGRsENy5a0w==,1724527749/videos/hls/af/be/f8/afbef81f9634ddcc1b80fa5637035bf3/hls-720p.m3u8
 
-############ Defloration Dewasa 
 #EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/20/3f/f0/203ff0b48010d2930f03ae6e9201bcdc/203ff0b48010d2930f03ae6e9201bcdc.20.jpg", VID02
-https://cdn77-vid.others-cdn.com/OUPnds25ZvKBLdXkpd4P2w==,1724526236/videos/hls/20/3f/f0/203ff0b48010d2930f03ae6e9201bcdc/hls-720p.m3u8-720p.m3u8
+https://cdn77-vid.others-cdn.com/OUPnds25ZvKBLdXkpd4P2w==,1724526236/videos/hls/20/3f/f0/203ff0b48010d2930f03ae6e9201bcdc/hls-720p.m3u8
 
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/a9/97/db/a997db6e467bff4c97153088dbbbe301/a997db6e467bff4c97153088dbbbe301.30.jpg", VID03
+https://gcore-vid.others-cdn.com/KmaxtUqpLpKsn8mZ-6X1dA==,1724529983/videos/hls/a9/97/db/a997db6e467bff4c97153088dbbbe301/hls-720p-b7928.m3u8
 
-
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/6a/0f/a2/6a0fa258085db96e403d67b179c91f32/6a0fa258085db96e403d67b179c91f32.25.jpg", VID04
+https://cdn77-vid.others-cdn.com/iWsCtaoYrjbbsCpy2QudVQ==,1724525238/videos/hls/6a/0f/a2/6a0fa258085db96e403d67b179c91f32/hls-720p.m3u8
 
 
 
