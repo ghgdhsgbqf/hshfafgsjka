@@ -214,7 +214,7 @@
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-http://spmid.pw:80/play/wpE7MXNk8QQNxvVP-8ijpHCeicoQwa3yi6elzGeGqI8/ts
+https://live2.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001724507106-0-0-4a033ba4f228a465448e9c35256976bd
 
 
 
@@ -228,9 +228,7 @@ https://www.livedoomovies.com:4431/02_PremierHD1_480p/chunklist.m3u8
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-#EXTVLCOPT:http-user-agent:OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
-https://menyalabasikutvhehe.pages.dev/sniffmululu2.m3u8
-
+https://live2.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001724484096-0-0-0217dd315371ceb55cb06ac4da6e3d29
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/LxJunYKy0ztQiV1HwO9HTa1x6xQ=/0x112:720x518/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4844441/original/068246200_1716826160-Piala_AFF_U-19_-_Ilustrasi_Logo_AFF_ASEAN_Championship_U-19_copy.jpg", Doni TV
 https://krakenfiles.com/embed-video/rYF5cLlsZb
@@ -276,7 +274,8 @@ http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/248.m3u8
 https://tukangsniffdatang.basitv.lol/awasssss/sniffff/disini/mamaakudisnif.m3u8
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 3
-https://live2.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001724400836-0-0-4428348b0b1807cf025fc5f938894f42
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/indosiarTV.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 
 
@@ -1700,6 +1699,49 @@ https://data04.streamku.xyz/mv/ban/15-Pamali_Dusun_Pocong_2023.mp4
 
 ########## XXX
 
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 1 Vivid Red Live
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 2 Vivid Live CAM
+https://edge4-sin.live.mmcdn.com/live-hls/amlst:katesdesire-sd-3bf026be7252b3212526a5d98d735e673f436f055c9b19708544d073c06dd44f_trns_h264/chunklist_w1956786148_b4596000_t64RlBTOjU5Ljk0MDA1OTk0MDA1OTk0.m3u8
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 3 Erox Live
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 3 Erox Live CAM
+https://edge10-sin.live.mmcdn.com/live-hls/amlst:stunning_gia-sd-eb064a72a654d66e5f2d0bfa06b45df1d98826bc4f597e423f3ceb4503b88aab_trns_h264/chunklist_w405878921_b1038000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 4 OX-AX live
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 4 OX-AX live CAM
+https://edge28-sin.live.mmcdn.com/live-hls/amlst:wanda_robinson-sd-3ce347db12aa60796d4768a2e67d3da349cd028f81dc4460c75c24e77fc009fe_trns_h264/chunklist_w282486420_b1148000_t64RlBTOjMwLjA=.m3u8
+
+
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 5 Cento X Cento Live 
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 5 Cento X Cento Live CAM
+https://edge30-sin.live.mmcdn.com/live-hls/amlst:busbuddies-sd-12e01b7dc643462b7992458eede0e6313715ea08ab383d3eb64b73df24d94726_trns_h264/chunklist_w553555946_b1148000_t64RlBTOjMwLjA=.m3u8
+
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 6 Fap TV Live 
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 6 Fap TV Live CAM
+https://edge3-sin.live.mmcdn.com/live-hls/amlst:_blackbee_-sd-7d10b3301217f5c262ec090f421f415ecb7c212b8f5ee358a9f320c88b6e8e71_trns_h264/chunklist_w1725786590_b1148000_t64RlBTOjMwLjA=.m3u8
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 7 Fap TV Parody Live
+https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+#EXTINF:-1 group-title="xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", 7 Fap TV Parody Live CAM
+https://edge21-sin.live.mmcdn.com/live-hls/amlst:vixenp-sd-4a33f28c62eb5be3bfc4cc5f89f910f6cfd185f1ccac478670e1fdfb387deddf_trns_h264/chunklist_w868534446_b1148000_t64RlBTOjMwLjA=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
@@ -1753,9 +1795,98 @@ http://cdn.adultiptv.net/gay.m3u8
 http://cdn.adultiptv.net/asian.m3u8
 
 
+######### INDO XXX
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID01
+https://cdn77-vid.others-cdn.com/h9Y_FVlldTDLUFhpMYZBsg==,1724524294/videos/hls/af/6b/2a/af6b2a391ed3addb718851a134dfd81e-2/hls-480p-23921.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID02
+https://gcore-vid.others-cdn.com/71HNnARvR27NVN9h5HiPbw==,1724527048/videos/hls/7b/53/c1/7b53c1ef4137ef742452d902f8deaf6e/hls-720p-5f144.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID03
+https://cdn77-vid.others-cdn.com/ZHkWnxFV-mT-YTJKa_MKXw==,1724524578/videos/hls/7f/61/6d/7f616d146185014f5b7535694d3e1765-1/hls-480p-a7497.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID04
+https://cdn77-vid.others-cdn.com/SC82_0gd58wTWNAUVAZtcQ==,1724528618/videos/hls/db/e7/13/dbe7134e5998df3640af09d9075b250e-2/hls-360p-afa56.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID05
+https://cdn77-vid.others-cdn.com/Vam0apszY-PsI-eVmxprBg==,1724526112/videos/hls/86/98/f6/8698f6059243d73028fefcb935b1f033/hls-720p-2476a.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID06
+https://cdn77-vid.others-cdn.com/ncCTh5HkfMQ7K7X0u68saw==,1724526309/videos/hls/fd/9d/03/fd9d03a33b49413d4c3b8ff8140ec427/hls-360p.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID07
+https://cdn77-vid.others-cdn.com/QTRF0fjYyiDt3BIP8M2oUw==,1724528690/videos/hls/b1/26/89/b12689b964f23e6db915bff2cd093c81/hls-720p-00913.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID08
+https://cdn77-vid.others-cdn.com/E0sh4r1Qg-iL7_vkEu2new==,1724529637/videos/hls/78/f0/2f/78f02f3c565249cf805b2f42083b79b1/hls-720p-f966c.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID09
+https://cdn77-vid.others-cdn.com/FOjb8BKcvXVJBjWZPx2N8w==,1724528167/videos/hls/4b/c2/67/4bc267769ece8bce57f47345dfa6191f/hls-720p-370f0.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID010
+https://cdn77-vid.others-cdn.com/URXhChr5spB0nLxfNte93Q==,1724525339/videos/hls/a2/26/85/a226853378dedffbc9e8e5cf7f9d3db4-1/hls-360p-45496.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID011
+https://cdn77-vid.others-cdn.com/MdtU0OPzFtXvgrU-Yoh6Xw==,1724526291/videos/hls/40/ab/57/40ab574a81473402e50f004ff035e72a/hls-720p-48fec.m3u8
+
+#EXTINF:0 group-title="Indo XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzTaNV7illXTuiu08sTmq-XiVLovOCdxG34Oi9OdFRZbCk93ykBbDQR8&s=10", VID012
+https://cdn77-vid.others-cdn.com/yevRFyEgBmrJSqIUnObkUA==,1724527814/videos/hls/a6/83/88/a683888a7f98f79afe8b7f51cc83a216/hls-360p.m3u8
 
 
+############ Defloration Dewasa 
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/af/be/f8/afbef81f9634ddcc1b80fa5637035bf3/afbef81f9634ddcc1b80fa5637035bf3.6.jpg", VID01
+https://cdn77-vid.others-cdn.com/j_gM8WNFQsKwGRsENy5a0w==,1724527749/videos/hls/af/be/f8/afbef81f9634ddcc1b80fa5637035bf3/hls-720p.m3u8
 
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/20/3f/f0/203ff0b48010d2930f03ae6e9201bcdc/203ff0b48010d2930f03ae6e9201bcdc.20.jpg", VID02
+https://cdn77-vid.others-cdn.com/OUPnds25ZvKBLdXkpd4P2w==,1724526236/videos/hls/20/3f/f0/203ff0b48010d2930f03ae6e9201bcdc/hls-720p.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/a9/97/db/a997db6e467bff4c97153088dbbbe301/a997db6e467bff4c97153088dbbbe301.30.jpg", VID03
+https://gcore-vid.others-cdn.com/KmaxtUqpLpKsn8mZ-6X1dA==,1724529983/videos/hls/a9/97/db/a997db6e467bff4c97153088dbbbe301/hls-720p-b7928.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://idm.reviewqq.com/videos/thumbs169/6a/0f/a2/6a0fa258085db96e403d67b179c91f32/6a0fa258085db96e403d67b179c91f32.25.jpg", VID04
+https://cdn77-vid.others-cdn.com/iWsCtaoYrjbbsCpy2QudVQ==,1724525238/videos/hls/6a/0f/a2/6a0fa258085db96e403d67b179c91f32/hls-720p.m3u8
+
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/64/de/f5/64def584a36e0f5e77069e8c9559e275/64def584a36e0f5e77069e8c9559e275.17.jpg", VID05
+https://gcore-vid.others-cdn.com/IA3iTi83LellLA8E1XAFCw==,1724525996/videos/hls/64/de/f5/64def584a36e0f5e77069e8c9559e275/hls-720p-fec83.m3u8
+
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/f6/a9/f3/f6a9f3fc8f95cc55841ff7b6375f89c4/f6a9f3fc8f95cc55841ff7b6375f89c4.30.jpg", VID06
+https://cdn77-vid.others-cdn.com/n2aueXPAaJTY7nyfz8txmQ==,1724526021/videos/hls/f6/a9/f3/f6a9f3fc8f95cc55841ff7b6375f89c4/hls-720p-edbd9.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/52/87/0e/52870e98079acd2ec366bb139fc7a3f3/52870e98079acd2ec366bb139fc7a3f3.28.jpgg", VID07
+https://cdn77-vid.others-cdn.com/o8r3ywsM6Q-oHIPfS7OyZg==,1724529556/videos/hls/52/87/0e/52870e98079acd2ec366bb139fc7a3f3/hls-720p-2f710.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/4b/b7/38/4bb73823da66912b0b98ec7dfa1dcc41/4bb73823da66912b0b98ec7dfa1dcc41.7.jpg", VID08
+https://gcore-vid.others-cdn.com/CyRQRAHET3Sa10D82Rk0ng==,1724529631/videos/hls/4b/b7/38/4bb73823da66912b0b98ec7dfa1dcc41/hls-720p.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/e6/f4/00/e6f400f7cb27b11b59cbf8cd748e64a2/e6f400f7cb27b11b59cbf8cd748e64a2.12.jpg", VID09
+https://gcore-vid.others-cdn.com/p6LjJ7BGpe0Uulyw63FFTQ==,1724531423/videos/hls/e6/f4/00/e6f400f7cb27b11b59cbf8cd748e64a2/hls-720p.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/df/1f/62/df1f62936b57f0798f23076189675bef/df1f62936b57f0798f23076189675bef.23.jpgg", VID010
+https://cdn77-vid.others-cdn.com/JFts73NcVDZnXOPz12d3sQ==,1724529552/videos/hls/df/1f/62/df1f62936b57f0798f23076189675bef/hls-720p.m3u8
+
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/62/1d/42/621d429695ad1276f7d85f276e0afc50/621d429695ad1276f7d85f276e0afc50.20.jpgg", VID011
+https://cdn77-vid.others-cdn.com/CioGmby2T3p5xogM3Xmdzw==,1724531500/videos/hls/62/1d/42/621d429695ad1276f7d85f276e0afc50/hls-720p-93b75.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/a9/c5/b7/a9c5b798614497e33567eb2354d7917a/a9c5b798614497e33567eb2354d7917a.25.jpg", VID012
+https://cdn77-vid.others-cdn.com/hsCncqooJlPPUMex82sHJA==,1724531217/videos/hls/a9/c5/b7/a9c5b798614497e33567eb2354d7917a/hls-720p.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/b6/5a/79/b65a790e2858991fb29f40ce7815bf97/b65a790e2858991fb29f40ce7815bf97.30.jpgg", VID013
+https://cdn77-vid.others-cdn.com/NZQ0YqpwAmOy0N6NN_NLDw==,1724528320/videos/hls/b6/5a/79/b65a790e2858991fb29f40ce7815bf97/hls-720p-7cd36.m3u8
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/ec/9a/ed/ec9aed173e1ef0b52412d08de43c9bc4-1/ec9aed173e1ef0b52412d08de43c9bc4.25.jpg", VID014
+https://cdn77-vid.others-cdn.com/12atXKXUsJQ-0AbAvxf2fg==,1724530855/videos/hls/ec/9a/ed/ec9aed173e1ef0b52412d08de43c9bc4-1/hls-720p.m3u8
+
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/8b/15/76/8b1576559baa84cef2be91a13b771007-1/8b1576559baa84cef2be91a13b771007.2.jpg", VID015
+https://cdn77-vid.others-cdn.com/we8v0kJ7Fn4k_qEAkouiNQ==,1724529282/videos/hls/8b/15/76/8b1576559baa84cef2be91a13b771007-1/hls-720p.m3u8
+
+
+#EXTINF:0 group-title="Deploration Dewasa" tvg-logo="https://asia.cloudscdn.info/videos/thumbs169/0f/3d/05/0f3d05e2ad8604aa471d2a6c856a4291/0f3d05e2ad8604aa471d2a6c856a4291.26.jpg", VID016
+https://cdn77-vid.others-cdn.com/3j3T-nN_0hc5mDK6VJMFOQ==,1724531614/videos/hls/0f/3d/05/0f3d05e2ad8604aa471d2a6c856a4291/hls-360p.m3u8
 
 
 
@@ -1916,140 +2047,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 
-
-
-
-
-##################### Film Semi XXX
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/Female-Workers-Romance-at-Work-3-2023a1-60x90.jpg", Female Workers 3 (2024)
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/06641/9di49s1mivg2_h/master.m3u8?t=R2QV-EyrL821mDZ49xtBprOYs6TAX_De9tJoj8yrtIE&s=1723886181&e=10800&f=33207030&srv=28&asn=149925&sp=4000
-
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/https-javgg-net-wp-content-uploads-2022-02-roe047pl-380x538-jpg1-60x90.jpg", Momoko Isshiki
-https://be4242.rcr52.ams03.cdn112.com/hls2/04/06518/5584k1j80gb2_h/master.m3u8?t=45KseQ6ZQ9DJnMOeo7xIQ0Fp7XCKAAOHojCmcwlFn30&s=1723884771&e=10800&f=32593522&srv=53&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/5UKoGU3y92k9v319DqxzmZUqxfo-60x90.jpg", The Influencer (2022)
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/06707/vwwtsxsuce0l_h/master.m3u8?t=RIN10zkeDuZ3h_S7I7kb9p6VoIzsS9G4a20ewwoyWmM&s=1723885188&e=10800&f=33537551&srv=23&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/hai-em-hoc-sinh-hiep-dam-co-giao-bang-vat-pham-ngung-dong-thoi-gian-500x3501-1-152x2281-1-60x90.jpg", Time Stopping (2024)
-https://trshtsrhjsrtjhh.cdn-jupiter.com/hls2/01/03534/pj8pywnjh64h_n/master.m3u8?t=e1igLwHsBCd9eucolphKOpacivtEzWWOFcCC_Virk-c&s=1723885342&e=129600&f=20810648&srv=Gs5UDtPpa5&i=0.4&sp=500&p1=Gs5UDtPpa5&p2=Gs5UDtPpa5&asn=149925
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/When-A-Young-Female-College-Student-Licks-Her-Armpits-Her-Lower-Body-Gets-Wet-2024a-152x228.jpg" ,When A Young Female College Student Licks Her Armpits Her Lower Body Gets Wet
-https://data01.mv21.cc/mv/saf/semi/10_Whenayoungfemalecollegestudentlicksherarmpitsherlowerbodygetswet.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Imagination-of-Sex-2024a-152x228.jpg" ,Imagination of Sex
-https://data01.mv21.cc/mv/saf/semi/10_ImaginationofSex.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Obscene-Married-Women-Who-Indulge-in-Infidelity-2024a-152x228.jpg" ,Obscene Married Women Who Indulge in Infidelity
-https://data01.mv21.cc/mv/saf/semi/10_ObsceneMarriedWomenWhoIndulgeinInfidelity.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/The-Taste-Of-Evaluating-The-Genitals-With-The-Feet-That-My-Girlfriend-Told-Me-2024A-152x228.jpg" ,The Taste Of Evaluating The Genitals With The Feet That My Girlfriend Told Me
-https://data01.mv21.cc/mv/saf/semi/10_Thetasteofevaluatingthegenitalswiththefeetthatmygirlfriendtoldme.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/73933a-152x228.jpg" ,A Couple Living Together in a Business Relationship! The Two Of Them Are Dealing With Their Stress Through Libido in a Room With The Camera Off After Their Day
-https://data01.mv21.cc/mv/saf/semi/10_Acouplelivingtogetherinabusinessrelationship.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Young-Aunt-3-2020a-152x228.jpg" ,Young Aunt 3 [Uncut]
-https://data04.streamku.xyz/mv/saf/semi/10-YoungAunt32020.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Young-Aunt-3-2020a-152x228.jpg" ,Young Aunt 2 [Uncut]
-https://data04.streamku.xyz/mv/saf/semi/10-YoungAunt22019.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Young-Aunt-3-2020a-152x228.jpg" ,Young Aunt 1 [Uncut]
-https://data04.streamku.xyz/mv/saf/semi/10-YoungAunt12018.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Wifes-Sex-Toy-2024a-152x228.jpg" ,Wife’s Sex Toy
-https://data04.streamku.xyz/mv/saf/semi/10-WifesSexToy2024.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Sex-Video-Taken-by-a-Female-Junior-With-an-Excuse-2024a-152x228.jpg" ,Sex Video Taken by a Female Junior With an Excuse
-https://data04.streamku.xyz/mv/saf/semi/10-SexVideoTakenbyaFemaleJuniorWithanExcuse2024.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/One-On-One-Sex-Education-With-S-Class-Body-Female-Teacher-2023a-152x228.jpg" ,One On One Sex Education With S Class Body Female Teacher
-https://data01.mv21.cc/mv/saf/semi/10OneOnOneSexEducationWithSClassBodyFemaleTeacher2023.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/A-Childhood-Friend-Who-Feeds-Me-And-Lifts-My-Skirt-For-Me-2024a-152x228.jpg" ,A Childhood Friend Who Feeds Me And Lifts My Skirt For Me
-https://data01.mv21.cc/mv/saf/semi/10AChildhoodFriendWhoFeedsMeAndLiftsMySkirtForMe2024.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Purpose-of-a-Delivery-Girl-2024a-60x90.jpg" ,Purpose of a Delivery Girl
-https://data04.streamku.xyz/mv/saf/semi/9PurposeofaDeliveryGirl2024ENG.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Father-in-law-Giving-Sex-Education-To-Daughter-in-law-2024a-152x228.jpg" ,Father in law Giving Sex Education To Daughter in law
-https://data04.streamku.xyz/mv/saf/semi/8-FatherinlawGivingSexEducationToDaughterinlaw(2024)ENG.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Detective-Agency-Face-of-the-Gnome-2017a-152x228.jpg" ,Detective Agency Face of the Gnome 2017 ENG
-https://data01.mv21.cc/mv/saf/semi/7-DetectiveAgencyFaceoftheGnome2017ENG.mp4
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/Detective-Agency-Face-of-the-Gnome-2017a-152x228.jpg" ,SONE-248 (English subbed) K-cup secretary licked and violated by a slug-like boss – Nagi Hikaru
-https://streamtape.xyz/get_video?id=LO4BAVb3ALFRwa2&expires=1723891780&ip=F0OPKRWSEI9XKxR&token=DfwQIjJn17_1&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="data:image/jpeg;base64,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", I Want to Fuck My Step Dad
-https://data01.mv21.cc/film/15-iwa.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/07/DVDES-920-English-subbed-A-bitchy-black-gyaru-older-sister-awakened-a-young-boys-penis-and-became-a-shotacon-AIKA-170x255.jpg", A bitchy black gyaru older sister awakened a young boy’s penis and became a shotacon! AIKA
-https://streamtape.xyz/get_video?id=27jXxvdkW0uR6J&expires=1723897860&ip=F0OPKRWSEI9XKxR&token=88Vv4tYd5ybe&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/06/STARS-821-English-subbed-Living-together-with-Me-the-AI-equipped-Love-Doll-Ogura-Yuna-170x255.jpg", Living together with Me, the AI-equipped Love Doll Ogura Yuna
-https://streamtape.xyz/get_video?id=o60ey9KDrmiJ2x2&expires=1723898122&ip=F0OPKRWSEI9XKxR&token=3i-3yDqOXdMQ&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/03/XVSR-054-English-subbed-The-Sudden-Nurse-Call-Nana-Ayano-170x255.jpg", The Sudden Nurse Call – Nana Ayano
-https://streamtape.xyz/get_video?id=Yp8Y6P6ykkFv7JD&expires=1723898273&ip=F0OPKRWSEI9XKxR&token=MWKIR_z0r8B9&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/07/START-085-English-subbed-After-a-couples-fight-she-opened-a-10cm-diameter-hole-in-the-wall-and-for-five-days-Honjou-Suzu-170x255.jpg", After a couple’s fight, she opened a 10cm diameter hole in the wall, and for five days Honjou Suzu
-https://streamtape.xyz/get_video?id=ePa2p9ZPwktYa82&expires=1723898805&ip=F0OPKRWSEI9XKxR&token=XE-u6WlXIfqC&stream=1
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://image.tmdb.org/t/p/w185/5mnwxNjE36QxKZim8ZDqHlQ9pnd.jpg", Julia
-https://streamtape.com/get_video?id=Xzd8jx7Lb1fDDAQ&expires=1723899312&ip=F0OPKRWSEI9XKxR&token=o4muhg2PoQ7V&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2023/04/PPPE-110-J-Cup-Gravure-Idol-Creampie-Ban-Convulsions-Squirting-Raw-Fucking-Experience-Document-%E2%80%93-Sakura-Mahiru-170x255.jpg", 
-J Cup Gravure Idol Creampie Ban Convulsions Squirting Raw Fucking Experience Document – Sakura Mahiru
-https://streamtape.com/get_video?id=Qd0BA8Wl43S8ro&expires=1723899730&ip=F0OPKRWSEI9XKxR&token=bVgOm92fxyM-&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo"https://68.183.227.14/wp-content/uploads/2024/04/Sweet-Hole-170x255.jpg", Sweet Hole
-https://streamtape.xyz/get_video?id=G2e2rGldY0t1Xly&expires=1723900796&ip=F0OPKRWSEI9XKxR&token=qAHDgfiNoIR_&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2022/10/Taboo-4-1985-170x255.jpg", Taboo 
-https://streamtape.xyz/get_video?id=8Xbajl3BxOHo9b9&expires=1723900913&ip=F0OPKRWSEI9XKxR&token=HmjP7nxBIjrM&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2022/10/Love-Rites-1987-170x255.jpg", Love Rites
-https://streamtape.xyz/get_video?id=JpBByzk7kRfjXlz&expires=1723901011&ip=F0OPKRWSEI9XKxR&token=AawsoIvE2g_Y&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo"https://cdn.javsts.com/wp-content/uploads/2023/04/crdd027pl-550x374.jpg",my-saffle-is-a-western-blonde-beautiful-girl-individual-shooting-seeding-asian-semen-rebecca
-https://streamtape.xyz/get_video?id=aP9KzrL20Psxq91&expires=1723921558&ip=F0OPKRWSEI9XKxR&token=DHaQRHwxUnBl&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2018/08/57husr146pl-550x374.jpg", Sangat Besar dan Cantik 
-https://streamtape.xyz/get_video?id=rrmvkjAWQ4cbjG8&expires=1723921846&ip=F0OPKRWSEI9XKxR&token=okQN7_yYUFds&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo"https://cdn.javsts.com/wp-content/uploads/2024/08/073124-001-carib-550x374.jpg", Alice Hernandez
-https://shavetape.cash/get_video?id=69bqwjeQD6h4Ww&expires=1723922033&ip=F0OPKRWSEI9XKxR&token=8Wgpx77WP98A&stream=1
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo"https://68.183.227.14/wp-content/uploads/2022/07/Swirling-2022-170x255.jpg", Swirling
-https://data04.streamku.xyz/film/11m-swi.mp4
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2022/07/Maid-For-You-Part-1-2022-170x255.jpg", Maid For You Pat 1
-https://data04.streamku.xyz/film/18w-mai.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2022/08/The-Handmaiden-2017-170x255.jpg", The Handmaidens 
-https://data04.streamku.xyz/film/17x-han.mp4
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://basd2012.org/wp-content/uploads/2023/07/UC-Secret-Meeting-Of-Female-Employees-170x255.jpg", Secret Meeting With Female Employees
-https://data04.streamku.xyz/film/8s-ucs.mp4
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/05/Big-Tits-Friend-Sisters-Uncut-170x255.jpg", Big Tits Friend Sisters
-https://streamtape.xyz/get_video?id=AM9jLaAyKOTmO1&expires=1723923076&ip=F0OPKRWSEI9XKxR&token=pY05JxrWHdGe&stream=1
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/04/Sweet-Hole-170x255.jpg", Sweet Hole 
-https://streamtape.xyz/get_video?id=G2e2rGldY0t1Xly&expires=1723923202&ip=F0OPKRWSEI9XKxR&token=87Sznfcyq6-y&stream=1
-
-
-#EXTINF:0 group-title="Semi 18+" tvg-logo="https://68.183.227.14/wp-content/uploads/2024/04/I-Want-to-Be-Your-Guest-170x255.jpg", I Want to Be Your Guest
-https://streamtape.xyz/get_video?id=gvx0p34gmOiqeeX&expires=1723923325&ip=F0OPKRWSEI9XKxR&token=XW1pgAf22I2G&stream=1
 
 
 
@@ -2402,3 +2399,16 @@ https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
