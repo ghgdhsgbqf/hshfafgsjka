@@ -7,6 +7,6 @@
 #EXTINF:0 group-title="Informasi Paket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAlsOhRSssJhPWwhzW7KZDbrCX7X2AX5o_TA&s", Tidak Ada Paket yang Aktif
 https://facebook.com
 
-#EXTINF:0 group-title="Untuk Aktifasi" 
-#EXTINF:0 group-title="HUB"
-#EXTINF:0 group-title="083892194670 VIA TELEGRAM"
+#EXTINF:0 group-title="Untuk Aktifasi" tvg-logo="", Paket Habis
+#EXTINF:0 group-title="HUB" tvg-logo="", Paket Habis
+#EXTINF:0 group-title="083892194670 VIA TELEGRAM" tvg-logo="", Paket Habis
