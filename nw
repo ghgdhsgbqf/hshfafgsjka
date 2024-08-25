@@ -223,7 +223,7 @@ https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724507599-0-
 https://live2.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001724507106-0-0-4a033ba4f228a465448e9c35256976bd
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
-https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
+https://live2.procdnlive.com/livecdn/channel36.m3u8?auth_key=3000001724568905-0-0-8c1a1d6d2e25bd88f060cebd6cf568eb
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 1 
 https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001724568539-0-0-e2347c6a7438c17adc8cdbcf9f04d4e1
