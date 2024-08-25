@@ -212,6 +212,17 @@
 ###################### Live Event 
 
 
+#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
+https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724595004-0-0-0857072384b43bc24847d8edbd943f80
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/640px-Ligue1_Uber_Eats_logo.png", Liga Francis
+https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724594828-0-0-a8ab600e51cc695a6f8bba7186204e11
+
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/800px-Bundesliga_Logo_%282017%29.svg.png", Liga Jerman
+https://live2.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001724594636-0-0-00323d81727e7a26b652273be321d720
+
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 34;  ) ExoPlayerLib/2.15.1
 https://live2.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001724590873-0-0-23cd74c436e7597409cb2edeef26b438
