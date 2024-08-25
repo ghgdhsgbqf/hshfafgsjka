@@ -232,7 +232,7 @@ https://live2.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001724590873-0-
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://live2.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001724590873-0-0-23cd74c436e7597409cb2edeef26b438
+https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724598500-0-0-bf5c32865eddcc803e2acfecee0e732b
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
 https://live2.procdnlive.com/livecdn/channel36.m3u8?auth_key=3000001724568905-0-0-8c1a1d6d2e25bd88f060cebd6cf568eb
