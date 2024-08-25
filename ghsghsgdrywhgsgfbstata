@@ -214,13 +214,13 @@
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 34;  ) ExoPlayerLib/2.15.1
-https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724507599-0-0-c9e839e73b34c26d9b0fa215086e9f23
+https://live2.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001724590873-0-0-23cd74c436e7597409cb2edeef26b438
 
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://live2.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001724507106-0-0-4a033ba4f228a465448e9c35256976bd
+https://live2.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001724590873-0-0-23cd74c436e7597409cb2edeef26b438
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
