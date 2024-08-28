@@ -212,6 +212,9 @@
 
 ###################### Live Event 
 
+#EXTINF:0 group-title="Live Event" tvg-logo="https://i.ytimg.com/vi/TWyleRx8qi0/maxresdefault.jpg", Argentina VS Indonesia
+https://live2.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001724826517-0-0-80c37fbe01110f7619e0f5452fadb7b9
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
 https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724595004-0-0-0857072384b43bc24847d8edbd943f80
 
