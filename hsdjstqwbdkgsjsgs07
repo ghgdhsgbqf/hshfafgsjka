@@ -874,6 +874,9 @@ https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg", 7 1 Vina : Sebelum 7 Hari
+https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDTS.mp4
+
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/lY6Y2wNzOgSyLJrE8rzf8QmKZpG-60x90.jpg", 7 Pasutri Gaje (2024)
 https://data04.streamku.xyz/mv/ban/7-Pasutri.Gaje.2024.mp4
