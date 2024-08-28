@@ -1759,6 +1759,13 @@ https://stream.hownetwork.xyz/yyy/tayuan-2023-webdl/2/480.m3u8
 
 ############### Movie 2024
 
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/08/film-dead-man-2024-lk21-d21.jpg.webp", Dead Man 2024
+https://stream.hownetwork.xyz/xxx/dead-man-2024-webdl_X_6f1ac7b9/8/480.m3u8
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/08/film-kalki-2898-ad-2024-lk21-d21.jpg.webp", Kalki 2898 AD 2024
+https://stream.hownetwork.xyz/xxx/kalki-2898-ad-2024-webdl_X_42f26583/8/480.m3u8
+
+
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-in-time-2011.jpg.webp", In Time 
 https://stream.hownetwork.xyz/xxx/in-time-2011-bluray/3/480.m3u8
 
