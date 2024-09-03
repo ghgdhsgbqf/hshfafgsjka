@@ -547,9 +547,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Anak" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
+
 
 
 
@@ -671,9 +669,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Pengetahuan" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
 
 
 
@@ -742,9 +737,7 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://live.24hrkpop.com/hls/4/stream.m3u8
 
 
-#EXTINF:-1 group-title="Musik" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
+
 
 
 
@@ -1565,9 +1558,7 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
-#EXTINF:-1 group-title="Berita" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
+
 
 
 
