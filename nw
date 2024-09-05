@@ -1181,16 +1181,16 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="Sport",ASSP 1
-http://iptvkita.my.id:25461/zack24/zack24/216
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
 
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="Sport",ASSP 2
-http://iptvkita.my.id:25461/zack24/zack24/217
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
 
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="Sport",ASSP 3
-http://iptvkita.my.id:25461/zack24/zack24/218
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
 
 #EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/sports/assp1.png" group-title="Sport",ASSP 4
-http://iptvkita.my.id:25461/zack24/zack24/219
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
