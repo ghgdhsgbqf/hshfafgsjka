@@ -223,7 +223,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 2
 #EXTVLCOPT:http-user-agent:OTT Navigator/1.7.1.2 (Linux;Android 34; en; JCNBZZWMBR) ExoPlayerLib/2.15.1
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://live2.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001725557943-0-0-3845d204a0ebf97043b391821960ee23
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
