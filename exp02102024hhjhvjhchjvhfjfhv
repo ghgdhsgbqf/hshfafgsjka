@@ -15,6 +15,36 @@
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeYLVXkNZal_6m70hU2fhHORoBfgJL_GwfcF9WpPZwC9VVk4L1A7sGUE&s=10", 1Kang Max From PeeMax CAM 2024
 https://dbhost.my-id.id/hshshsgahgsvavha/Layarxxi.pw.Kang.Mak.from.Pee.Mak.2024.CAM.720p.x264.mp4
 
+#### Piala Dunia Kualifikasi ASIA
+
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 0 Live : Kualifikasi Piala Dunia 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 0 Live : Kualifikasi Piala Dunia 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 0 Live : Kualifikasi Piala Dunia 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+
+
+
+
+
+
 
 ###################### Live Event 
 
