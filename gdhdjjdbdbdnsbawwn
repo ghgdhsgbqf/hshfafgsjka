@@ -234,19 +234,6 @@ https://master-stream.my.id/live/6E3578867981AC471860460C260FAF76/250.ts
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
 https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724595004-0-0-0857072384b43bc24847d8edbd943f80
