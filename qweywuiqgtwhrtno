@@ -223,14 +223,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
 
 
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://live2.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001724507106-0-0-4a033ba4f228a465448e9c35256976bd
-
-
-
-
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 
