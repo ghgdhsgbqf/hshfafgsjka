@@ -283,6 +283,21 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/indosiarTV.
 
 
 ################# Lokal ID
+
+#EXTINF:0  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal ID",RCTI Vision
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+
+
+
+
+
+
+
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="Lokal ID", INDOSIAR ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
