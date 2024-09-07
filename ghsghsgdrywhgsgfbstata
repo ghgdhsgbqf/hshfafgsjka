@@ -1729,6 +1729,10 @@ https://iptv.urfan.web.id/video/info.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE1ZTAzNjUtOTM2Ny00MzVjLTllZDMtODVmODQ1ZjIxNDdiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Pasutri Gaje 2024
+https://host.my-id.id/movie%20indo/Nonton%20Pasutri%20Gaje%20Subtitle%20Indonesia%20-%20CinemaXXI.mp4
+
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg", 1 Vina : Sebelum 7 Hari
 https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDTS.mp4
 
