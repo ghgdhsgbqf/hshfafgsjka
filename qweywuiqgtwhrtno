@@ -719,6 +719,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soc
 #EXTVLCOPT:http-user-agent:OTT Navigator/1.7.1.2 (Linux;Android 34; en; JCNBZZWMBR) ExoPlayerLib/2.15.1
 https://live2.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001725557943-0-0-3845d204a0ebf97043b391821960ee23
 
+#EXTINF:1 group-title="QWC Zona Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 
