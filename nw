@@ -486,9 +486,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mp
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/a/a0/Moji_%282022_Blue%29.svg/revision/latest/scale-to-width-down/240?cb=20230210151006", Moji TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://210.210.155.35/x6bnqe/s/s41/index.m3u8
+http://xtv.ooo:8080/83212539/43153928/350997
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
