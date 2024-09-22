@@ -220,98 +220,33 @@ https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001726744445-0-
 
 ###################### Live Event 
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 1
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 2
-#EXTVLCOPT:http-user-agent:OTT Navigator/1.7.1.2 (Linux;Android 34; en; JCNBZZWMBR) ExoPlayerLib/2.15.1
-https://live2.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001725557943-0-0-3845d204a0ebf97043b391821960ee23
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-
-
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
-https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724595004-0-0-0857072384b43bc24847d8edbd943f80
+https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727020358-0-0-bd7c175c8f36888369b22cd32f8ecbab
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/640px-Ligue1_Uber_Eats_logo.png", Liga Francis
 https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724594828-0-0-a8ab600e51cc695a6f8bba7186204e11
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/800px-Bundesliga_Logo_%282017%29.svg.png", Liga Jerman
-https://live2.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001724594636-0-0-00323d81727e7a26b652273be321d720
-
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 34;  ) ExoPlayerLib/2.15.1
-https://live2.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001724590873-0-0-23cd74c436e7597409cb2edeef26b438
-
+https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001727020757-0-0-1906ea4997153ac0ee3c21a806ed8cb4
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724598500-0-0-bf5c32865eddcc803e2acfecee0e732b
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
-https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 1 
-https://www.livedoomovies.com:4431/02_PremierHD1_480p/chunklist.m3u8
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001727019421-0-0-4c1be8ab8e477592d06d1ec15a1c785b
 
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-https://live3.procdnlive.com/livecdn/channel40.m3u8?auth_key=3000001726402837-0-0-0535a46fdb0de6eef3932ca2eef0348d
+https://fv1083.huibo.tv/GE/H329/chunks.m3u8?wsSecret=f83f0ab4a66252c88c99c8a081f61f41&wsTime=1726998664
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/LxJunYKy0ztQiV1HwO9HTa1x6xQ=/0x112:720x518/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4844441/original/068246200_1716826160-Piala_AFF_U-19_-_Ilustrasi_Logo_AFF_ASEAN_Championship_U-19_copy.jpg", Doni TV
-https://krakenfiles.com/embed-video/rYF5cLlsZb
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", Indosiar 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg", MOJI TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/ochannel.m3u8
-
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg", Moji
-##https://kodonolonz.serv00.net/tol/ikitv-moji.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpumZkg-6uJbBzxfQj55EvW8iNkdW4EOSWBg&s", SCTV
-http://goldenid.online:80/play/tGYC-9q_TZSnhCqtPqCSwEtP58T58nOAy59ewSU8BIE
-
-#EXTINF:0 tvg-logo="http://brn-tv.xyz/logo/lokal/trans7.png" group-title="Live Event",TRANS 7 HD
-http://goldenid.online:80/play/tGYC-9q_TZSnhCqtPqCSwK-iK6DyTmuiAn_bnktjmzs
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg", MOJI TV HD
-http://xtv.ooo:8080/83212539/43153928/350997
+#EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
+https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001727020481-0-0-15d570ba2e43fe887871541452c254f6
 
 
 
 
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 34;  ) ExoPlayerLib/2.15.1
-http://master-stream.my.id/live/6E3578867981AC471860460C260FAF76/248.m3u8
+
 
 
 #### Piala Dunia Kualifikasi ASIA
