@@ -297,15 +297,10 @@ https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724594828-0-
 https://live2.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001724594636-0-0-00323d81727e7a26b652273be321d720
 
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 34;  ) ExoPlayerLib/2.15.1
-https://live2.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001725204375-0-0-75f35badfc6fdd3389f8c5cf2686dc37
-
-
-
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://live2.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001725204375-0-0-75f35badfc6fdd3389f8c5cf2686dc37
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001727019421-0-0-4c1be8ab8e477592d06d1ec15a1c785b
+
+
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1.  Live Sepak Bola 2
 https://live2.procdnlive.com/livecdn/channel36.m3u8?auth_key=3000001724568905-0-0-8c1a1d6d2e25bd88f060cebd6cf568eb
@@ -318,7 +313,7 @@ https://live2.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001724568539-0-0
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
 https://fv1083.huibo.tv/GE/H329/chunks.m3u8?wsSecret=f83f0ab4a66252c88c99c8a081f61f41&wsTime=1726998664
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/LxJunYKy0ztQiV1HwO9HTa1x6xQ=/0x112:720x518/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4844441/original/068246200_1716826160-Piala_AFF_U-19_-_Ilustrasi_Logo_AFF_ASEAN_Championship_U-19_copy.jpg", Doni TV
+#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn1-production-images-kly.akamaized.net/LxJunYKy0ztQiV1HwOHTa1x6xQ=/0x112:720x518/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4844441/original/068246200_1716826160-Piala_AFF_U-19_-_Ilustrasi_Logo_AFF_ASEAN_Championship_U-19_copy.jpg", Doni TV
 https://krakenfiles.com/embed-video/rYF5cLlsZb
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_zO6uC4mgtbh5cC4avyZXc3cfO5v3ymTcQ&usqp=CAU", Indosiar 
