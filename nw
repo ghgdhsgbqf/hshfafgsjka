@@ -215,8 +215,7 @@
 https://bf.yunnankmln.com/live/sd-1-4153779.m3u8?txSecret=adfa427ba0312b2d58a1bba09fd42e72&txTime=66f0ce79
 
 #EXTINF:1 group-title="Persib Bandung" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/09/19/persib-bandung-vs-persija-jakarta-1_169.png?w=600&q=90", Server Vietnam
-https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001727058587-0-0-e76ee740c089a3d5c1fa1bbd8055e3d6
-
+https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001727078698-0-0-45464c4374f09fdbc3a07f62c37bf69f
 
 #### Piala Dunia Kualifikasi ASIA
 
@@ -282,7 +281,7 @@ https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001727019421-0-0
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-https://fv1083.huibo.tv/GE/H329/chunks.m3u8?wsSecret=f83f0ab4a66252c88c99c8a081f61f41&wsTime=1726998664
+https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001727078698-0-0-45464c4374f09fdbc3a07f62c37bf69f
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
 https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001727020481-0-0-15d570ba2e43fe887871541452c254f6
