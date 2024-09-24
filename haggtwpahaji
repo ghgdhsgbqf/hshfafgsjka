@@ -249,18 +249,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 
 
 
-####### Persib Bandung
-
-#EXTINF:1 group-title="Persib Bandung" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/09/19/persib-bandung-vs-persija-jakarta-1_169.png?w=600&q=90", Server Jala Indo
-https://bf.shandongjnsd.com/live/322578_hd01.m3u8?txSecret=e503543adbd18803a19694f85a6fed1d&txTime=66f1242e
-
-#EXTINF:1 group-title="Persib Bandung" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/09/19/persib-bandung-vs-persija-jakarta-1_169.png?w=600&q=90", Server Vietnam
-https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001727078698-0-0-45464c4374f09fdbc3a07f62c37bf69f
-
 
 
 
 ###################### Live Event 
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", Persijap Vs Persikas Subang
+https://live3.procdnlive.com/livecdn/channel74.m3u8?auth_key=3000001727155953-0-0-94f4e1b785fed9382b83bcb4ad72c536
 
 
 
