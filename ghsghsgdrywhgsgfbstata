@@ -215,7 +215,7 @@
 ###################### Live Event 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png", Liga 2 Pegadaian
-https://live3.procdnlive.com/livecdn/channel74.m3u8?auth_key=3000001727177173-0-0-a632ec829c19e6a58972f93883f780cd
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727202346/ei/yq_yZvbDDqPHjuMP0J-z8Qo/ip/103.115.20.70/id/AgjZwHXjdJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250684/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/54MbxXnIx3eiuPmN2IcjOzzqWgOAhA80494C0q-Jb_ZBQhXWb9wruCe1OChvBkTsdD8eroa3GAApfbA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLLwdAm2TweAsSztbmDkeKyeFbvWETgHCk1aOPNd9qTICIBPNq7pDg_X7RIgd4MBD5Q5B80Hqmw2leDmvK1jDCN9C/file/index.m3u8
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
 https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727020358-0-0-bd7c175c8f36888369b22cd32f8ecbab
