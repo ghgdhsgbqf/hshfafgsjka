@@ -10,6 +10,28 @@
 #EXTM3U x-url-tvg="http://xtv.ooo:8080/owais1/12345/350972"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://azimabid00.github.io/epg/astro_epg.xml,https://www.bevy.be/bevyfiles/japan.xml.gz,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml.gz,https://www.bevy.be/bevyfiles/slovakiapremium.xml.gz,https://www.bevy.be/bevyfiles/unitedstatespremium7.xml.gz" tvg-shift=0 m3uautoload=1   
 
+####### Moto GP 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcbKHTmb2Z2AcJAcMWfH1SVxdd4fKPSgYuw&s", 1 Live : 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcbKHTmb2Z2AcJAcMWfH1SVxdd4fKPSgYuw&s", 1 Live : 1 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+
+
+
+
+
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://asset-2.tstatic.net/banjarmasin/foto/bank/images/Jadwal-Persib-vs-Port-FC-Liga-Champions-Asia-Siaran-TV-RCTI.jpg", 1Persib vs Port
 https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001726744445-0-0-af6192cc0ed9c35089cc774d2ba780a0
 
