@@ -714,18 +714,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=HorizonSports
 
-#EXTINF:0 tvg-logo="https://cdn1-production-images-kly.akamaized.net/PS49rQ5RedGvWSIHOxwqYZTOprw=/0x160:720x566/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3535755/original/001295200_1628510748-Premier_League_-_ilustrasi_Logo_Premier_League.jpg" group-title="DTV | Doni TV" ,6 Sport : Liga Inggris 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/PS49rQ5RedGvWSIHOxwqYZTOprw=/0x160:720x566/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3535755/original/001295200_1628510748-Premier_League_-_ilustrasi_Logo_Premier_League.jpg" ,6 Sport : Liga Inggris 2
-http://iptvkita.my.id:25461/zack24/zack24/232
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/PS49rQ5RedGvWSIHOxwqYZTOprw=/0x160:720x566/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3535755/original/001295200_1628510748-Premier_League_-_ilustrasi_Logo_Premier_League.jpg" ,6 Sport : Liga Inggris 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://cdn1-production-images-kly.akamaized.net/PS49rQ5RedGvWSIHOxwqYZTOprw=/0x160:720x566/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3535755/original/001295200_1628510748-Premier_League_-_ilustrasi_Logo_Premier_League.jpg" group-title="DTV | Doni TV" ,6 Sport : Liga Inggris 
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001727517331-0-0-2509a7c2690041686af8d336626487bc
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQze0-3ifBjURFowFNF_YwT3lAxaXhPbA9xHg&s" ,6 Sport : Liga Itali 1
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/84505
