@@ -306,9 +306,8 @@ https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001727512065-0-
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
 https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001727020481-0-0-15d570ba2e43fe887871541452c254f6
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07PBIMxJBvYNhfz17ea6PZAB9_U8lRh2cMQDKkvu4hUDtx3wAzHeo3UU3&s=10", AFC U20
-https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001727437944-0-0-dd072c58794c18871b145703a733b8ea
-
+#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdvEZmvrXJs8u9JvQ12rYWwVENW-TWop2x-M_0BSUGrW6_op3BedCma4&s=10", AFC U20
+https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=41e8975668d5ffbb1692d97ff2dcb53f&txTime=66f94650
 
 
 
