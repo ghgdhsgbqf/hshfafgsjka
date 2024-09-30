@@ -90,37 +90,13 @@ https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=41e8975668d5ffbb1692d
 
 
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 1 Live : 1
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", 1 Live : 1.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-
-
-
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLath7_GjWV1C-3hOyhF17Oyo2EaOTltT2rESEoZdUaokedwOErU2YJV4&s=10",1 Live : 1. Sepak Bola 1 
-https://live2.procdnlive.com/livecdn/channel23.m3u8?auth_key=3000001724507599-0-0-c9e839e73b34c26d9b0fa215086e9f23
-
-
-
 
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",1 live : BRI Liga 1
-https://live3.procdnlive.com/livecdn/channel78.m3u8?auth_key=3000001727524272-0-0-22202aba661be88796f708f04344627d
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/744px-Logo_Terbaru_Liga_2_Indonesia.png",1 Live : Liga 2 Pegadaian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727202346/ei/yq_yZvbDDqPHjuMP0J-z8Qo/ip/103.115.20.70/id/AgjZwHXjdJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250684/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/54MbxXnIx3eiuPmN2IcjOzzqWgOAhA80494C0q-Jb_ZBQhXWb9wruCe1OChvBkTsdD8eroa3GAApfbA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLLwdAm2TweAsSztbmDkeKyeFbvWETgHCk1aOPNd9qTICIBPNq7pDg_X7RIgd4MBD5Q5B80Hqmw2leDmvK1jDCN9C/file/index.m3u8
+https://manifest.googleeo.com/api/manifest/hls_variant/expire/1727202346/ei/yq_yZvbDDqPHjuMP0J-z8Qo/ip/103.115.20.70/id/AgjZwHXjdJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250684/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/54MbxXnIx3eiuPmN2IcjOzzqWgOAhA80494C0q-Jb_ZBQhXWb9wruCe1OChvBkTsdD8eroa3GAApfbA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLLwdAm2TweAsSztbmDkeKyeFbvWETgHCk1aOPNd9qTICIBPNq7pDg_X7RIgd4MBD5Q5B80Hqmw2leDmvK1jDCN9C/file/index.m3u8
 
 
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/LxJunYKy0ztQiV1HwO9HTa1x6xQ=/0x112:720x518/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4844441/original/068246200_1716826160-Piala_AFF_U-19_-_Ilustrasi_Logo_AFF_ASEAN_Championship_U-19_copy.jpg",1 Live : Doni TV
