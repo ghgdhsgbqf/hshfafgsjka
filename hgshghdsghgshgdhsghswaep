@@ -297,7 +297,7 @@ https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001727613568-0-0
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-https://live3.procdnlive.com/livecdn/channel78.m3u8?auth_key=3000001727524272-0-0-22202aba661be88796f708f04344627d
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
 https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001727020481-0-0-15d570ba2e43fe887871541452c254f6
