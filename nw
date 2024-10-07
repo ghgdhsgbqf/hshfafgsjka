@@ -308,7 +308,7 @@ https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724594828-0-
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/800px-Bundesliga_Logo_%282017%29.svg.png", Liga Jerman
-https://fhlsport20.fls77.xyz/token-dkF7nrOUfPeG6WEplfY6zWiClMCE03zjaXOjx%2FQcFGWn5OadHUFdCIIvrhRIX05JBCeIwzBpmv10a/cfall/s2/v3b/pq173qs7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/1/chunks.m3u8
+https://livecdn.rumsport.com/stream/1/chunks.m3u8?token=195ced2a37a566938076396fd18fcb8fc2171542&is_vip=true&verify=1728321480-dldXUoiUQFp2VJigrxNMWyrdyClCGv9mS9b1Nr5RmXs%3D3b/pq173qs7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/1/chunks.m3u8
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
