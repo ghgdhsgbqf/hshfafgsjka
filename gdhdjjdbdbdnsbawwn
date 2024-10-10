@@ -213,6 +213,22 @@
 
 
 
+####### Sepakbola
+
+#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 1
+https://pull.niues.live/live/stream-9912098_lhd.m3u8?auth_key=1728590126-0-0-ad06c68228be03832b40c44ce202fe0e
+
+#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
+https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1728590186-0-0-422866777b3ddfeef04b487de926f281
+
+#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 3
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1728590186-0-0-30402eeb680974684002ed2e6cf324cd
+
+
+
+
+
+
 
 
 
