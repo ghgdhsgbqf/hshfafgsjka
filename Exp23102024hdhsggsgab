@@ -15,7 +15,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 ###### Wayang Golek 
-EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ytimg.com/vi/uuMHqpt6lT8/hq720.jpg?v=670a7817&sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8XBB2gfeNPJc02C36-h9CnWsaHA", 1
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ytimg.com/vi/uuMHqpt6lT8/hq720.jpg?v=670a7817&sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8XBB2gfeNPJc02C36-h9CnWsaHA", 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728769232/ei/cJgKZ74J1q31_A_Tz5GQBg/ip/103.115.20.70/id/uuMHqpt6lT8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303816/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/maxh/4320/siu/1/spc/54MbxQQ55el7TPRJcNFwFh86mUxiRTk7mlcKL-aSC49vAuICE5dH1gllOyeZALKR7Tyr6cuDYn0t/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANKN8m6FFLXRxZX1CJ-PMGvF1eAtSawbphIPaSgSbvfxAiEAuUGBQSsSKKo6bvVMHYce0ZDxG2h7Y1VZVFXRtYww5Uk%3D/file/index.m3u8
 
 
