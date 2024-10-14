@@ -1723,6 +1723,12 @@ https://iptv.urfan.web.id/video/info.m3u8
 ########################## VOD Indo
 
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Poster_TIAB.jpg", Tuhan Ijinkan Aku Berdosa 2024
+https://host.my-id.id/movie%20indo/ijinkanakuberdosa2024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e9/Poster_Galaksi.jpg", Galaksi 2023
+https://host.my-id.id/movie%20indo/21-Galaksi_2023.mp4
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ac/Poster_Dua_Hati_Biru_%282024%29.jpg", Dua Hati Biru 2024
 http://host.my-id.id/movie%20indo/duahatibiru.mp4
 
