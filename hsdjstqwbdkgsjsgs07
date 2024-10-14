@@ -944,6 +944,14 @@ https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Poster_TIAB.jpg", 7 1 Tuhan Ijinkan Aku Berdosa 2024
+https://host.my-id.id/movie%20indo/ijinkanakuberdosa2024.mp4
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e9/Poster_Galaksi.jpg", 7 2 Galaksi 2023
+https://host.my-id.id/movie%20indo/21-Galaksi_2023.mp4
+
+
+
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg", 7 1 Vina : Sebelum 7 Hari
 https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDTS.mp4
 
