@@ -76,9 +76,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" group-title="DTV | Doni TV", 2 Lokal : SCTV ᴴᴰ
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
 
 
 
