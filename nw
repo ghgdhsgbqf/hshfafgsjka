@@ -311,9 +311,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 
 ###################### Live Event 
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/01/zhejiang-fc-vs-persib-bandung_169.png?w=600&q=90", PERSIB Bandung
-https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001729238337-0-0-aaa6b6ada41edba682e082c5def81a55
-
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
 https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001728827005-0-0-3c6d077602d6f41628b98a3ea34ae10f
 
@@ -330,14 +327,11 @@ https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001728826921-0-0
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001730110894-0-0-3d0fa12767fb61495e7e8f05fda39627
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
 https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001727020481-0-0-15d570ba2e43fe887871541452c254f6
 
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdvEZmvrXJs8u9JvQ12rYWwVENW-TWop2x-M_0BSUGrW6_op3BedCma4&s=10", AFC U20
-https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=41e8975668d5ffbb1692d97ff2dcb53f&txTime=66f94650
 
 
 
