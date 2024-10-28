@@ -15,41 +15,6 @@
 
 
 
-####### Arena Sport 
-
-
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV", Arena Sport 1 Premium HD
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12342.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 2 Premium HD
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12343.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 3 Premium HD
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12344.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 1 Premium
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12362.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 2 Premium
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12363.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 3 Premium
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12392.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 1 Premium BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13011.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 2 Premium BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13012.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 3 Premium BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13013.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 1 BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/12166.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 2 BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13002.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 3 BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13003.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 4 BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13004.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 5 BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13005.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 6 BIH
-http://tv.nova-iptv.com:80/live/Miro_Skurdija/b2yqe4n0V8/13006.m3u8
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn_3u1J5pIA8oPmzec2m5hJ__oqXksRRm1TbG_Wb2AwFsL6tKHFoVQc9K&s=10" group-title="DTV | Doni TV",Arena Sport 1 HD BIH
-
 
 ###### Persib Bandung
 
