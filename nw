@@ -213,7 +213,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728769232/ei/c
 ####### Sepakbola
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 1
-https://pull.niues.live/live/stream-9912098_lhd.m3u8?auth_key=1728590126-0-0-ad06c68228be03832b40c44ce202fe0e
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1730651428-0-0-994450a6e80148b93c1a91f5c7181dd5
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
 https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1728590186-0-0-422866777b3ddfeef04b487de926f281
@@ -312,7 +312,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 ###################### Live Event 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
-https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001728827005-0-0-3c6d077602d6f41628b98a3ea34ae10f
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1730651428-0-0-994450a6e80148b93c1a91f5c7181dd5
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/640px-Ligue1_Uber_Eats_logo.png", Liga Francis
 https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724594828-0-0-a8ab600e51cc695a6f8bba7186204e11
