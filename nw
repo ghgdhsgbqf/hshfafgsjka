@@ -1480,6 +1480,10 @@ https://iptv.urfan.web.id/video/info.m3u8
 
 ########################## VOD Indo
 
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ipar Adalah Maut 2024
+https://host.my-id.id/movie%20indo/Ipar.Adalah.Maut.2024.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv.mp4
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Poster_TIAB.jpg", Tuhan Ijinkan Aku Berdosa 2024
 https://host.my-id.id/movie%20indo/ijinkanakuberdosa2024.mp4
 
