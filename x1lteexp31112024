@@ -315,22 +315,22 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1731161488-0-0-acc92954197c442df4f4472ea73a414e
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/640px-Ligue1_Uber_Eats_logo.png", Liga Francis
-https://live2.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001724594828-0-0-a8ab600e51cc695a6f8bba7186204e11
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1731250529-0-0-dcf2d96530a04d565cbc99d9ef18c622
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/800px-Bundesliga_Logo_%282017%29.svg.png", Liga Jerman
-https://livecdn.rumsport.com/stream/1/chunks.m3u8?token=195ced2a37a566938076396fd18fcb8fc2171542&is_vip=true&verify=1728321480-dldXUoiUQFp2VJigrxNMWyrdyClCGv9mS9b1Nr5RmXs%3D3b/pq173qs7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/1/chunks.m3u8
+https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1731250529-0-0-991b64677c4d0aa2a9825c04845cc85fGv9mS9b1Nr5RmXs%3D3b/pq173qs7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/1/chunks.m3u8
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
-https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001728826921-0-0-e1dcb2344d565ea44e6772b37c46fe4e
+https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1730977169-0-0-e9f337806ec396aab922b757abce35d2
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
 https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=63e45fce3efb0be0f8aa133dcfcadc66&txTime=6724c005
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1730651608-0-0-e2080acb1fecb4d5ad636972d7f0818b
+https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=4164e9fb5bcb11713c32c4a930751e84&txTime=67310f75
 
 
 
