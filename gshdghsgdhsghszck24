@@ -14,12 +14,50 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
-
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
 https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=63e45fce3efb0be0f8aa133dcfcadc66&txTime=6724c005
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ipar Adalah Maut 2024
-https://host.my-id.id/movie%20indo/Ipar.Adalah.Maut.2024.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv.mp4
+
+
+################# Drakor 
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://www.dens.tv/images/channel-logo/100.jpg",K-PLUS 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/1024px-KBS_logo_2023.svg.png",KBS Korea
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",KBS World
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg",tvN 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg",tvN Movies 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://dl.dropboxusercontent.com/s/o3oc07hz412yo99/one.png", One
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+
+
+
+
+
+
 
 
 
@@ -96,6 +134,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" group-title="DTV | Doni TV", 2 Lokal : SCTV ᴴᴰ
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
 
 
 
