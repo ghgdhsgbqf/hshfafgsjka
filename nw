@@ -643,11 +643,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
-#EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/kids/doraemon.png" group-title="Kids",Kids DORAEMAON
-http://iptvkita.my.id:25461/zack24/zack24/117
-
-#EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/kids/upin_ipin.png" group-title="Kids",Kids UPIN IPIN
-http://iptvkita.my.id:25461/zack24/zack24/115
 
 
 
@@ -1114,33 +1109,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid
 ####### BERITA #######
 ######################
 
-#EXTINF:-1 group-title="Berita" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://iptv.urfan.web.id/logo/bbc.png",BBC World News
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-
-#EXTINF:-1 group-title="Berita" tvg-id="bloombergtvasia.hk" tvg-logo="https://iptv.urfan.web.id/logo/bloomberg.png",Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
-
-#EXTINF:-1 group-title="Berita" tvg-id="cgtn.cn" tvg-logo="https://iptv.urfan.web.id/logo/cgtn.png",CGTN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
-
-#EXTINF:-1 group-title="Berita" tvg-id="cnbcasia.sg" tvg-logo="https://iptv.urfan.web.id/logo/cnbcasia.png",CNBC Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 group-title="Berita" tvg-id="dwenglish.de" tvg-logo="https://iptv.urfan.web.id/logo/dwtv.png",DW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1205,13 +1173,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorl
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
-#EXTINF:-1 group-title="Berita" tvg-id="tv5mondeasia.fr" tvg-logo="https://iptv.urfan.web.id/logo/tv5monde.png",TV5 Monde
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-
 #EXTINF:-1 group-title="Berita" tvg-id="trtworld.tr" tvg-logo="https://iptv.urfan.web.id/logo/trtworld.png",TRT World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
@@ -1222,10 +1183,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 #EXTINF:-1 group-title="Berita" tvg-id="cna.sg" tvg-logo="https://iptv.urfan.web.id/logo/cna.png",CNA
 #EXTVLCOPT:http-user-agent=mewatch/6.86.102 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
-
-#EXTINF:-1 group-title="Berita" tvg-id="liputan6.id" tvg-logo="https://iptv.urfan.web.id/logo/liputan6.png",Liputan 6
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://yt.urfan.web.id/stream/UC1QpnGo11epfexw1bIiTHTg/master.m3u8
 
 #EXTINF:-1 group-title="Berita" tvg-id="aljazeeraenglish.qa" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png",Al-Jazeera English
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
