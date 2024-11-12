@@ -2167,7 +2167,7 @@ https://iptv.urfan.web.id/video/info.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/video/info.m3u8
 
-#EXTINF:-1 group-title="Berita" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
+#EXTINF:1 group-title="Berita" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/video/info.m3u8
 
@@ -2180,13 +2180,23 @@ https://iptv.urfan.web.id/video/info.m3u8
 
 
 
+
+
 ########################## VOD Indo
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ipar Adalah Maut 2024
+https://host.my-id.id/movie%20indo/Ipar.Adalah.Maut.2024.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv.mp4
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Poster_TIAB.jpg", Tuhan Ijinkan Aku Berdosa 2024
 https://host.my-id.id/movie%20indo/ijinkanakuberdosa2024.mp4
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e9/Poster_Galaksi.jpg", Galaksi 2023
 https://host.my-id.id/movie%20indo/21-Galaksi_2023.mp4
+
+
+
+
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ac/Poster_Dua_Hati_Biru_%282024%29.jpg", Dua Hati Biru 2024
 http://host.my-id.id/movie%20indo/duahatibiru.mp4
@@ -2195,101 +2205,14 @@ http://host.my-id.id/movie%20indo/duahatibiru.mp4
 https://host.my-id.id/movie%20indo/Nonton%20Pasutri%20Gaje%20Subtitle%20Indonesia%20-%20CinemaXXI.mp4
 
 
-
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg", 1 Vina : Sebelum 7 Hari
 https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDTS.mp4
 
-
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeYLVXkNZal_6m70hU2fhHORoBfgJL_GwfcF9WpPZwC9VVk4L1A7sGUE&s=10", 1. Kang Max From PeeMax CAM 2024
 https://host.my-id.id/movie%20indo/Layarxxi.pw.Kang.Mak.from.Pee.Mak.2024.CAM.720p.x264.mp4
-
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/A4kY5RKiPJ0sRknU4NojItr93Jr-152x228.jpg", Badarawuhi Di Desa Penari (2024)
-https://be6224.rcr92.lim01.cdn112.com/hls2/01/06638/01216lqps6cc_h/master.m3u8?t=Zo8PfQkA77x5puEMCTC2XAQFhIlC46vVBOD81q33DEk&s=1723886307&e=10800&f=33282367&srv=32&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/vGm9g8UvL0yJCaVvNzsA4nusfRC-152x228.jpg", Rumah Dinas Bapak (2024)
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/06720/tgrntomh31lu_h/master.m3u8?t=XMJWv8LV5AlXQWu1r_sojeDf0BiBCu_FOnyHhtASXlI&s=1723886517&e=10800&f=33604248&srv=11&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/znicsfFuTboZsNzBdZNKYp7VH4P-152x228.jpg", Jurnal Risa by Risa Saraswati (2024)
-https://be6224.rcr92.lim01.cdn112.com/hls2/01/06692/8ambpkgnayw7_h/master.m3u8?t=DFt_dDzdEBd-rm5fX0SSzYp90lEIUpf6YbKYtBuTLO0&s=1723886598&e=10800&f=33460781&srv=20&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/rH9x3nZVT4cKW4jVTw8LahPX8BS-60x90.jpg", Ten Years Challenge (2024)
-https://be6224.rcr92.lim01.cdn112.com/hls2/09/06681/jxr03df7u199_h/master.m3u8?t=a-H1visQLO-phMJml7nrH60GcqajlrxGHWgI-Rm6Fc0&s=1723886676&e=10800&f=33408092&srv=53&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/lY6Y2wNzOgSyLJrE8rzf8QmKZpG-60x90.jpg", Pasutri Gaje (2024)
-https://be2719.rcr22.ams01.cdn112.com/hls2/06/06541/8oc5av6cpt9r_h/master.m3u8?t=ee2FI-qnD9Fi8DlnRr1L10_pvghingqaCqfxjz5jOK4&s=1723886766&e=10800&f=32750983&srv=53&asn=149925&sp=4000
-
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/2YUT3UDp6nA42fEd3tOsfzsu1GH-60x90.jpg", Catatan Harian Menantu Sinting (2024)
-https://be2719.rcr22.ams01.cdn112.com/hls2/06/06656/sq25a6dbre79_h/master.m3u8?t=GljoYXK9v1733xrkiCKTLZPT7crWbSSbVU2fAUZ9UMI&s=1723886834&e=10800&f=33280426&srv=53&asn=149925&sp=4000
-
-
-
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="http://206.189.81.218/wp-content/uploads/2024/08/sAf9NnPMshs4UjNqJ551e3x5yRF-152x228.jpg", Bonnie (2024)
-https://be6224.rcr92.lim01.cdn112.com/hls2/01/06720/ny8ki7a3kq5b_h/master.m3u8?t=6lmGeLUFVqL6hesVAbX0uTtkZGgY4KMEfAHOjqjHdWk&s=1723883038&e=10800&f=33604553&srv=49&asn=149925&sp=4000
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://cdn0-production-images-kly.akamaized.net/VREgDevXQ5PpIumB09QzC3dXiIs=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4659290/original/052470000_1700667570-Ancika_2.jpeg", Ancika 1995
-https://data01.mv21.cc/mv/ban/13-Ancika_2024.mp4
-
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg", Gampang Cuan
-https://gdjpkwg5strc.hgagecdn.com/hls2/01/01568/3hb5zc48f6vh_,l,n,.urlset/master.m3u8?t=DeoEB5In2fpzAcNgIxVXl7MQArvEK4neQ4y681ZWxpc&s=1723882350&e=129600&f=10483005&srv=hfxFU136zlaX&i=0.4&sp=500&p1=hfxFU136zlaX&p2=hfxFU136zlaX&asn=149925
+https://host.my-id.id/movie%20indo/dmovie212%20gampang%20cuan.mp4
 
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://lsf.go.id/wp-content/uploads/2023/07/PF-Imam-Tanpa-Makmum.jpg", Imam Tanpa Makmum
-https://data04.streamku.xyz/mv/ban/18-Imam_Tanpa_Makmum_2023.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIxZmE1OWEtZjYyNi00MjMyLWI1YzgtY2FlMWE0YjNiMTk0XkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg", Saranjana Kota Ghaib
-https://data01.mv21.cc/mv/ban/13-Saranjana_Kota_Ghaib_2023.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg", 13 Bomb di Jakarta
-https://data04.streamku.xyz/mv/ban/14-13_Bombs_2023.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwNmZkMDYtMzk2ZS00MDIwLTgwYWItYWJiMjNjMWNhNmZkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Siksa Neraka
-https://data04.streamku.xyz/mv/ban/15-Siksa_Neraka_2023.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1MDM4ZjAtYWJhZS00MTk5LThhMTEtYjcxMjlkMDIzODNlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Srimulat : Hidup Memang Comedy
-https://data04.streamku.xyz/mv/ban/17-Srimulat_Hidup_Memang_Komedi_2023.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSdJBemTFv_Wmnxy8jc8ZSaYGJqPLgSHoIqh3gwhZHk84UPWnCcrnedo&s=10", Sujud Terakhir Bapak
-https://data04.streamku.xyz/mv/ban/16-Sujud_Terakhir_Bapak_2024.mp4
-
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/37xNw1pMQg3uNeBGBoCtDzEQdcs-170x255.jpg", Demi Si Buah Hati
-https://data04.streamku.xyz/mv/ban/16-Demi_Si_Buah_Hati_2024.mp4
-
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/yJ7uXTYiFS21wYxluX3gAzfLDiU.jpg", Trinil
-https://data04.streamku.xyz/mv/ban/14-Trinil_2024.mp4
-
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/dXTRgZOSceHAokVkImxA443MPCV.jpg", Ayo Balikan
-https://data04.streamku.xyz/mv/ban/13-Ayo_Balikan_2024.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/5F4a9rVCjpA9H9SOmO2ZyzDrbr7-152x228.jpg", Cinta Kiblat
-https://data01.mv21.cc/mv/ban/12-Cinta_Kiblat_2024.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/15y6z3izu1gdNE9e9uCqwnI60CH-60x90.jpg", Mukidi
-https://data04.streamku.xyz/mv/ban/15-Mukidi_2024.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/4t17t7iaDiTlPBE3ULWlZ3VeM0w-152x228.jpg", Agak Laen
-https://data01.mv21.cc/mv/ban/12-Agak_Laen_2023.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/A4kY5RKiPJ0sRknU4NojItr93Jr-152x228.jpg", Badarwuhi di Desa Penari
-https://data01.mv21.cc/mv/ban/8-Badarawuhi_Di_Desa_Penari_2024.mp4
-
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://www.wearemany.tv/wp-content/uploads/2024/08/gTVVPEMdLFsMklvf6Yac8RP41mS-152x228.jpg", Pamali : Dusun Pocong
-https://data04.streamku.xyz/mv/ban/15-Pamali_Dusun_Pocong_2023.mp4
-
-
-########### Film Semi 
-#EXTINF:0 group-title="Film Semi" tvg-logo="data:image/jpeg;base64,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", 01 Honjou Suzu
-https://dbhost.my-id.id/adult/STARS-974-un.mp4
-
-#EXTINF:0 group-title="Film Semi" tvg-logo="https://i.ebayimg.com/images/g/EGIAAOSwzBdjHIVE/s-l1200.jpg", Ririko Kinoshita
-https://dbhost.my-id.id/adult/achj-004.mp4
-
-#EXTINF:0 group-title="Film Semi" tvg-logo="https://javcode.net/wp-content/uploads/2023/10/STARS-909-%20javgg.net-303x188.jpg", THE Instant Measure! 'Charge! An Older Sister Who Loves Blowjobs And Suddenly Sucks Dick! Lots Of Ejaculation With Saliva Dripping Deep Throat & Tornado Blowjob Rin
-https://host.my-id.id/adult/STARS-909_Eng.mp4
 
 
 
