@@ -346,6 +346,16 @@ https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=4164e9fb5bcb11713c3
 
 ################# Lokal ID
 
+#EXTINF:0 group-title="Lokal ID" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR (BOLA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.mpd?id=205
+
+
+
+
+
 #EXTINF:0  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal ID",RCTI Vision
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
