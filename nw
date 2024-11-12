@@ -1041,6 +1041,81 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 ################### Sport
 
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arena1x2.png", ARENA  1x2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport1.png",ARENA SPORT 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport2.png", ARENA SPORT 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u8GuR-y7a3oy6NlLyAhr6-Bj-3dDYdW_Xw&s", ARENA SPORT 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u8GuR-y7a3oy6NlLyAhr6-Bj-3dDYdW_Xw&s", ARENA SPORT 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u8GuR-y7a3oy6NlLyAhr6-Bj-3dDYdW_Xw&s", ARENA SPORT 5 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u8GuR-y7a3oy6NlLyAhr6-Bj-3dDYdW_Xw&s", ARENA SPORT 6 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport1.png" tvg-rec="imn09",ARENA PREMIUM  1 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7263/index.m3u8 2.m3u8
+
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport2.png" tvg-rec="imn09",ARENA PREMIUM 2 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7264/index.m3u8
+
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport3.png" tvg-rec="imn09",ARENA PREMIUM 3 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7265/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport5.png" tvg-rec="imn09",ARENA PREMIUM 5 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7267/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport6.png" tvg-rec="imn09",ARENA SPORT 6 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7268/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/arenasports/arenasport6.png" tvg-rec="imn09",ARENA PREMIUM 6 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7269/index.m3u8
+
+#EXTINF:0 group-title="Sport", tvg-logo="https://ozti.com/media/2xbno5h1/ozti-logo.png", ARENA  OZTI
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/171883
+#EXTINF:0 group-title="Sport" tvg-logo="https://ozti.com/media/2xbno5h1/ozti-logo.png", ARENA   OZTI
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/193744
+#EXTINF:0 group-title="Sport" tvg-logo="https://ozti.com/media/2xbno5h1/ozti-logo.png", ARENA  OZTI
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/57711
+
+
+
+
+
 #EXTINF:0 group-title="Sport" tvg-logo="https://mastertv.tech/logo/beinindo/beinxtra1.png" tvg-rec="imn09",BEIN SPORT EXTRA 1 HD
 http://goldiptvofficiel.tv:25461/live/jutoba/Wy8NPcZn5Yrv/47292.m3u8
 
