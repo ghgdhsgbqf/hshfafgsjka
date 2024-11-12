@@ -205,6 +205,115 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+
+################RELIGI
+
+#EXTINF:0 group-title="RELIGI" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://mastertv.tech/logo/religi/rtbgolife.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+#EXTINF:0 group-title="RELIGI" tvg-logo="https://mastertv.tech/logo/religi/surua.png",Surau TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:0 group-title="RELIGI" tvg-logo="https://mastertv.tech/logo/religi/mqtv.png" , MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w2078258997.m3u8
+#EXTINF:0 group-title="RELIGI" tvg-logo="https://mastertv.tech/logo/religi/mtatv.png",MTA TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+
+#EXTINF:0 group-title="RELIGI" tvg-logo="https://mastertv.tech/logo/religi/mui.png",MUI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/muslim.png" group-title="RELIGI",MUSLIM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/qurantv.png" group-title="RELIGI",Al Quran
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/tv9.png" group-title="RELIGI",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/tawaf.png" group-title="RELIGI",TAWAF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/alsunnah.png" group-title="RELIGI",AL Sunnah Nabawi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+#EXTINF:0 group-title="RELIGI" tvg-id="madanitv.id" tvg-logo="https://mastertv.tech/logo/religi/madanitv.png",Madani TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/rodja.png" group-title="RELIGI",RODJA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+
+#EXTINF:0 tvg-id="Novyikhrystyianskyi.ua" tvg-logo="https://mastertv.tech/logo/religi/novyi.png" group-title="RELIGI",Novyi khrystyianskyi
+http://45.153.35.237:8000/play/a00v
+
+
+#EXTINF:0 tvg-id="SanJoseTV.cr" tvg-logo="https://mastertv.tech/logo/religi/sanjose.png" group-title="RELIGI",San José TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:0 tvg-id="NewLifeTV.ke" tvg-logo="https://mastertv.tech/logo/religi/newlife.png" group-title="RELIGI",New Life
+https://ythls.armelin.one/channel/UCk3buHLJP6KAcbtsw8fj4hg.m3u8
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/newlifee.png" group-title="RELIGI", REFORMED
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1acfe74d40e91e0368324b074c256bab:f3211e3f8079a8584ac77afda2b0e119
+https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/life.png" group-title="RELIGI",LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
+https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/ewtn.png" group-title="RELIGI",EWTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb2393dc078c4b708cce148304db1ea7:78437d7ccfe7a3a220c53180eb5bdeb1
+
+
+
+https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+#EXTINF:0 tvg-id="MercyandTruthMinistriesTelevision.jm" tvg-logo="https://mastertv.tech/logo/religi/mtm.png" group-title="RELIGI",MTM TV 
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
+#EXTINF:0 tvg-id="DiosTeVe.hn" tvg-logo="https://mastertv.tech/logo/religi/kan.png" group-title="RELIGI",KARTUN ANAK  NASRANI
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+
+
+
+
+#EXTINF: -1 tvg-id="madinah" tvg-logo="https://mastertv.tech/logo/religi/alsunnah.png" group-title="RELIGI", AL SUNNAH AL NABAWIYAH TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+
+#EXTINF: -1 tvg-id="madinah" tvg-logo="https://mastertv.tech/logo/religi/alsunnah.png" group-title="RELIGI", AL SUNNAH 
+https://flv.intechmedia.net/live/ch13.m3u8|User-Agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+
+#EXTINF:0 group-title="RELIGI" tvg-id="alimantv.id" tvg-logo="https://mastertv.tech/logo/religi/alimani.png", AL-IMAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:0 group-title="RELIGI" tvg-id="niagatv.id" tvg-logo="https://mastertv.tech/logo/religi/niagatv.png", NIAGA TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch10.m3u8
+
+
+
+
+
+
+
+
+
+
 ###### Wayang Golek 
 #EXTINF:0 group-title="Live Wayang Golek" tvg-logo="https://i.ytimg.com/vi/uuMHqpt6lT8/hq720.jpg?v=670a7817&sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8XBB2gfeNPJc02C36-h9CnWsaHA", 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731268878/ei/rrwwZ5n5EJmPvcAProjF4Qs/ip/103.115.20.254/id/a7V7ELf2WcI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/qtApAbAEZEdMgw7jcLQJIIvuzA8VK7-fs93_Waw9XOvtOLvRiRdZtcHOmHKmgox_bA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXRiicCAKwuFHnoF0O5s9UxwWE5w931tn0sc5LyoTuQQCIAT5WAB4ja43OgZ9WQdh4I7xT5Oc-SZVMRu7Gu4FKEzd/file/index.m3u8Hqpt6lT8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303816/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/maxh/4320/siu/1/spc/54MbxQQ55el7TPRJcNFwFh86mUxiRTk7mlcKL-aSC49vAuICE5dH1gllOyeZALKR7Tyr6cuDYn0t/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANKN8m6FFLXRxZX1CJ-PMGvF1eAtSawbphIPaSgSbvfxAiEAuUGBQSsSKKo6bvVMHYce0ZDxG2h7Y1VZVFXRtYww5Uk%3D/file/index.m3u8
