@@ -17,6 +17,58 @@
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
 https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=63e45fce3efb0be0f8aa133dcfcadc66&txTime=6724c005
 
+#### Piala Dunia Kualifikasi ASIA
+
+
+
+
+
+
+
+#EXTINF:1 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:1 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:1 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:1 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 4
+https://pull.niues.live/live/stream-474787_lhd.m3u8?auth_key=1728588626-0-0-84b078871300e6c70a72938a483cd133
+
+#EXTINF:1 group-title="DTV | Doni TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/AFC_Asian_Qualifiers.png", 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ################# Drakor 
