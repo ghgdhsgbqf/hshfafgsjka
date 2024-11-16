@@ -303,6 +303,24 @@ https://flv.intechmedia.net/live/ch9.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch10.m3u8
 
+#EXTINF:0 group-title="Netflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsjl_PF-JSnWrTgBw66zoJ4nDu6mb5_4swg&usqp=CAU", 1. Paylater Episode 1
+https://host.my-id.id/movie%20indo/Pay%20Later%20Episode%201.mp4
+
+#EXTINF:0 group-title="Netflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsjl_PF-JSnWrTgBw66zoJ4nDu6mb5_4swg&usqp=CAU", 1. Paylater Episode 2
+https://host.my-id.id/movie%20indo/Pay%20Later%20Episode%202.mp4
+
+#EXTINF:0 group-title="Netflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsjl_PF-JSnWrTgBw66zoJ4nDu6mb5_4swg&usqp=CAU", 1. Paylater Episode 3
+https://host.my-id.id/movie%20indo/Pay%20Later%20Episode%203.mp4
+
+
+#EXTINF:0 group-title="Netflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsjl_PF-JSnWrTgBw66zoJ4nDu6mb5_4swg&usqp=CAU", 1. Paylater Episode 4
+https://host.my-id.id/movie%20indo/Pay%20Later%20Episode%204.mp4
+
+
+
+
+
+
 
 
 
