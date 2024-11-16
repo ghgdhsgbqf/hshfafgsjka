@@ -318,7 +318,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 ####### Sepakbola
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 1
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1730651428-0-0-994450a6e80148b93c1a91f5c7181dd5
+https://bf.shandongjnsd.com/live/322722_hd01.m3u8?txSecret=9a3e5415ae4bb2e5ee25a935fcde19ad&txTime=67385b25
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
 https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1728590186-0-0-422866777b3ddfeef04b487de926f281
