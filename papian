@@ -427,8 +427,8 @@ https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1731250529-0-0-dcf2
 https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1731250529-0-0-991b64677c4d0aa2a9825c04845cc85fGv9mS9b1Nr5RmXs%3D3b/pq173qs7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/1/chunks.m3u8
 
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 
-https://0564c5a6c35c.entrypoint.cloud.wowza.com/app-DV2vClc2/ngrp:3a4b204b_all/playlist.m3u8
+#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
+http://iptv12k.com:35461/live/654321/123456/2337.ts
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
