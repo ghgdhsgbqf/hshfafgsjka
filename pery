@@ -18,5 +18,10 @@
 #EXTM3U
 
 
+#EXTINF:0 tvg-logo="https://mastertv.tech/logo/lokal/moji.png" group-title="Lokal ID",MOJI VIDIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kametv.my.id/pdx/play.m3u8?id=206&type=hls
+
+
 #EXTINF:0 tvg-logo="https://mastertv.tech/logo/lokal/moji.png" group-title="Lokal ID",MOJI HD 
 https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
