@@ -1480,6 +1480,9 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/f17f9e22bf071063d07b37e780fc5569.jpg", Crossroad 2024
+https://host.my-id.id/movie%20indo/Crossroad%202024.mp4
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://filmindonesia.or.id/f/img/movie/poster/dewi-2024.jpg", Dewi 2024
 https://host.my-id.id/movie%20indo/Dewi%202024.mp4
 
