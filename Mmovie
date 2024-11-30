@@ -1,2 +1,377 @@
 #EXTM3U 
 
+
+
+############################ Movie
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/axn.png",AXN HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/movie/bioskop247.png" group-title="Movie",BIOSKOP ACTION
+http://iptvkita.my.id:25461/zack24/zack24/2544
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://brn-tv.xyz/logo/movie/bioskop_indonesia.png" group-title="Movie",Bioskop Indo 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg",CCM (Celestial Classic MV)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/celestial_movies.png",Celestial Movies HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/cinemachi_action.png",Cinemachi Action HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/cinemachi_max.png",Cinemachi Max HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/cinemachi.png",Cinemachi HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/cinemachi_xtra.png",Cinemachi Xtra HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABL1BMVEUAAAD/+9X/+tD//NP/+8z//NEAAAP//9b//9j//9L//9r/+9f8+Mn//9X//9P/+9T367H04Z1aWlFTUkm1tJj//8xdXVDn5cSfnIXBv6P88sH467SAfGpra1vT0LH//94vLSf46KnBv55VT0BHSEHv5KwaGRUmIxw8QDX/87VeW0fz7K/v5bD/98D14qz//cPd2bWnpY335Zg3NCZJRzr26qQTEgaRkXkQEg/i27BPTzqon305OTTw7ch4d2uGhW2cj3fIvpOmn3Y8OSgoJRSRiWp/dlbZzJOenoFsalAZDgyPjH7d2rFnZlxnZE6wrpTHxq2rppeHdlnQx6NPSjKViGXl4ciLhVwtLS+1tZ7Sy56jnGskIRXl05PFuIPl1qMaGx81OiX//+23u5M4OT2e8cdCAAATmUlEQVR4nO2cC3vaRpfHR0hCNyRhY5mrERAHjG1qiHHAMTJvkjaxX1+zbt06m23a7X7/z7BzzuiKAUPeF3ezz/yf1DUjadBPZy5nzhyZEC4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLq5/q9L4c9gcThbhb2n6IZ2evOY7Etz8i3+8/foStP/53bVf9v9I70/22kd1qmw2Wy532gd/vYkdzRkZKkdc/9vu719Tmrw+Abos8JVRe3udTuNHEhgy50hUjvKdEqbJ7ss6UxYFiB2qzBYFZIQaAKa075SQjI9eTSXsOKf+Gd854U/1JGBE2DnwEb9nwjT5cLS2toaAR0d16IFtipYtl0poxW08JydCR/w+CUn/1Roj/OFV9u2H3cPaYe78ZL/TbiPhgYcnsZHGtr5Lwo8BYX2jFZUOMoyw5JzBvJ8zkPC7syH4Kb8cIeDRWv08cewNttJSKZNpAuJr0D9fw8CaZiLBODuvfvyZPAuvjZVNqWNmvewbl3BE4NQ6mnDt1dHuxMFrNGGp5FzM+LL59zTrLqPyyV/mPK/4oWU9rV9evWJG/DBZKbnxCS/nXN7sb10MKpu1qbe1fVUZjLdGsy/OVQYXW/2ooJWrXFyc5ppTzh3tjgcF+k2za5uuNPm4toaEbx8dIT8iYCmjwRdsNKg2ijCy9rqgywo1czFjWlS6cD/wLwq1W/R0U1FUVcnf9PEQcx3u7+HqapPsFD1XVXTdve+xS69vDVcHZYpvkhZ+3+tmJDZ9lY43JhvbfO2uMdXfTznYgF6YyWj0+3KWpmmOhl5b0ZHpyKqNW1XFSjHJppXfjt9U/57iiUyU8rYWtK5NRVdVQxXIJ11RBCbd2KT2u1VU/7OpqL3Yo24VU1KJCSfqUncZxneIt3b0+7TuOz5AaZXkjE8J4UPRdlKhZMexNqMrL0zNMcRQjqIGnXlTMSiD7VVVUbR9IltTctuiogUf6RG1GNa1lWJtKSAsl9vtwuKEbKp4Vf+PKSNU+se7O2ibd6eThCmYOpQDOSJ0ZFETwoXljWLIUoyQQqmf4oSCbcmGLTIi2TUUz1NsQQwJRVkb+HWt26VMKhUnLNVL7X8sCjjEkZR2xKc68GMbSpSL/pCpbAM+pJQGezDkTBexmN4zGMqW6f8EtxAnpBIlWVXpKbIQShUtUbCBMCUYX9hDL2UYHLNjdq9Mncq9bOfnBSeN92uM8OtTJ06xIbRNWbNMS3MktKYts+d05YpICB1QUSwHAEVZcjfhniJCgR7XFU2MAAVRd3XWe1O2UkCGQdAFOwcwKnTK5Sz++2tBwnM2Ga79vhxhYMMD7e5sPO7lNSQ0HNayPIsRWt3Bbn+rkNcR0dbzcDAkpDS3g8qg6sZM6N0MCkVVg7NT0iUyHDMTZrqVw+Gw+efguI0tNbvfXIzwF5/w3fKEtI0q1Ro7eotjqq3d4TRqaRQvZWnByuvC0rAvultxQuWeTYSf/BHUtoQxFozytOVCfVD5NgCmSplGeCfFNlqx3V+K8OjX5QhTSKhUg5bS8gfULv29aUjQByUnGlovqBWB6TZGqN77B4deYNMX+DlNxq4NhCo8gS0NDNjxIieg5Y+nLxYjfPdthNhK5XzoeJIGmxhhHTJQJdpGRXUQXpsm9xoMJ6IbI3R/YxenSd5vor3glvt0eKWVWWDysYN9sBG7lVL7GQhxpDFP2R3CfwMTCS06X3ShjcqOF7/6VJUNsNJVSEjtHzydW9ZM3UP/Mzmk8wxUVoFh2aEuR4qub76V8IQRPnJKnyDEGV8IjtFvqihIqNDGpAKgbPbiV/8hwmxuwLSPhKKhDMJriyobZcLB8VCQ7YCwgjPyX1tRXZVSeW8JQr8f1r+hlTr5cE1Au0tIuMsI9cp2TKO8Rf0Xw3oICfXNScJq+F2HhuzbMK7W9vX4pPF5v7NcPwwIf1qOEFqpU51KOFCQUJNsK/JpLOyHhlYNCd2dOYShDQNtnlwe73cOwPMul5cjPGfdsP6fyxGiDcPenyA8YYSyOCGwodENCeXaHEIDPQjNJxwWSk4m4ZcuQ/izv7KYMeM3jqkuj2+n2nA64YY5m1BflFAOCOl6ZHPfKYVanvCLTzjDa8tAsE066C5hw8Y8wnxImFqQkFS0TKk0BXFRQvJfLISR7U9z8944HRirDza+jRAcFSrfJTMEQ1yYUGSEaXItd8KFBVW7jR0xm80uTPi7vz78dVr44wwXZqmDi+Vbqaa4uF5XVT2SuyChINlBP8wzPFjcZw4yx43e9eGShL+yZnr0cdpBr3QAhNpo+ZHGPZz2/dCtFiGUA8KK4wN6jTFz6sjrEgAuTthHvqN6/XriArhtCRdlmRRZwoYDZkM9GWj4sQ96c7igDUPCIlsVdu5a7GT6iJYlhEgUaspY02WxNtoN05M2hBuYJKRclPAFm/GVZJyhio1ULyzbSr0UjjP7sarel7JLtFJ6zgef8Ohk8uDggBFa4ONPttKZhISt77V8vKqWoVHJ+umyhClc4WdOQhq68ugsSUj8+aJ+NE4euz5gEWEHv3oxQrUJ5gJCSY3H/wuKCAENZbQkYTNTgpFGGsTqOt7bW2qkoUZ8VfcRT9g3soh9JcXikxhLXJRQp4SnpmQHRmRVkW0d50MNlo8LzRahT5PCVtphgTes623bH0vje/BP6GOwMVN/+VOwNXN9x/g6OBkuRTj0LGynZnjLW4KChNEa/0nCVLIfdgKc3Oe2Px9i0YJWrNWD3bX6Ufb47cm7d3dl2FvDraeO358WJqRrRWymsq3mBzvNYevqFoNLtqCCCZck3JAYYebscNh8P66WmOdNCUsf3ldia6r5Oj/y90ez9b02UxknIfg3mkZozxhLXQwPXVq2LFGPxlLprO+6lgx90JBZlGI5wt3AZ+tIEGiDG/MJ6/QuHw2OM5QmH/biu9zM72OdUNomyxPWVE165JeKLhsuliJMk27M7WZuKdwg24s/OlmwmaYhFQMzaep7SUInPwrqYITSIoRpsuNZ9iSg/kDS30A48iYd79KxD5htL0iIJx1+bB/Vy9m9PZaoQFsAbaIHjSj/KwezvJQyfZ8mZdtaPDq0pYKPLbp+EPPQU2VR0DSL+eCybLkF/242TQMkxAh1KNBjhC7Ubzu4ttiEntgJo97tToMcH+2BGbL1dwtPGKDzr9R38y1YohZsd6q7scEqpzhUFu6+NBwHJvCIME2uFCjR3DBMu+GqMltW0KlD0/Ph7HjlmqapWGotvPZWpSUmG4dQ71WLfoFjVrCyfvcgtGC7vX9NyItym/bDen3hfhho9+3XI3+g6XSOT14kDo4KZwX67wwGnsoZ/b1QOI0d3i6gesMgREhGD56rwt6i6nrVrehZjT6xU6MA6CkriGIWX1hBIed/Hh9LDiZN7N+xjfja2+Nyu/z1bWyzawHBdDrsnw9uNjZ64+sdVjJ/Q3nG6iGMouYqvYeHXgW2dP/FHMCdrQF9BG9aoQ/RHI1qs26Bi4vrWRRm9HBxTWjX12Gy+EtUHG83Lb94s0mW1Qt25azcguH5B9TyFT8lD/0WTblJovR0y7RUVS8mi8euAvlCqrv8jeQV25RT5qyUklaZrX9qS1c8X2lyA9431WUcJU0uNVmGbV8vSVhU2aqw+riqp5SXqQuckmcS7sPqae+H2vI1P6EthRFm/kigmKxUMrcTZ+d1DHvrPbK08lJKymS05ycc+oTWdby0YklsF9+Kb9SSlgvpCZaQiEgtqLyMyTpzCbOrICRd1kyTD/dB81OjtG68+FSH/UPN8L5hPPj7CHumA8nQWqJr5aUg80uPF39STCT8hm74NxJeWRKme2eCgjQuHG0/18SKR4buMXNPVqan387XQoTZl7VvqPoJNTOsIyrBjAhZWUqQoSg6N7FzDQmT2vTtaRU9ob+PkE4MYENZixmmqklyQBiL5G+pbF9Uf1zJ0/obCc9wqEk5UfInoVOh3xFtR4gMVlBECLdZ8XDVVE0rf0SYPGmVhNsWZrRpUTrQtQ73krKRUL8Ib6jKUgxjaTOk37v1TNfIFy9a8ZseNlFDPKNYLT6MptqwtVU4OTn56c2KCQmbLmSrFtz4jYWEsCstylY1CNMMPZPFEHeCKy/uXUUVZdOkHp5bjU2SG64LgeNPZFSF3EtH3ZxCWPkM4WCIAO6/qw1XSXiHY6kQph2SvAb3In8WMdlUDsBhLwZMGPTM7byuCIKpQtDRMGRNv40ITYjIWYMrwzR00RKnEP552YFQIka799r7lR9WRpgmFw6b8wPn+xDzaB11R5UhJTHIdCIDIJQN2g1hM4ucqlHeLJOeClYOG35AOEhrV9aThGmy9SjVBAB/WI0Nty02X3R9wrGGhB4dUoFQCfILGzCUyrY+xhj4qSvZE4SCauTYuYxQCPL0HxGS9dRzEpJj3/n2a791BPDXiqSgCfGdX0/AzGe3Bk8iJ0CyN+NQQxLNYP7chppER0I5Imx5nWclbLBm6r95MPTgVmS1QvpKCvZF/SHotYs7MxrLkvUsw6A2FBU9X612PVeDVEz6kY1LMULD0HVbof0wFdowTe4yQUj/oLNHh5tsuQx7D/X6igjHrJk67Pm+MG1YyAk1mMOQkEWuTzG12zQf4ANscVPJ+i1Ol83TvAoF1MJXJEFIV8u2Z/z3FSXMhDbM+ZtPnc5Nrlbrj/fbuI2f3VsJYRr22OOJiT0LCaFtFmEXxvZ9gRsLWqmlo6PqatBCRT0a/O8BShaUboLQzbPJs5Xoh11/7+n4T//iuzIirsaGAOUxQheHkC4uxi1Y5FYUCQg9HD3yGrrdkLgAW8JACG0yCAK+9uAlDENWdiJCW8mHO10xwhfB5tphuCNy18bJYlWtlDywJG82lessT2iXfnFLhexn0YTUlFpGhP1Dtp3UNTHDTQnjSmmI4eD7MZh0ExAa0eud+ZQML//D0RvMVOhkYtm0o3Z5pYQV5ppa0KL83Gcb7zoP4RrRgtu6UoQUEIJtawIGM9TbKCWG/uJaArOrT2jI4QZjkvCSdcLE4vptfaWEX3CoERyYy//CDH2RLXJ7FhLCh4JlwEiD3fDKD9dUIgCKWLVwOIW2zgg1oxb5qhFhy89rSwRIzldrQxbKSMkl+ivMFZJhMn+7z1IwYLnku90eRKwK4KAKmvJHopIezosGnIyEoh7P7c/LGZ/wnL0TdJAI9oz2VkvIYoqitE1y8AqCZMv+msnDPW3liqTZW2sKOj4PEK4RTC9ZycAnbIaE8XYYEZ6xgcZJXDx8uVrCLdZM6cx3gY1UxpuHMQ4JzQ3ynrndKr6adYtvMSkT4ZpzHQnVUUh4FycMW+lGBhGl+AoxTb6ulrCVwTW9tUGqGL9gsQsYIBWbMloeGbCVk4q27WLKfuyFSdQWsyGcgoS6FX8EEWGDEZaSa+CvbMpfFSG5ZIRdIrKkkCu/fFsTwIrKb0X/PQQs7UKfVPSNZB2nip6woa7NIOz42ZdTCFcRa2M6Y28A2Vsa/l+NbkyAKdGseLRh2qJ1GyOctOGFqSf64UzCOTZcHeEmmwXFrjMRB75RWGZpik4VQhBHrGKTndy96OFsIcCrXnMJNzqP++HqWylRWOyJhdisyN28sgR8sRIT9WWXDbE40jwaS6smEBrw6tRcwjPM3OukvsQvPtxf7UiDAcRUKD32BwNUUQ5fRbD8peInE7egxFaiCgFefmb7UnMJx2w+7CRegbpe8YxPXRZNsgNAOYqRpsmlGRLKWpGVbcHUkTKUeH4RWWdBDXTr5hL+rOHyN/H+ITlZrddGta0EhJixH3WRCzUkBDcNNdKYX1qNeW3kgXnbSu4pwrS/OPRawZuO9N/Lldtw6AWBfFlSYv4m6bshoc0i/+lwbeGGKVp0HeKymAZ2zrmEdDBly98gDZH6tIPyaldPoFsn6IiOkRgD8lZAqHjBMx+obPUUG2tuWVyNbZ7OJ7wO8kvD9xV3S/UV+6VUF5oPKMW3KujjLWoBoXUT2Pa1gX8NQlbyfi7gPx9ceBuR/vgyk1AKCMlxkJjot/pKyc8uXSlhPyS0YnvYlLCiBoRqtNNW0CXwPG3VqBYqp4OioWPcRvT3v6cRShHhlcNCbeXS5dl4fPK5XX8GwjTJ+NtNsttPHPliOOyvKYj6MOqf9+xPetiyqeq6Cn9FAbqh5b+uPp8wTRqOH0ps+6+QPgthwzeiPDGRk3tGKFjdaD1LdgzTNgy61lchyGYIhiEbhqbnFiGk6gb5wYzuOQghO4ERJjKhQT0FpkTJTbRe0of9injU17ZVfdN/BFMJYX0YxLybeRxNw3DwUXnlswWEnRihOfEmEcm5MJrSCf4qcf7oXo//gQ/qcnu5MF9an2HDcN+iWZU6pZAw2258XD0h8XQVpO1MHrOhWHflZvxsqk+6HkV+df1TOjxUhN01N+Gae/AHjbSgHcCM0wmN2C4PyGfMidqrrQoQVNtB/c+j9GY8MBpNSUm76HoyjDSyV60krxihYkX0E1RTi7lBg2N4haf98jO0mt8O8YoheX49kRe+vb6+nlv2j3UFquXW1/uJ5JznyC/9t3zHrGTYqDid/KZnSZ1Nz87SnVk8/fc5X0BihLFy/30AniPMxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXF9X9C/wvriHffSyoq7wAAAABJRU5ErkJggg==",CinemaWorld HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/cinemax.png",Cinemax
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png", Citra Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/galaxy.png",Galaxy HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/galaxy_premium.png",Galaxy Premium HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo.png", HBO INDO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo_family.png",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo_hits.png",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo_sign.png",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hits.png",Hits HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/imc.png",IMC HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png",Movie Plus Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/my_cinema.png",My Cinema HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/my_cinema_asia.png",My Cinema Asia HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg",My Cinema Europe 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg",My Family Channel 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",My Time Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bFlQ5AK2iekI3Zd0JAq23uOoV3azOvyYZR-S_zNcNjtxkE9pCPVfb4c&s=10",My Time Movie Network UK
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJXXrq1RPKeAOBsuKAWOMf6l-Xl38jGmJxG6thohqf3Kc5mKXyB_1j2TA&s=10", Nihon Eiga Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg",ROCK Action 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg",ROCK Entertainment 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://www.dens.tv/images/channel-logo/55.jpg",Thrill 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWqIGxwQCc5iZtheuxDjkdk4H3CrkPj3bZJQ&usqp=CAU", Toei TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/zee_bioskop.png",Zee Bioskop HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Wowow_cinema.jpg/revision/latest/scale-to-width-down/250?cb=20200215065059",WOWOW Cinema Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+
+
+########################## VOD Indo
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://static.promediateknologi.id/crop/108x69:974x629/0x0/webp/photo/p3/36/2024/02/12/munkar-783434009.jpg", Munkar 2024
+https://host.my-id.id/movie%20indo/Munkar_2024_HD.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://i.ytimg.com/vi/xPWDG6zKEYA/sddefault.jpg", Dosa Musyrik 2024
+https://host.my-id.id/movie%20indo/Dosa_Musyrik_2024_cam.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/f17f9e22bf071063d07b37e780fc5569.jpg", Crossroad 2024
+https://host.my-id.id/movie%20indo/Crossroad%202024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://filmindonesia.or.id/f/img/movie/poster/dewi-2024.jpg", Dewi 2024
+https://host.my-id.id/movie%20indo/Dewi%202024.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ipar Adalah Maut 2024
+https://host.my-id.id/movie%20indo/Ipar.Adalah.Maut.2024.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Poster_TIAB.jpg", Tuhan Ijinkan Aku Berdosa 2024
+https://host.my-id.id/movie%20indo/ijinkanakuberdosa2024.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e9/Poster_Galaksi.jpg", Galaksi 2023
+https://host.my-id.id/movie%20indo/21-Galaksi_2023.mp4
+
+
+
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ac/Poster_Dua_Hati_Biru_%282024%29.jpg", Dua Hati Biru 2024
+http://host.my-id.id/movie%20indo/duahatibiru.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE1ZTAzNjUtOTM2Ny00MzVjLTllZDMtODVmODQ1ZjIxNDdiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Pasutri Gaje 2024
+https://host.my-id.id/movie%20indo/Nonton%20Pasutri%20Gaje%20Subtitle%20Indonesia%20-%20CinemaXXI.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg", 1 Vina : Sebelum 7 Hari
+https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDTS.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeYLVXkNZal_6m70hU2fhHORoBfgJL_GwfcF9WpPZwC9VVk4L1A7sGUE&s=10", 1. Kang Max From PeeMax CAM 2024
+https://host.my-id.id/movie%20indo/Layarxxi.pw.Kang.Mak.from.Pee.Mak.2024.CAM.720p.x264.mp4
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg", Gampang Cuan
+https://host.my-id.id/movie%20indo/dmovie212%20gampang%20cuan.mp4
+
+
+
+############# HBO GO
+
+
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041228X0-portrait.jpg",Baby Ruby 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d82776d50a48edf49594b46d56a0787:60a71e0a05ce61d647ecad0e37c70b61
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654545a9d940521074e79c83_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041270X0-portrait.jpg",When You Finish Saving The World 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bf82e3adcb49f58faebb28ee1e3df7:16c705cbb4a9cc307836aa1faa937729
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545601ad940521074e79f3b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040265X0-portrait.jpg",Mummies 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c446b9fe09cf1153a0143b09485e2170:bcd75dc517b3678ee3f634ca2cbf3697
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687cad940521074c9b9f9_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040233X0-portrait.jpg",House Party 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5eca074d2c6e430e4fee5544973ecca:c9863fba861904a40b2b9285e83105ea
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f5fd48d940521074c8292d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af7b6b433d0063a06f61c525b1e69a92:7f827a202d6b476d2dc451836381cf0b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041291X0-portrait.jpg",The Ringleader: The Case Of The Bling Ring 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6979fdf856afc2c97816f2070b1bee97:50062d58cd80a5f5b377fa0037d618de
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6516a967d940521074e33b6b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040437X1-portrait.jpg",Babylon 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dc6d1e91bc36abd53dd21f9fce3fa25:452a8841eedbc4ac17597fb7010f79fd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa69ead940521074d911a6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040904X0-portrait.jpg",M3Gan 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86576a103454a1c26c739a2ea8b2b38b:9e86fb8545f9c1aa555c7c9bee027471
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e2b0e16d670a1c1960f3192878c27d1:1d717d6394c6b7df61df8cebf76f010d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321e38d940521074cdccb7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041081X0-portrait.jpg",Christmas Carole 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1091b16af5f5f18f543a3e8ddd43fb54:51c0950b03fe827787f705bbd9befe23
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545259bd940521074e7994e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040408X0-portrait.jpg",Puss In Boots: The Last Wish 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=153abc2316da6cbac563da3385fb52a4:d2c1db89ec43fd5bb8ce047a10847fde
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5d9fd940521074d9106a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039203X0-portrait.jpg",A Hollywood Christmas 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=178866894bde8ac5d0bc3a32c69812a5:b82b3593894e987d2682997548aa47d5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fe89d940521074e79563_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040411X0-portrait.jpg",Violent Night 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4cfebfdec23629a10f58e6b4f5fee14:dce778a9b9d00d3b90d8d6fba3d79259
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65450736d940521074e79643_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041225X0-portrait.jpg",Dolly Parton’S Mountain Magic Christmas 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c314bdf37d72ee5994bbfa8aeb208d36:7092f9234298039e3ba77a57c9ba17ed
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454744d940521074e79cb3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040194X0-portrait.jpg",Tom And Jerry: Snowman'S Land 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c147967dee0910abb50cd6e4f7475f5e:28f4f1307372b4ff53ff4b9f91ce3951
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039450X0-portrait.jpg",Love, Lizzo 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adea58414fa6fea36decd84397760eb1:70e145eb62725108e9e1f6f5526364e9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039201X0-portrait.jpg",Holiday Harmony 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6e41bbb9df34f6f0d97a765f255fca:a002eb929fdf1080b636e70e35edbbaa
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fffdd940521074e79589_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039204X0-portrait.jpg",A Christmas Mystery 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80649c1872ac570001a73731b598dcf6:ff35df2e733e949370ac2ac4371df2f9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fad7d940521074e79500_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040515X0-portrait.jpg",The Fabelmans 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c16c1647d9406c6f84f06f0fbeb04a2b:2a1edcd261957c85236cd360b66ea0e7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041083X0-portrait.jpg",Prancer: A Christmas Tale 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cba534ad663fe6cfde5dd341e0b7fe6:024b6a3908a0cef99770563fd0c70af8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452708d940521074e79974_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039274X0-portrait.jpg",The Travelog: Hyoyeon & Sunny In Qatar 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dffbce17cef9345eaebdaf245f155b0:5dc68edcaf3aec5489b2562489e9327d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040901X0-portrait.jpg",A Waltons' Thanksgiving 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ca0d834e235268a2cb541d1a4f3cf19:cd5d3975665848549855556203b1a865
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e623bd940521074e2753b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040406X0-portrait.jpg",She Said 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b7eda64587b2bdd5393e1187c53b4b1:b76273f23b2ba6a47385211df7e37b6e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO VOD 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039202X0-portrait.jpg",A Christmas Story Christmas 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3773be80ee90e014f918f65cd2a7b464:6693b72f37320ab6f27ff7a507f217e6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
