@@ -2001,6 +2001,11 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 ########################## VOD Indo
 
 
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/f17f9e22bf071063d07b37e780fc5569.jpg", Crossroad 2024
+https://host.my-id.id/movie%20indo/Crossroad%202024.mp4
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ipar Adalah Maut 2024
 https://host.my-id.id/movie%20indo/Ipar.Adalah.Maut.2024.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv.mp4
 
