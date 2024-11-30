@@ -1968,13 +1968,18 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://static.promediateknologi.id/crop/108x69:974x629/0x0/webp/photo/p3/36/2024/02/12/munkar-783434009.jpg", Munkar 2024
+https://host.my-id.id/movie%20indo/Munkar_2024_HD.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://i.ytimg.com/vi/xPWDG6zKEYA/sddefault.jpg", Dosa Musyrik 2024
+https://host.my-id.id/movie%20indo/Dosa_Musyrik_2024_cam.mp4
+
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/f17f9e22bf071063d07b37e780fc5569.jpg", Crossroad 2024
 https://host.my-id.id/movie%20indo/Crossroad%202024.mp4
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://filmindonesia.or.id/f/img/movie/poster/dewi-2024.jpg", Dewi 2024
 https://host.my-id.id/movie%20indo/Dewi%202024.mp4
-
 
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Ipar Adalah Maut 2024
@@ -2004,7 +2009,6 @@ https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDT
 https://host.my-id.id/movie%20indo/Layarxxi.pw.Kang.Mak.from.Pee.Mak.2024.CAM.720p.x264.mp4
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg", Gampang Cuan
 https://host.my-id.id/movie%20indo/dmovie212%20gampang%20cuan.mp4
-
 
 
 
