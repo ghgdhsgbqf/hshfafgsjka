@@ -201,6 +201,18 @@
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.bevy.be/bevyfiles/indiapremium1.xml, https://www.bevy.be/bevyfiles/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/australia.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://www.bevy.be/bevyfiles/norway.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/france.xml, https://www.bevy.be/bevyfiles/germanypremium2.xml, https://www.bevy.be/bevyfiles/switzerland.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/romania.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/sweden.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/serbia.xml, https://www.bevy.be/bevyfiles/denmark.xml, https://www.bevy.be/bevyfiles/argentina.xml, https://www.bevy.be/bevyfiles/hongkong.xml, https://www.bevy.be/bevyfiles/hongkongpremium.xml, https://www.bevy.be/bevyfiles/mexico.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/belgium.xml, https://www.bevy.be/bevyfiles/belgiumpremium.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/taiwanpremium.xml, https://www.bevy.be/bevyfiles/arabiapremium2.xml, https://www.bevy.be/bevyfiles/arabiapremiumeng.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml" refresh="3600"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+
+
+
+
+
+
+
+
+
 
 ############## WeTv
 
@@ -947,11 +959,17 @@ https://gamekabada.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMj
 
 ################# Lokal ID
 
-#EXTINF:0 group-title="Lokal ID" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR (BOLA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal ID",Indosiar 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal ID",Indosiar (Live Soccer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.mpd?id=205
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+https://kametv.my.id/pdx/play.mpd?id=17624
+
 
 
 
@@ -965,32 +983,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/2100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="Lokal ID", INDOSIAR ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Lokal ID", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Lokal ID", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 
@@ -1032,18 +1024,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/urj8zX4.png" group-title="Lokal ID", SCTV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#EXTINF:0 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Lokal ID",SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/urj8zX4.png" group-title="Lokal ID",SCTV 3 (Indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg",tvOne 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
