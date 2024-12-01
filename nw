@@ -811,14 +811,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1733095950-0-0-4f9540d647104b3c71a8b8188ce01345
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
-#EXTVLCOPT:http-user-agent=79370453-13
-
-https://live3.procdnlive.com/livecdn/channel72.m3u8?auth_key=3000001731748518-0-0-2b366dabe0efea394262ea97f0d23810
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1733096250-0-0-8c7a7d1518672a53f11be92be6f53ab2
 
 
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 3
-https://fv1083.huibo.tv/GS1/H3079/chunks.m3u8?wsSecret=1a52fff08ad4a85918d0bf7477e306a4&wsTime=1732460568
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=08aeb06ad2493a176677af9bbca615bd&txTime=674d3a7a
 
 
 
