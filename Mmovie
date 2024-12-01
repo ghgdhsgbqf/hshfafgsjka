@@ -1,5 +1,26 @@
 #EXTM3U 
 
+############## WeTv
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 1A
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep01A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 1B
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep01B.mp4
+
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 2A
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep02A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 2B
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep02B.mp4
+
+
+
+
+
+
+
 ############### Movie 2024
 
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-something-in-the-water-2024-lk21-d21.jpg.webp", SOMETHING IN THE WATER (2024)
