@@ -808,7 +808,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/live3.procdnlive.com_channel50-1733091999123.ts?auth_key=3000001733091972-0-0-d694a09477d15bfee74f12e95061241d
+https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1733095950-0-0-4f9540d647104b3c71a8b8188ce01345
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
 #EXTVLCOPT:http-user-agent=79370453-13
