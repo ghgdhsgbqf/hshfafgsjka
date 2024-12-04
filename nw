@@ -805,10 +805,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 
 ####### Sepakbola
 
+
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED
 #EXTVLCOPT:http-referrer=https://bittv.duktek.pro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
+https://pop1e5.cdn.intigral-ott.net/bpk-token/2af@mf3nj50suxf31t4gzsl4t01s4fljpl0xmx4so0aa/ADSP1/ADSP1.isml/manifest.mpd
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
