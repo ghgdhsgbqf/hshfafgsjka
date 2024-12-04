@@ -806,7 +806,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 ####### Sepakbola
 
 
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", ESPN
+#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", Abu dhabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9A04F079-9840-4286-AB92-E65BE0885F95
 #EXTVLCOPT:http-referrer=https://bittv.duktek.pro/
