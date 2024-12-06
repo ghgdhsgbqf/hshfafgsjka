@@ -182,7 +182,7 @@
 
 
 
-EXTM3U
+#EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -232,6 +232,9 @@ https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep02A.mp4
 
 #EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 2B
 https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep02B.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 3A
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep03A.mp4
 
 
 
