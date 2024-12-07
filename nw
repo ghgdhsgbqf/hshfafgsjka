@@ -227,8 +227,9 @@ https://xyzdddd.mizhls.ru/lb/premium414/index.m3u8
 
 
 ##################
-#EXTINF:0 group-title="test" tvg-logo="". dazn test
-#EXTVLCOPT:Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+
+#EXTINF:0 group-title="test" tvg-logo="", dazn test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
 
 
