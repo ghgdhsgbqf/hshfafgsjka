@@ -183,14 +183,15 @@
 
 
 
-EXTM3U
+
+
+
+#EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
-
-
-
-
-
+#EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3000000,BANDWIDTH=4000000,RESOLUTION=1280x720,FRAME-RATE=30.000,CLOSED-CAPTIONS=NONE
+https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 
 
 
@@ -207,6 +208,84 @@ EXTM3U
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.bevy.be/bevyfiles/indiapremium1.xml, https://www.bevy.be/bevyfiles/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/australia.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://www.bevy.be/bevyfiles/norway.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/france.xml, https://www.bevy.be/bevyfiles/germanypremium2.xml, https://www.bevy.be/bevyfiles/switzerland.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/romania.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/sweden.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/serbia.xml, https://www.bevy.be/bevyfiles/denmark.xml, https://www.bevy.be/bevyfiles/argentina.xml, https://www.bevy.be/bevyfiles/hongkong.xml, https://www.bevy.be/bevyfiles/hongkongpremium.xml, https://www.bevy.be/bevyfiles/mexico.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/belgium.xml, https://www.bevy.be/bevyfiles/belgiumpremium.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/taiwanpremium.xml, https://www.bevy.be/bevyfiles/arabiapremium2.xml, https://www.bevy.be/bevyfiles/arabiapremiumeng.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml" refresh="3600"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+
+
+
+
+################# Liga Inggris
+
+#EXTINF:1 group-title="Liga Inggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwt5zc7YHUybr6zsGgGw_kPrgIOynCXAwQ&usqp=CAU", Sky Premier League
+#EXTVLCOPT:http-user-agent=OTT Navigator/WaroenkTV.finale (Linux;Android 10)
+http://gcf.nrslist.com:80/TVD053/index.mpd
+
+
+#EXTINF:1 group-title="Liga Inggris" tvg-logo="https://ugandamovieshub.com/upload/premier-league-1.png", Supersport Premier League
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium414/index.m3u8
+
+
+
+
+################ Netflix Series 
+
+#EXTINF:0 group-title="Netflix Series" tvg-logo="data:image/png;base64,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", Netflix Series 1
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://185.224.217.131:3050/live/PhillipForn221/6ryK2mN947/567118.ts?token=TBdbWBBdEl4VAgAGUgMFCgcDXgBTAFsEBFJcUAcEVQsGBlVfBwNUVAUVHEZAFkdWUV45ClEXWAdQBglQDhhBRkRQQWYKURJeFQAEUAFWFx8SRw8OUBdYA1ECC1cGBlsHAhkRSQpREl4VDwFXAUAZEVVLEgZHWwNeOVVdF19XBhENW0ZVDxkSC1loVAFeA1tXEglEUhcZQFsVQRpbWEEPXxsXUVAXR1EQUhUKRgZUAwQSH0QAWkAMRhRIGlsUfCgRGxdWQRdQXhdeWF5GCUBBQBIfRApGahBXFUVKBFdZBkEVDxEJQRkSCVZPbwdcDFtWU0cPDFtGQAhEBRpNFFkMXV5BXEs8RVkAFQ0SUwBQDAYSTg==
+
+#EXTINF:0 group-title="Netflix Series" tvg-logo="data:image/png;base64,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", Netflix Series 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://185.224.217.131:3050/live/PhillipForn221/6ryK2mN947/567119.ts?token=TBdbWBBdEl4VUggAUQMGBQlSAlNTDFcDAgkBWQYFBQNRU1EAUVEEVFIVHEZAFkdWUV45ClEXWAdQBglQDxhBRkRQQWYKURJeFQAEUAFWFx8SRw8OUBdYA1ECC1cGB1IKDhkRSQpREl4VBQVcAFEXHxJWHhdQRwxTCm5cBEBdAFYVD11MD1kcRlhZbwBWD1RdVBFcQQQXThAPQkhDDFoWX1sZEVsKQUIFQ1ISXhFXAwUIEUpBVloXXBJDQUMMFit4FRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgFXAwoEERs=
+
+#EXTINF:0 group-title="Netflix Series" tvg-logo="data:image/png;base64,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", Netflix Series 3
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://185.224.217.131:3050/live/PhillipForn221/6ryK2mN947/567120.ts?token=TBdbWBBdEl4VBlFcUlICUgRQA1NQUFBXVwkIWVJVAAVUVFBYVA1SBVQVHEZAFkdWUV45ClEXWAdQBglTBhhBRkRQQWYKURJeFQAEUAFWFx8SRw8OUBdYA1ECC1cGB1ELABkRSQpREl4VBQFRAFEXHxJWHhdQRwxTCm5cBEBdAFYVD11MD1kcRlhZbwBWD1RdVBFcQQQXThAPQkhDDFoWX1sZEVsKQUIFQ1ISXhFXAAsCEUpBVloXXBJDQUMMFit4FRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgVWDQEEERs=
+
+
+#EXTINF:0 group-title="Netflix Series" tvg-logo="data:image/png;base64,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", Netflix Series 4
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://185.224.217.131:3050/live/PhillipForn221/6ryK2mN947/567121.ts?token=TBdbWBBdEl4VBwABAlAEBQNQVFdRBVBTBwgPV1JRWgtUAgpdWw0JXFEVHEZAFkdWUV45ClEXWAdQBglTBxhBRkRQQWYKURJeFQAEUAFWFx8SRw8OUBdYA1ECC1cGB1AGBhkRSQpREl4VBQdQAVAXHxJWHhdQRwxTCm5cBEBdAFYVD11MD1kcRlhZbwBWD1RdVBFcQQQXThAPQkhDDFoWX1sZEVsKQUIFQ1ISXhFXAwAHEUpBVloXXBJDQUMMWhZfWxkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgFVBgYJERs=
+
+
+#EXTINF:0 group-title="Netflix Series" tvg-logo="data:image/png;base64,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", Netflix Series 5
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://185.224.217.131:3050/live/PhillipForn221/6ryK2mN947/567130.ts?token=TBdbWBBdEl4VAAQHUQQNAAELUFBXUQBWUgVZUQBVBwcFVlcKWgNUUlEVHEZAFkdWUV45ClEXWAdQBglSBhhBRkRQQWYKURJeFQAEUAFWFx8SRw8OUBdYA1ECC1cGB1cKBRkRSQpREl4VDgBSC1EXHxJWHhdQRwxTCm5cBEBdAFYVD11MD1kcRlhZbwBWD1RdVBFcQQQXThAPQkhDDFoWX1sZEVsKQUIFQ1ISXl0XWV8cEQUMQFsWQB8TAkN+f0EfFVBLTQZbQw1YWRJeERZGERwRDxBqRwdBEkNdAFtRERENFwMbTxddBU9oUwtdDFBQRFoJDUYXWBBSExRDW1sNWkNaQWYTXFRGDRUJVAVSBxFN
+
+
+
+############## WeTv
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 1A
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep01A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 1B
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep01B.mp4
+
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 2A
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep02A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 2B
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep02B.mp4
+
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 3A
+https://host.my-id.id/movie%20indo/wetv/Main_Api_S01_Ep03A.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -601,6 +680,9 @@ http://extraott.com/live/6945574629/7169628753/83011.ts
 
 
 
+
+
+
 ################RELIGI
 
 #EXTINF:0 group-title="RELIGI" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://mastertv.tech/logo/religi/rtbgolife.png",RTB Go Live FHD
@@ -703,8 +785,6 @@ https://flv.intechmedia.net/live/ch10.m3u8
 
 
 
-
-
 ###### Wayang Golek 
 #EXTINF:0 group-title="Live Wayang Golek" tvg-logo="https://i.ytimg.com/vi/uuMHqpt6lT8/hq720.jpg?v=670a7817&sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8XBB2gfeNPJc02C36-h9CnWsaHA", 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/BmczZ9ToBaGDjuMP5rzMsAs/ip/103.115.20.254/id/XIVWoxu0G9M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337001/txs/51336999%2C51337000%2C51337001/hfr/1/playlist_duration/30/manifest_duration/30/spc/qtApAZHsvQCrlEBVphEH-7gc9NMnTzOQ5EhjMpUDCmkXDyDPm-HR8KCoMaj814CXiw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKKEYhbatxYigLn5LPK2HISIn6oSQX4x46Gb0SnmiMQ6AiEA12ZNu-O7lunSKpzWKvooanPtdqnjtBsgxR4glHV-TOM%3D/file/index.m3u87V7ELf2WcI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/qtApAbAEZEdMgw7jcLQJIIvuzA8VK7-fs93_Waw9XOvtOLvRiRdZtcHOmHKmgox_bA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXRiicCAKwuFHnoF0O5s9UxwWE5w931tn0sc5LyoTuQQCIAT5WAB4ja43OgZ9WQdh4I7xT5Oc-SZVMRu7Gu4FKEzd/file/index.m3u8Hqpt6lT8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303816/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/maxh/4320/siu/1/spc/54MbxQQ55el7TPRJcNFwFh86mUxiRTk7mlcKL-aSC49vAuICE5dH1gllOyeZALKR7Tyr6cuDYn0t/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANKN8m6FFLXRxZX1CJ-PMGvF1eAtSawbphIPaSgSbvfxAiEAuUGBQSsSKKo6bvVMHYce0ZDxG2h7Y1VZVFXRtYww5Uk%3D/file/index.m3u8
@@ -712,14 +792,24 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 
 ####### Sepakbola
 
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 1
-https://bf.shandongjnsd.com/live/322722_hd01.m3u8?txSecret=9a3e5415ae4bb2e5ee25a935fcde19ad&txTime=67385b25
 
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 2
-https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1728590186-0-0-422866777b3ddfeef04b487de926f281
+#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", Abu dhabi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9A04F079-9840-4286-AB92-E65BE0885F95
+#EXTVLCOPT:http-referrer=https://bittv.duktek.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pop1e5.cdn.intigral-ott.net/bpk-token/2af@mf3nj50suxf31t4gzsl4t01s4fljpl0xmx4so0aa/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", test vidio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/240p/v-240p-1733277267_25548670000.webm?hdntl=exp=1733317211~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=130684979~data=hdntl~hmac=b96913392ab3a21f67af00616924a93c427612d2226dff78f8021e157794b93e
+
+
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 3
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1730651608-0-0-e2080acb1fecb4d5ad636972d7f0818b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=08aeb06ad2493a176677af9bbca615bd&txTime=674d3a7a
 
 
 
@@ -811,6 +901,17 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 
 ###################### Live Event 
 
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium414/index.m3u8
+
+
+
+
+
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmxJlWvzykCsqEoR__WjlsAA1P4PedjDt5A&usqp=CAU", Liga Spanyol
 https://hutg54.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNCAyIDo0MyA6MDMgIFBNJmhhc2hfdmFsdWU9WGRhaHo5RVN0TzlVUWwzQzB2RFcyQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTQwLjIxMy4yLjQ4JnN0cm1fbGVuPTU=
 
@@ -825,29 +926,15 @@ https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1731250529-0-0-991b
 #EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris
 http://iptv12k.com:35461/live/654321/123456/2337.ts
 
-
-#EXTINF:0 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImBIVW_g7zVAPY3I2NVkUQVKXGiXzojLz_Q&usqp=CAU", 1 Liga Inggris 2
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mpt2
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
-
-
-
-
-
-
-
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-https://0564c5a6c35c.entrypoint.cloud.wowza.com/app-DV2vClc2/ngrp:3a4b204b_all/playlist.m3u8
+https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=2c93d3888cdeaa879581e2fb86edd4c8&txTime=67408139
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 vietnam
 https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=d30df92066c5c57a78b8bf39e6db4a71&txTime=6740d1fe
 
+
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
-https://gamekabada.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAxMToyMDozMCBBTSZoYXNoX3ZhbHVlPVE5RkVPbkdBOVczQmowUTNhZC4yMTMuMC4yMzkmc3RybV9sZW49NQ==
+https://gamekabada.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAxMToyMDozMCBBTSZoYXNoX3ZhbHVlPVE5RkVPbkdBOVczQmowUTNhZkmc3RybV9sZW49NQ==
 
 
 
@@ -863,11 +950,20 @@ https://gamekabada.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMj
 
 ################# Lokal ID
 
-#EXTINF:0 group-title="Lokal ID" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR (BOLA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+
+
+
+#EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal ID",Indosiar 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal ID",Indosiar (Live Soccer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://kametv.my.id/pdx/play.mpd?id=205
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+https://kametv.my.id/pdx/play.mpd?id=17624
+
 
 
 
@@ -881,32 +977,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/2100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="Lokal ID", INDOSIAR ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Lokal ID", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Lokal ID", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 
@@ -948,18 +1018,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/urj8zX4.png" group-title="Lokal ID", SCTV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#EXTINF:0 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Lokal ID",SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/urj8zX4.png" group-title="Lokal ID",SCTV 3 (Indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg",tvOne 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1274,43 +1337,73 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mp
 #EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/galaxy_premium.png",Galaxy Premium HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo.png", HBO INDO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+<=============================================== HBO Transcorp =============================================>
 
-#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo_family.png",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Movie",HBO (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo_hits.png",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo_sign.png",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Movie",HBO Family (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie",HBO Signature (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hits.png",Hits HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/imc.png",IMC HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movie",Cinemax (TRANSCORP)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+#EXTINF:0 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="Movie",Indonesia Movie Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg", KIX HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
@@ -1937,7 +2030,32 @@ https://host.my-id.id/movie%20indo/dmovie212%20gampang%20cuan.mp4
 
 
 
+
 ############### Movie 2024
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/12/film-welcome-to-the-game-bang-jia-you-xi-2024-lk21-d21.jpg.webp", Welcome To The Game 2024
+https://mfvqstfjy7nb.milocdn.com/hls2/01/03028/w544n5yarbin_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=IOtbBDBiZaAgSv_oNLUfjVSIZITiPvBwiQ1vgmwNSL8&s=1733282560&e=129600&f=15141035&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=7713
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-never-let-go-2024-lk21-d21.jpg.webp",Never Let Go 2024
+https://stream.hownetwork.xyz/xxx/never-let-go-2024-bluray_X_f29b4ade/26/480.m3u8
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-alien-romulus-2024-lk21-d21.jpg.webp",Alien: Romulus 2024
+https://stream.hownetwork.xyz/xxx/alien-romulus-2024-bluray_X_31ac9f1d/26/480.m3u8
+
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-something-in-the-water-2024-lk21-d21.jpg.webp", SOMETHING IN THE WATER (2024)
+https://stream.hownetwork.xyz/yyy/something-in-the-water-2024-bluray_X_992af8b2/20/480.m3u8
+
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/10/film-the-lost-cave-of-the-arctic-sea-ji-hai-mi-ku-2024-lk21-d21.jpg.webp", THE LOST CAVE OF THE ARCTIC SEA (2024)
+https://stream.hownetwork.xyz/yyy/the-lost-cave-of-the-arctic-sea-ji-hai-mi-ku-2024-webdl_X_e3949ca9/26/480.m3u8
+
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-maid-droid-origins-2024-lk21-d21.jpg.webp", MAID DROID ORIGINS (2024)
+https://stream.hownetwork.xyz/yyy/maid-droid-origins-2024-webdl_X_941d8853/26/480.m3u8
+
+#EXTINF:0 group-title="Movie 2024" tvg-logo"https://s3.lk21static.buzz/wp-content/uploads/2024/10/film-victory-2024-lk21-d21.jpg.webp", VICTORY (2024)
+https://stream.hownetwork.xyz/yyy/victory-2024-webdl_X_f9d0a4c2/26/480.m3u8
 
 
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/10/film-stream-2024-lk21-d21.jpg.webp", Stream 2024
@@ -2185,6 +2303,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3773be80ee90e014f918f65cd2a7b464:6693b72f37320ab6f27ff7a507f217e6
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
 
 
 
