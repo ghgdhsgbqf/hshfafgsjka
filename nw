@@ -212,8 +212,10 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 
 
 
-
-
+################# test hacking
+#EXTINF:1 group-title="test new hacking ch" tvg-logo="", test sky sport
+#EXTVLCOPT:http-user-agent=OTT Navigator/WaroenkTV.finale (Linux;Android 10)
+http://gcf.nrslist.com:80/TVD053/index.mpd
 
 
 
