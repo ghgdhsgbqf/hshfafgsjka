@@ -495,7 +495,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sport 2",SONY SPORTS TEN 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301& deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 
 
@@ -701,7 +701,7 @@ https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/muslim.png" group-title="RELIGI",MUSLIM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_ty inpe=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
@@ -929,7 +929,7 @@ http://iptv12k.com:35461/live/654321/123456/2337.ts
 http://212.237.231.161:8080/aftab123/004090/302264?token=TxNaVBVQEQgQCQZQBAEGVVBRV1EABgQEUwgNBAUHUwgFVwNTVABRVwUTGRNCEUUBVF85WgJBD1JUAgYHUBsQREdUQGoPXBEIEAQDAQFQFUgXRg9eA0EPUFMDBwdRBQMDBh0QRQ9cEQgQBwMICEcbRlBKElYUDVQNO1RRRw1UVxMOX0dZChQRXVxuUVRcBFkAFwhEAkRPFwgXQBYLCkJeXRgTUFwSSlJGVxMPEwBcAVAXHkRQCRZbFRZJFgsKQl5dGBNXTRJdXUFbXlsTC0dDFxceRFoVPEcEF0RGVAVaV0MWCxAFRBQRX1NJalJeC1kBVkYPXAgQF1tGARYdRlpdX11FXUc5SFpWEAsXAwFdDlEXTw==
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 vietnam
-https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=d30df92066c5c57a78b8bf39e6db4a71&txTime=6740d1fe
+https://lebo.huminbird.cn/live/ballbar_11100.m3u8
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
