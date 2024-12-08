@@ -790,24 +790,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 ####### Sepakbola
 
 
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", Abu dhabi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9A04F079-9840-4286-AB92-E65BE0885F95
-#EXTVLCOPT:http-referrer=https://bittv.duktek.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pop1e5.cdn.intigral-ott.net/bpk-token/2af@mf3nj50suxf31t4gzsl4t01s4fljpl0xmx4so0aa/ADSP1/ADSP1.isml/manifest.mpd
-
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", test vidio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/240p/v-240p-1733277267_25548670000.webm?hdntl=exp=1733317211~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=130684979~data=hdntl~hmac=b96913392ab3a21f67af00616924a93c427612d2226dff78f8021e157794b93e
-
-
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=08aeb06ad2493a176677af9bbca615bd&txTime=674d3a7a
-
+#EXTVLCOPT:http-sec-ch-ua="Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001733664125-0-0-9cb30d3552094dae442decc554a04e31
 
 
 
