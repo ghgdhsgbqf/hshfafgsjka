@@ -1243,7 +1243,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 
 ############################ Movie
 
-EXTINF:0 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeunKo3KmGpq16yjyvUvoaOUvxpCwjmjCeg&s",Sky Movie Premier
+#EXTINF:0 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeunKo3KmGpq16yjyvUvoaOUvxpCwjmjCeg&s",Sky Movie Premier
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://m.waroenktv.uk/live/waroenktv/testdulu/153744.m3u8
