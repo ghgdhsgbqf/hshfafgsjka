@@ -5,7 +5,7 @@
 
 
 
-
+d 
 
 
 
@@ -1942,6 +1942,10 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 
 ########################## VOD Indo
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://bintang.dutamovie21.info/wp-content/uploads/2024/12/43ulUPBjceqtXAWWR02CQZTC5Bc-170x255.jpg", Petrus 2024
+https://stream.dmailapp.site/Petrus_2024.mp4
+
 
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XF_yh7Vlh8VL0pwfBFv3udprFCqyxmbBPlgElC_2Ou6TQbyzxxQ_USU&s=10", Tepatilah Janji 2024
