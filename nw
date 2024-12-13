@@ -961,7 +961,7 @@ http://iptv12k.com:35461/live/654321/123456/2337.ts
 http://212.237.231.161:8080/aftab123/004090/302264?token=TxNaVBVQEQgQCQZQBAEGVVBRV1EABgQEUwgNBAUHUwgFVwNTVABRVwUTGRNCEUUBVF85WgJBD1JUAgYHUBsQREdUQGoPXBEIEAQDAQFQFUgXRg9eA0EPUFMDBwdRBQMDBh0QRQ9cEQgQBwMICEcbRlBKElYUDVQNO1RRRw1UVxMOX0dZChQRXVxuUVRcBFkAFwhEAkRPFwgXQBYLCkJeXRgTUFwSSlJGVxMPEwBcAVAXHkRQCRZbFRZJFgsKQl5dGBNXTRJdXUFbXlsTC0dDFxceRFoVPEcEF0RGVAVaV0MWCxAFRBQRX1NJalJeC1kBVkYPXAgQF1tGARYdRlpdX11FXUc5SFpWEAsXAwFdDlEXTw==
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 vietnam
-https://lebo.huminbird.cn/live/ballbar_11100.m3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d87f84c49af8e55a14cd5dc8dd9245fe&txTime=675c500b
 
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
