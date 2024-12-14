@@ -1,8 +1,10 @@
 ####### Peringatan! 
 #EXTINF:0 group-title="Mohon Maaf" tvg-logo="https://stream.dmailapp.site/stop.png", Peringatan !
-https://host.my-id.id/paket.mp4
-#EXTINF:0 group-title="Terindikasi 2 Device atau lebih" tvg-logo="https://stream.dmailapp.site/stop.png", Peringatan !
-https://host.my-id.id/paket.mp4
+https://host.my-id.id/peringatan.mp4
+#EXTINF:0 group-title="Terindikasi 2 Device" tvg-logo="https://stream.dmailapp.site/stop.png", Peringatan !
+https://host.my-id.id/peringatan.mp4
+#EXTINF:0 group-title="atau lebih" tvg-logo="https://stream.dmailapp.site/stop.png", Peringatan !
+https://host.my-id.id/peringatan.mp4
 
 
 
