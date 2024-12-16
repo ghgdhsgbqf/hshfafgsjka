@@ -25,3 +25,9 @@ https://kametv.my.id/pdx/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://mastertv.tech/logo/lokal/moji.png" group-title="Lokal ID",MOJI HD 
 https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
+
+
+########### FILM MOVIE
+
+#EXTINF:0 group-title="Film Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7smu0oTvZxzWhDe0jIp2RXa4XgKVEyuwrsKwNAZhEj9-nsPjmY8VlMak&s=10", Family Practice 2019
+https://stream.dmailapp.site/family-practice-2019.mp4
