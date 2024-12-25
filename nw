@@ -210,7 +210,11 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 
 
 
+############## Bein Sport
 
+#EXTINF:0 group-title="bein sport" tvg-logo="", Bein Sport Inggris
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; waroenktvfinale)
+https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 
 
 
