@@ -209,9 +209,14 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 
 
 
-#EXTINF:0 group-title="astro" tvg-logo="", Astro
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; waroenktvfinale)
-https://s.waroenktv.uk/d3j4fjrwclc3o8.cloudfront.net/CH1/1721884111837item-07item_Segment-132266959190104.m4a
+
+
+
+
+######## Drama China
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep1
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep1.mp4
+
 
 ############## Bein Sport
 
