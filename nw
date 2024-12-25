@@ -2044,6 +2044,14 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 ########################## VOD Indo
 
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sleDSQy3lQ-6B_C5U3ofMW8bLbqTmI21mxXOwJYx1GEMNpaW6LcXRVU&s=10", Dilan 1983 : Who Ai Ni 2024
+https://stream.dmailapp.site/movie/film%20indo/dilan1983.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYAdJHh8OmJfv-LXvQPMGhT7Qb5udAfIUwF0MhfHMBLss1hyUKvDbtBg&s=10", Terkutuk 2024
+https://stream.dmailapp.site/movie/film%20indo/terkutuk.mp4
+
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo=https://indomax21.com/wp-content/uploads/2024/12/4HCABIOAWJaOE0iASE6K0tAD3g5-170x255.jpg", Catatan Harian Menantu Sinting (2024)
 https://stream.dmailapp.site/movie/catatan-harian-menantu-sinting-2024.mp4
 
