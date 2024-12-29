@@ -207,6 +207,13 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
+################ Persib 
+
+#EXTINF:-0 group-title="Persis Vs Persib" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/79/2024/12/29/Ilustrasi-2-link-live-streaming-Persis-Solo-vs-Persib-Bandung-di-Liga-1-2024-2205888860.jpg",1
+https://bf.kmingjl.cn/live/322667_hd01.m3u8?txSecret=bf60482e0f65a671d515b845cf934718&txTime=677137d3
+
+
+
 
 
 ######## Premium Sport 
