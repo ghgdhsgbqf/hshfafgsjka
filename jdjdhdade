@@ -803,7 +803,6 @@ https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep1.mp4
 
 
 
-
 ############## WeTv
 
 #EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 1A
@@ -839,6 +838,17 @@ https://stream.dmailapp.site/movie/Main_Api_S01_Ep05A.mp4
 #EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 5B
 https://stream.dmailapp.site/movie/Main_Api_S01_Ep05B.mp4
 
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 6A
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep06A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 6B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep06B.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7A
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep07A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep07B.mp4
 
 
 
