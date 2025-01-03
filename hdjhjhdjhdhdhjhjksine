@@ -14,6 +14,12 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:1 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeYLVXkNZal_6m70hU2fhHORoBfgJL_GwfcF9WpPZwC9VVk4L1A7sGUE&s=10", 1. Kang Max From PeeMax HD 2024
+https://stream.dmailapp.site/movie/film%20indo/kangmax.mp4
+
+
+
+
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
 https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=63e45fce3efb0be0f8aa133dcfcadc66&txTime=6724c005
 
