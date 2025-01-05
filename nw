@@ -978,6 +978,9 @@ https://stream.dmailapp.site/movie/Main_Api_S01_Ep07A.mp4
 #EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
 https://stream.dmailapp.site/movie/Main_Api_S01_Ep07B.mp4
 
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep08A.mp4
+
 
 
 
@@ -2692,6 +2695,14 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 
 ########################## VOD Indo
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Poster_Heartbreak_Motel.jpg", Heart Break Motel 2024
+https://stream.dmailapp.site/movie/film%20indo/heartbreakmotel.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f3/Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg", Bu Tejo Sowan Jakarta 2024
+https://stream.dmailapp.site/movie/film%20indo/butejo.mp4
+
 
 
 
