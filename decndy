@@ -207,6 +207,16 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
+################ Persib 
+
+#EXTINF:-0 group-title="Persis Vs Persib" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/79/2024/12/29/Ilustrasi-2-link-live-streaming-Persis-Solo-vs-Persib-Bandung-di-Liga-1-2024-2205888860.jpg",1
+https://bf.kmingjl.cn/live/322667_hd01.m3u8?txSecret=bf60482e0f65a671d515b845cf934718&txTime=677137d3
+
+
+
+
+
+######## Premium Sport 
 
                   ==========PREMIUM SPORT========
 
@@ -800,14 +810,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
-
-
-
-
-
-
-
-
 ######## Drama China
 #EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep1
 https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep1.mp4
@@ -838,6 +840,13 @@ https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep9.mp4
 
 #EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep10
 https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep10.mp4
+
+
+############## Bein Sport
+
+#EXTINF:0 group-title="bein sport" tvg-logo="", Bein Sport Inggris
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; waroenktvfinale)
+https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 
 
 
@@ -969,6 +978,8 @@ https://stream.dmailapp.site/movie/Main_Api_S01_Ep07A.mp4
 #EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
 https://stream.dmailapp.site/movie/Main_Api_S01_Ep07B.mp4
 
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep08A.mp4
 
 
 
@@ -977,8 +988,7 @@ https://stream.dmailapp.site/movie/Main_Api_S01_Ep07B.mp4
 
 
 
-
-
+a
 
 
 
@@ -1611,7 +1621,23 @@ https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1731250529-0-0-991b
 http://iptv12k.com:35461/live/654321/123456/2337.ts
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-https://bf.kmingjl.cn/live/322697_hd01.m3u8?txSecret=7440ea894ebb07ade78b97a2ff255eea&txTime=67680cbe
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8714bafecece3ff156c68fb9af479792&txTime=677991f95WgJBD1JUAgYHUBsQREdUQGoPXBEIEAQDAQFQFUgXRg9eA0EPUFMDAQBUDwoDAh0QRQ9cEQgQAwcHCVMVSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVdBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNUDlAEEEoRBQxADxBCTRNeWUddWB0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVhofEF9QTW5SClkKUFESWgkNRkNeEgUTSBVfXlpYRloUZ0NbVhMPEwBVB1UHEBs=
+
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://212.237.231.161:8080/aftab123/004090/302264?token=TxNaVBVQEQgQAQ0GUFFWVgMAVAdSVlZVBVEAUAAPAgENVAsNUgsDAlcTGRNCEUUBVF85WgJBD1JUAgYHUBsQREdUQGoPXBEIEAQDAQFQFUgXRg9eA0EPUFMDAQBcDgsBDR0QRQ9cEQgQAwUFA1MVSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVdBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNUDlICEEoRBQxADxBCTRNeFXt1Fh0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVhofEF9QTW5SClkKUFESWgkNRkNeEgUTSBVfXlpYRloUZ0NbVhMPEwNVA1QDEBs=
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
 https://gamekabada.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAxMToyMDozMCBBTSZoYXNoX3ZhbHVlPVE5RkVPbkdBOVczQmowUTNhZkmc3RybV9sZW49NQ==
@@ -2670,9 +2696,18 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Poster_Heartbreak_Motel.jpg", Heart Break Motel 2024
+https://stream.dmailapp.site/movie/film%20indo/heartbreakmotel.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f3/Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg", Bu Tejo Sowan Jakarta 2024
+https://stream.dmailapp.site/movie/film%20indo/butejo.mp4
+
+
+
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gnAvPcuOFcA5DMA1VPo59C1Pa4dqnLwjWxtxPfYbrd0bf9cG3gPcLMM&s=10", Dosen Gaib 2024
 https://stream.dmailapp.site/movie/film%20indo/dosengaib.mp4
-
 
 
 
@@ -2681,14 +2716,11 @@ https://stream.dmailapp.site/movie/film%20indo/dosengaib.mp4
 https://stream.dmailapp.site/movie/film%20indo/romeoingkarjanji.mp4
 
 
-
-
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sleDSQy3lQ-6B_C5U3ofMW8bLbqTmI21mxXOwJYx1GEMNpaW6LcXRVU&s=10", Dilan 1983 : Who Ai Ni 2024
 https://stream.dmailapp.site/movie/film%20indo/dilan1983.mp4
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYAdJHh8OmJfv-LXvQPMGhT7Qb5udAfIUwF0MhfHMBLss1hyUKvDbtBg&s=10", Terkutuk 2024
 https://stream.dmailapp.site/movie/film%20indo/terkutuk.mp4
-
 
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo=https://indomax21.com/wp-content/uploads/2024/12/4HCABIOAWJaOE0iASE6K0tAD3g5-170x255.jpg", Catatan Harian Menantu Sinting (2024)
@@ -3041,6 +3073,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3773be80ee90e014f918f65cd2a7b464:6693b72f37320ab6f27ff7a507f217e6
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
 
 
 
