@@ -1,10 +1,3 @@
-#EXTINF:-0 group-title="Persis Vs Persib" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/79/2024/12/29/Ilustrasi-2-link-live-streaming-Persis-Solo-vs-Persib-Bandung-di-Liga-1-2024-2205888860.jpg",1
-https://bf.kmingjl.cn/live/322667_hd01.m3u8?txSecret=bf60482e0f65a671d515b845cf934718&txTime=677137d3
-
-
-
-
-
 
 
 
@@ -214,7 +207,16 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
+################ Persib 
 
+#EXTINF:-0 group-title="Bali Vs Persib" tvg-logo="https://cdn1-production-images-kly.akamaized.net/KQGLrIpQSvVxqa_HPlzBXKAQ6as=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5027095/original/077936500_1732799000-BRI_Liga_1_-_Bali_United_Vs_Persib_Bandung.jpg",1
+https://bf.kmingjl.cn/live/322667_hd01.m3u8?txSecret=59d7a336cbd3dbac35a6d6d17f9a0895&txTime=677d17c5
+
+
+
+
+
+######## Premium Sport 
 
                   ==========PREMIUM SPORT========
 
@@ -808,10 +810,49 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
+######## Drama China
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep1
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep1.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep2
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep2.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep3
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep3.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep4
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep4.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep5
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep5.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep6
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep6.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep7
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep7.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep8
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep8.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep9
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep9.mp4
+
+#EXTINF:0 group-title="Ms. Nirvana" tvg-logo="https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/iovt296qh3nr0j71734521327788/0", MS. Nirvana S1 Ep10
+https://stream.dmailapp.site/movie/ms%20nirvana%20season%201/ep10.mp4
+
+
+############## Bein Sport
+
+#EXTINF:0 group-title="bein sport" tvg-logo="", Bein Sport Inggris
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; waroenktvfinale)
+https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 
 
 
-##################### bri liga 1 
+
+
+############## BRI LIGA 1
 
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Bri Liga 1"",INDOSIAR-HD(pft)televizo
@@ -842,7 +883,6 @@ http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
 http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Bri Liga 1"",Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
 
 
 
@@ -920,12 +960,35 @@ https://stream.dmailapp.site/movie/Main_Api_S01_Ep04A.mp4
 #EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 4B
 https://stream.dmailapp.site/movie/Main_Api_S01_Ep04B.mp4
 
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 5A
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep05A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 5B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep05B.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 6A
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep06A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 6B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep06B.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7A
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep07A.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep07B.mp4
+
+#EXTINF:1 group-title="Wetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHvG1XtKU476T-0T7czoONiemjBy5XYVdqQ&usqp=CAU", Main Api Ep 7B
+https://stream.dmailapp.site/movie/Main_Api_S01_Ep08A.mp4
 
 
 
 
 
 
+
+
+a
 
 
 
@@ -1143,7 +1206,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sport 2",SONY SPORTS TEN 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301& deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 
 
@@ -1349,7 +1412,7 @@ https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mastertv.tech/logo/religi/muslim.png" group-title="RELIGI",MUSLIM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_ty inpe=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
@@ -1438,24 +1501,10 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731443558/ei/B
 ####### Sepakbola
 
 
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", Abu dhabi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9A04F079-9840-4286-AB92-E65BE0885F95
-#EXTVLCOPT:http-referrer=https://bittv.duktek.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pop1e5.cdn.intigral-ott.net/bpk-token/2af@mf3nj50suxf31t4gzsl4t01s4fljpl0xmx4so0aa/ADSP1/ADSP1.isml/manifest.mpd
-
-#EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", test vidio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/240p/v-240p-1733277267_25548670000.webm?hdntl=exp=1733317211~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=130684979~data=hdntl~hmac=b96913392ab3a21f67af00616924a93c427612d2226dff78f8021e157794b93e
-
-
 
 #EXTINF:0 group-title="Live Sepak Bola" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2HWCjv4xJv69IKTKqeHSciSayYSR9Qo8yc-Sx2Sakr1Auk2l8Mumoew&s=10", 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=08aeb06ad2493a176677af9bbca615bd&txTime=674d3a7a
-
+#EXTVLCOPT:http-user-agent="Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001733664125-0-0-9cb30d3552094dae442decc554a04e31
 
 
 
@@ -1572,10 +1621,23 @@ https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1731250529-0-0-991b
 http://iptv12k.com:35461/live/654321/123456/2337.ts
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1
-https://bf.shandongjnsd.com/live/322657_hd01.m3u8?txSecret=2c93d3888cdeaa879581e2fb86edd4c8&txTime=67408139
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8714bafecece3ff156c68fb9af479792&txTime=677991f95WgJBD1JUAgYHUBsQREdUQGoPXBEIEAQDAQFQFUgXRg9eA0EPUFMDAQBUDwoDAh0QRQ9cEQgQAwcHCVMVSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVdBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNUDlAEEEoRBQxADxBCTRNeWUddWB0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVhofEF9QTW5SClkKUFESWgkNRkNeEgUTSBVfXlpYRloUZ0NbVhMPEwBVB1UHEBs=
 
-#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 vietnam
-https://lebo.huminbird.cn/live/ballbar_11100.m3u8
+
+#EXTINF:0 group-title="Live Event" tvg-logo="https://cdn0-production-images-kly.akamaized.net/ltyaFDvsXd5wWnnml0wgT3tNpqE=/0x157:720x563/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3536966/original/096887200_1628605810-Liga_1_-_Ilustrasi_BRI_Liga_1.jpg",BRI Liga 1 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.1.5 (Linux;Android 10; r7llf8)
+http://212.237.231.161:8080/aftab123/004090/302264?token=TxNaVBVQEQgQAQ0GUFFWVgMAVAdSVlZVBVEAUAAPAgENVAsNUgsDAlcTGRNCEUUBVF85WgJBD1JUAgYHUBsQREdUQGoPXBEIEAQDAQFQFUgXRg9eA0EPUFMDAQBcDgsBDR0QRQ9cEQgQAwUFA1MVSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVdBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNUDlICEEoRBQxADxBCTRNeFXt1Fh0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVhofEF9QTW5SClkKUFESWgkNRkNeEgUTSBVfXlpYRloUZ0NbVhMPEwNVA1QDEBs=
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/150px-Serie_A_logo_2022.svg.png", Liga Italy
 https://gamekabada.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAxMToyMDozMCBBTSZoYXNoX3ZhbHVlPVE5RkVPbkdBOVczQmowUTNhZkmc3RybV9sZW49NQ==
@@ -1887,6 +1949,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 
 
 ############################ Movie
+
+#EXTINF:0 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeunKo3KmGpq16yjyvUvoaOUvxpCwjmjCeg&s",Sky Movie Premier
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://m.waroenktv.uk/live/waroenktv/testdulu/153744.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
@@ -2629,8 +2696,44 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 ########################## VOD Indo
 
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Poster_Heartbreak_Motel.jpg", Heart Break Motel 2024
+https://stream.dmailapp.site/movie/film%20indo/heartbreakmotel.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f3/Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg", Bu Tejo Sowan Jakarta 2024
+https://stream.dmailapp.site/movie/film%20indo/butejo.mp4
+
+
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gnAvPcuOFcA5DMA1VPo59C1Pa4dqnLwjWxtxPfYbrd0bf9cG3gPcLMM&s=10", Dosen Gaib 2024
+https://stream.dmailapp.site/movie/film%20indo/dosengaib.mp4
+
+
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyfRrZALtY-Bebrgahk1pJ4uCRVUTKReM3gTL7bS4P7iAs9-mNJJbgCQ&s=10", Romeo Ingkar Janji 2024
+https://stream.dmailapp.site/movie/film%20indo/romeoingkarjanji.mp4
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sleDSQy3lQ-6B_C5U3ofMW8bLbqTmI21mxXOwJYx1GEMNpaW6LcXRVU&s=10", Dilan 1983 : Who Ai Ni 2024
+https://stream.dmailapp.site/movie/film%20indo/dilan1983.mp4
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYAdJHh8OmJfv-LXvQPMGhT7Qb5udAfIUwF0MhfHMBLss1hyUKvDbtBg&s=10", Terkutuk 2024
+https://stream.dmailapp.site/movie/film%20indo/terkutuk.mp4
+
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo=https://indomax21.com/wp-content/uploads/2024/12/4HCABIOAWJaOE0iASE6K0tAD3g5-170x255.jpg", Catatan Harian Menantu Sinting (2024)
 https://stream.dmailapp.site/movie/catatan-harian-menantu-sinting-2024.mp4
+
+
+
+
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://bintang.dutamovie21.info/wp-content/uploads/2024/12/43ulUPBjceqtXAWWR02CQZTC5Bc-170x255.jpg", Petrus 2024
+https://stream.dmailapp.site/Petrus_2024.mp4
+
+
+
 
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://static.promediateknologi.id/crop/108x69:974x629/0x0/webp/photo/p3/36/2024/02/12/munkar-783434009.jpg", Munkar 2024
 https://host.my-id.id/movie%20indo/Munkar_2024_HD.mp4
@@ -2669,8 +2772,9 @@ https://host.my-id.id/movie%20indo/Nonton%20Pasutri%20Gaje%20Subtitle%20Indonesi
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg", 1 Vina : Sebelum 7 Hari
 https://host.my-id.id/movie%20indo/Vina%20Sebelum%207%20Hari%20Film%202024%20HDTS.mp4
 
-#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeYLVXkNZal_6m70hU2fhHORoBfgJL_GwfcF9WpPZwC9VVk4L1A7sGUE&s=10", 1. Kang Max From PeeMax CAM 2024
-https://host.my-id.id/movie%20indo/Layarxxi.pw.Kang.Mak.from.Pee.Mak.2024.CAM.720p.x264.mp4
+#EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeYLVXkNZal_6m70hU2fhHORoBfgJL_GwfcF9WpPZwC9VVk4L1A7sGUE&s=10", 1. Kang Max From PeeMax HD 2024
+https://stream.dmailapp.site/movie/film%20indo/kangmax.mp4
+
 #EXTINF:0 group-title="Film Indo Terbaru" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Poster_Gampang_Cuan.jpg", Gampang Cuan
 https://host.my-id.id/movie%20indo/dmovie212%20gampang%20cuan.mp4
 
@@ -2969,7 +3073,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3773be80ee90e014f918f65cd2a7b464:6693b72f37320ab6f27ff7a507f217e6
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
 
 
 
