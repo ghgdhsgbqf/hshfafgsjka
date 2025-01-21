@@ -207,10 +207,61 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
-################ Persib 
 
-#EXTINF:-0 group-title="Persis Vs Persib" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/79/2024/12/29/Ilustrasi-2-link-live-streaming-Persis-Solo-vs-Persib-Bandung-di-Liga-1-2024-2205888860.jpg",1
-https://bf.kmingjl.cn/live/322667_hd01.m3u8?txSecret=bf60482e0f65a671d515b845cf934718&txTime=677137d3
+
+
+
+
+
+
+
+
+
+
+
+
+
+######Series
+
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", 0 Prolog
+https://stream.dmailapp.site/movie/series/moonlight/01prolog.mp4
+
+
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep01
+https://stream.dmailapp.site/movie/series/moonlight/ep1.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep02
+https://stream.dmailapp.site/movie/series/moonlight/ep2.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep03
+https://stream.dmailapp.site/movie/series/moonlight/ep3.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep04
+https://stream.dmailapp.site/movie/series/moonlight/ep4.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep05
+https://stream.dmailapp.site/movie/series/moonlight/ep5.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep06
+https://stream.dmailapp.site/movie/series/moonlight/ep6.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep07
+https://stream.dmailapp.site/movie/series/moonlight/ep7.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep08
+https://stream.dmailapp.site/movie/series/moonlight/ep8.mp4
+
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep09
+https://stream.dmailapp.site/movie/series/moonlight/ep9.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep10
+https://stream.dmailapp.site/movie/series/moonlight/ep10.mp4
+
+
+
 
 
 
