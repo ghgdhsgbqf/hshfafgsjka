@@ -191,8 +191,58 @@
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3000000,BANDWIDTH=4000000,RESOLUTION=1280x720,FRAME-RATE=30.000,CLOSED-CAPTIONS=NONE
 https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 
-#EXTINF:0, Paket Tinggal 1 Hari
+#EXTINF:0, group-title="Paket Tinggal 1 Hari", segera aktivasi
 https://google.com/
+
+
+
+
+######Series
+
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", 0 Prolog
+https://stream.dmailapp.site/movie/series/moonlight/01prolog.mp4
+
+
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep01
+https://stream.dmailapp.site/movie/series/moonlight/ep1.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep02
+https://stream.dmailapp.site/movie/series/moonlight/ep2.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep03
+https://stream.dmailapp.site/movie/series/moonlight/ep3.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep04
+https://stream.dmailapp.site/movie/series/moonlight/ep4.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep05
+https://stream.dmailapp.site/movie/series/moonlight/ep5.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep06
+https://stream.dmailapp.site/movie/series/moonlight/ep6.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep07
+https://stream.dmailapp.site/movie/series/moonlight/ep7.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep08
+https://stream.dmailapp.site/movie/series/moonlight/ep8.mp4
+
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep09
+https://stream.dmailapp.site/movie/series/moonlight/ep9.mp4
+
+#EXTINF:1 group-title="Moonlight Mystique (2025) ‐ Season 1" tvg-logo="https://pic9.iqiyipic.com/image/20250108/3b/35/a_100563314_m_601_en_m1_1080_608.jpg", Ep10
+https://stream.dmailapp.site/movie/series/moonlight/ep10.mp4
+
+
+
+
+
+
+
+
 
 
 
