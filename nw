@@ -1407,9 +1407,7 @@ https://ff.wcup.futbol/live.m3u8
 ################# Liga Inggris
 
 #EXTINF:1 group-title="Liga Inggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwt5zc7YHUybr6zsGgGw_kPrgIOynCXAwQ&usqp=CAU", Sky Premier League
-#EXTVLCOPT:http-user-agent=OTT Navigator/WaroenkTV.finale (Linux;Android 10)
-http://gcf.nrslist.com:80/TVD053/index.mpd
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18293/master.m3u8?hdnts=exp=1739455033~acl=/live/18293/master.m3u8!/hls-p/ingest_18293*/*!/hls-b/ingest_18293*/*~id=130684979~hmac=ed11fa62ffc3bb3830db338453f500c82ebbce7ce19a257b0bb8f2c69c0e6ce1
 
 #EXTINF:1 group-title="Liga Inggris" tvg-logo="https://ugandamovieshub.com/upload/premier-league-1.png", Supersport Premier League
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
