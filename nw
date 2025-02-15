@@ -225,7 +225,7 @@ https://ddy6.iosplayer.ru/tshttp/ddy6/premium414/mono.m3u8?token=none
 
 ######city
 #EXTINF:0 group-title="city", city
-https://fc.wcup.one/271-360.m3u8
+https://ff.wcup.futbol/271-480.m3u8
 
 
 
@@ -1409,7 +1409,7 @@ https://ff.wcup.futbol/live.m3u8
 ################# Liga Inggris
 
 #EXTINF:1 group-title="Liga Inggris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwt5zc7YHUybr6zsGgGw_kPrgIOynCXAwQ&usqp=CAU", Sky Premier League
-https://fc.wcup.one/271-360.m3u8
+https://ff.wcup.futbol/271-480.m3u8
 
 ################ Netflix Series 
 
@@ -1513,7 +1513,7 @@ https://stream.dmailapp.site/movie/Main_Api_S01_Ep10B.mp4
 
 
 
-a
+
 
 
 
