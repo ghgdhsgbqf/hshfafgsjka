@@ -1015,7 +1015,7 @@ https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 ############## BRI LIGA 1
 
 
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/53/1/bri-liga-1-logo-png_seeklogo-534135.png" group-title="Bri Liga 1"",Liga 1 Match
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNxvxQAA8OesmUpFQnfvR13D7O4zr2yb8MQ&usqp=CAU" group-title="Bri Liga 1"",Liga 1 Match
 https://ff.wcup.futbol/live.m3u8
 
 
@@ -1378,7 +1378,7 @@ https://fc.wcup.one/2239-360.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal ID",Indosiar (Live Soccer)
-https://hls.uouetrq19.com/live/sd-6MsDBFVsHrn8D6zaWK.m3u8?txSecret=cfd304db262920c3d96ca8c0a17beedc&txTime=67B1D2CD
+https://ff.wcup.futbol/live.m3u8
 
 
 
