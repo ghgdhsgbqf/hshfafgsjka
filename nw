@@ -1016,11 +1016,10 @@ https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNxvxQAA8OesmUpFQnfvR13D7O4zr2yb8MQ&usqp=CAU" group-title="Bri Liga 1"",Liga 1 Match
-https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=30edabb91d6d5ac16cfa13f41f0caef9&txTime=67b9c160
+https://hls.uouetrq19.com/live/sd-6MsDBFVs8A77QHVyEo.m3u8?txSecret=5e72b3ae16a637da3a58fce349081f54&txTime=67BB0CD1
 
 #EXTINF:-1 group-title="Bri Liga 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
-https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=30edabb91d6d5ac16cfa13f41f0caef9&txTime=67b9c160
-
+https://hls.uouetrq19.com/live/sd-6MsDBFVs8A77QHVyEo.m3u8?txSecret=5e72b3ae16a637da3a58fce349081f54&txTime=67BB0CD1
 
 
 
@@ -1383,11 +1382,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=30edabb91d6d5ac16cfa13f41f0caef9&txTime=67b9c160
 
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR Liga 1
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-https://gasruktv.my.id/asx/live.mpd?id=17623
+https://hls.uouetrq19.com/live/sd-6MsDBFVs8A77QHVyEo.m3u8?txSecret=5e72b3ae16a637da3a58fce349081f54&txTime=67BB0CD1
 
 
 
