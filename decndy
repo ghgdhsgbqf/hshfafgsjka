@@ -1016,14 +1016,10 @@ https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNxvxQAA8OesmUpFQnfvR13D7O4zr2yb8MQ&usqp=CAU" group-title="Bri Liga 1"",Liga 1 Match
-https://ff.wcup.futbol/live.m3u8
+https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=30edabb91d6d5ac16cfa13f41f0caef9&txTime=67b9c160
 
 #EXTINF:-1 group-title="Bri Liga 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-https://gasruktv.my.id/asx/live.mpd?id=17623
+https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=30edabb91d6d5ac16cfa13f41f0caef9&txTime=67b9c160
 
 
 
@@ -2669,5 +2665,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/01/Saving.Biki
 
 #EXTINF:0 group-title="Movie 2024" tvg-logo="https://i0.wp.com/senatorpeters.com/wp-content/uploads/2024/08/wWWlclyWf4PLq9hOf8X5joVEJ6r.jpg?resize=60%2C90&ssl=1",Jackpot! (2024)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/09/Jackpot.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
