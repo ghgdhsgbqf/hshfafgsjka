@@ -1016,10 +1016,10 @@ https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNxvxQAA8OesmUpFQnfvR13D7O4zr2yb8MQ&usqp=CAU" group-title="Bri Liga 1"",Liga 1 Match
-https://bf.shandongjnkt.cn/live/322708_hd01.m3u8?txSecret=a211bdb1fe639055c75a53820e2d8877&txTime=67badc5d
+https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=34cc32df0f615263d2bf8117417aeeae&txTime=67bb0c84
 
 #EXTINF:-1 group-title="Bri Liga 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
-https://bf.shandongjnkt.cn/live/322708_hd01.m3u8?txSecret=a211bdb1fe639055c75a53820e2d8877&txTime=67badc5d
+https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=34cc32df0f615263d2bf8117417aeeae&txTime=67bb0c84
 
 
 ################# Liga Inggris
@@ -1378,11 +1378,10 @@ https://fc.wcup.one/2239-360.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal ID",Indosiar (Live Soccer)
-https://bf.shandongjnkt.cn/live/322708_hd01.m3u8?txSecret=a211bdb1fe639055c75a53820e2d8877&txTime=67badc5d
+https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=34cc32df0f615263d2bf8117417aeeae&txTime=67bb0c84
 
 #EXTINF:0 group-title="Lokal ID" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR Liga 1
-https://bf.shandongjnkt.cn/live/322708_hd01.m3u8?txSecret=a211bdb1fe639055c75a53820e2d8877&txTime=67badc5d
-
+https://bf.shandongjnkt.cn/live/322667_hd01.m3u8?txSecret=34cc32df0f615263d2bf8117417aeeae&txTime=67bb0c84
 
 
 
