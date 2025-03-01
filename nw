@@ -1021,7 +1021,9 @@ https://m.waroenktv.uk/live/premium/adamaling/26.m3u8
 https://bf.shandongjnkt.cn/live/322659_hd01.m3u8?txSecret=c186e06931d153b5cf7b536d84679dbd&txTime=67bc334d
 
 #EXTINF:-1 group-title="Bri Liga 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://fc.wcup.one/live.m3u8
+
 
 ################# Liga Inggris
 
