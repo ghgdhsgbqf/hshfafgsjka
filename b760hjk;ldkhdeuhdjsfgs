@@ -1,5 +1,13 @@
 #EXTM3U
 
+EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNxvxQAA8OesmUpFQnfvR13D7O4zr2yb8MQ&usqp=CAU" group-title="Bri Liga 1"",Liga 1 Match
+https://bf.shandongjnkt.cn/live/322693_hd01.m3u8?txSecret=d2b42bba7dc3fae075d9b806dc98a500&txTime=67c307f7
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" group-title="Indonesia",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
