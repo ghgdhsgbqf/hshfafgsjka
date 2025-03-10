@@ -160,6 +160,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
+#EXTINF:0 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="DTV | Doni TV",Indosiar Persib
+https://bf.shandongjnkt.com/live/322693_hd01.m3u8?txSecret=f68d1aa832ffbc4a719017e86398df59&txTime=67ceee05
+
+
+
+
 #EXTINF:0  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="DTV | Doni TV",RCTI Vision
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
